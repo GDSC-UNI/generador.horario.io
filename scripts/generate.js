@@ -252,7 +252,7 @@ function crearLineaCursos(arrCursos, dataTable){
 }
 
 function generateSchedule(lineaDeEntrada) {
-    fetch("https://gdsc-uni.github.io/generador.horario.io/JSON/horarios.json")
+    fetch("https://gdsc-uni.github.io/generador.horario.io/JSON/horarioUltimo.json")
     .then(response => response.json())
     .then(data => {
         let dataHorario = data;
