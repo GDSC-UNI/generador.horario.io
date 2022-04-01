@@ -1,5 +1,5 @@
 const filter = (ciclo) => {
-    fetch("../JSON/horarios.json")
+    fetch("https://gdsc-uni.github.io/generador.horario.io/JSON/horarios.json")
     .then(response => response.json())
     .then(data => {
         
