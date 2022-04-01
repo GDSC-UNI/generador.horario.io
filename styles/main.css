@@ -1,0 +1,263 @@
+:root {
+  --color-blue: #4286f5;
+  --color-green: #109d58;
+  --color-red: #ea4235;
+  --color-yellow: #fabd03;
+  --color-black: #484a52;
+  --color-scrollbar-background: #f3f2f7;
+
+  /* Tags Inputs (Chips) */
+  /* --purple: #e41b6f; */
+  --purple: #ef5350;
+  --off-white: #f8f8f8;
+  --off-black: #444444;
+  --shadow: 0 0 30px #cccccc;
+  --xs: 0.2rem;
+  --sm: 0.5rem;
+  --md: 0.8rem;
+  --lg: 1rem;
+  --xlg: 0.5rem;
+  --xxlg: 2rem;
+  --transition: 0.3s linear all;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar,
+::-webkit-scrollbar-track {
+  background: var(--color-green);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-green);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar,
+::-webkit-scrollbar-track {
+  background: var(--color-scrollbar-background);
+}
+
+nav {
+  background-color: var(--color-blue);
+}
+
+nav img {
+  border-radius: 50%;
+}
+
+span {
+  margin-left: 12px;
+  color: var(--color-black);
+  font-weight: 600;
+}
+
+.navbar-toggler {
+  color: var(--color-yellow);
+}
+
+.navbar-nav {
+  text-align: center;
+}
+
+.box {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.container-schema {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+}
+
+.main {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+}
+
+form {
+  /* box-shadow: var(--shadow); */
+  border-radius: 2px;
+  display: grid;
+  grid-template-columns: 1fr;
+  row-gap: var(--lg);
+  padding: var(--xlg) var(--xxlg);
+  width: 100%;
+}
+
+.input-container {
+  display: grid;
+  grid-template-columns: 1fr 0.3fr;
+  column-gap: var(--lg);
+  row-gap: var(--sm);
+}
+
+input#input {
+  border: 1px solid var(--purple);
+  outline-color: var(--purple);
+  padding: var(--sm);
+}
+
+button#add-button {
+  background-color: var(--purple);
+  color: var(--off-white);
+  border: none;
+  border-radius: 2px;
+  cursor: pointer;
+  outline: none;
+  transition: var(--transition);
+}
+
+button#add-button:hover {
+  background-color: #ef5350;
+}
+
+.tag-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.tag {
+  background-color: var(--purple);
+  border-radius: 10px;
+  color: var(--off-white);
+  font-size: var(--md);
+  margin-bottom: var(--sm);
+  margin-right: var(--sm);
+  padding: var(--xs) var(--sm);
+}
+
+.remove-tag {
+  cursor: pointer;
+  margin-left: 5px;
+}
+
+.modal-backdrop {
+  z-index: 100;
+}
+
+.container-search {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+}
+
+.container-search .col-search {
+  width: 100%;
+  padding: 10px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+#generate {
+  color: white;
+}
+
+.table-responsive {
+  max-height: 400px;
+  text-align: center;
+}
+
+.dtHorizontalExampleWrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+
+#myTable th,
+td {
+  white-space: nowrap;
+}
+
+thead th {
+  position: sticky;
+  top: 0;
+  background: whitesmoke;
+  z-index: 5;
+}
+
+thead th:nth-child(1) {
+  position: sticky;
+  left: 0;
+  background: white;
+  z-index: 6;
+}
+
+thead th:last-child {
+  position: sticky;
+  right: 0;
+  background: white;
+  z-index: 5;
+}
+
+tbody td:nth-child(1) {
+  position: sticky;
+  left: 0;
+  background: white !important;
+  z-index: 3;
+}
+
+tbody td:nth-child(2) {
+  background: #f5f5f5 !important;
+}
+
+tbody td:nth-child(9) {
+  position: sticky !important;
+  right: 0;
+  background: white;
+  z-index: 3;
+}
+
+@media (max-width: 988px) {
+  .box {
+    justify-content: center;
+  }
+
+  .container-schema {
+    justify-content: center;
+  }
+
+  .container-search {
+    display: inline;
+  }
+
+  .container-search .col-search {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  form {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .main {
+    justify-content: flex-start;
+    margin: var(--lg) 0;
+  }
+
+  form {
+    display: flex;
+    flex-direction: column;
+    /* height: 100%; */
+  }
+
+  .input-container {
+    grid-template-columns: 1fr;
+  }
+
+  button#add-button {
+    padding: var(--sm) 0;
+  }
+}
