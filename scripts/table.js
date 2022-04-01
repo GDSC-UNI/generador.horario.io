@@ -1,6 +1,6 @@
 $(document).ready(function() {
     $('#myTable').DataTable( {
-        "ajax": '../JSON/horarios.json',
+        "ajax": 'https://gdsc-uni.github.io/generador.horario.io/JSON/horarios.json',
         searching: false,
         paging: false,
         info: false, 
