@@ -24,15 +24,15 @@ const filter = (ciclo) => {
 }
 
 
-const button = document.querySelector("#addCourse");
-const dataListCycle = document.querySelector("#dataListCycle");
-const course = document.querySelector("#course");
+// const button = document.querySelector("#addCourse");
+// const dataListCycle = document.querySelector("#dataListCycle");
+// const course = document.querySelector("#course");
 
-const selectCourse = (e) => {
-    e.preventDefault();
-    course.textContent = dataListCycle.value;
+// const selectCourse = (e) => {
+//     e.preventDefault();
+//     course.textContent = dataListCycle.value;
     
-    filter(dataListCycle.value);
-}
+//     filter(dataListCycle.value);
+// }
 
-button.addEventListener("click", selectCourse);
+// button.addEventListener("click", selectCourse);
