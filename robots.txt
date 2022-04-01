@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /
+Disallow: /*.css$
+Disallow: /*.js$
+Disallow: /images/
+Disallow: /JSON/
+
+
+#Google Developer Student Club
+
+
