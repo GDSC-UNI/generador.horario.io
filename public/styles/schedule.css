@@ -1,0 +1,120 @@
+.calendar_main {
+  border: 1px solid rgb(192, 192, 192);
+  font-size: 13px;
+}
+
+table {
+  clear: none;
+  text-indent: initial;
+  display: table;
+  /* border-spacing: 2px; */
+  border-color: grey;
+}
+
+tbody {
+  display: table-row-group;
+  vertical-align: middle;
+  border-color: inherit;
+}
+
+tr {
+  display: table-row;
+  vertical-align: inherit;
+  border-color: inherit;
+}
+
+.calendar_corner_inner {
+  position: absolute;
+  inset: 0px;
+  border-right: 1px solid rgb(192, 192, 192);
+  border-bottom: 1px solid rgb(192, 192, 192);
+  color: rgb(51, 51, 51);
+  background: rgb(243, 243, 243);
+}
+
+.calendar_colheader_inner {
+  position: absolute;
+  inset: 0px;
+  border-right: 1px solid rgb(192, 192, 192);
+  border-bottom: 1px solid rgb(192, 192, 192);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 13px;
+  color: rgb(51, 51, 51);
+  background: rgb(243, 243, 243);
+}
+
+.calendar_cornerright_inner {
+  position: absolute;
+  inset: 0px;
+  border-bottom: 1px solid rgb(192, 192, 192);
+  color: rgb(51, 51, 51);
+  background: rgb(243, 243, 243);
+}
+
+td {
+  display: table-cell;
+  vertical-align: inherit;
+}
+
+.paint_cell {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+}
+
+.calendar_rowheader_inner {
+  font-size: 16pt;
+  text-align: right;
+  position: absolute;
+  inset: 0px;
+  border-right: 1px solid rgb(192, 192, 192);
+  border-bottom: 1px solid rgb(192, 192, 192);
+  padding: 3px;
+
+  color: rgb(51, 51, 51);
+  background: rgb(243, 243, 243);
+}
+
+.calendar_rowheader_minutes {
+  font-size: 10px;
+  vertical-align: super;
+  padding-left: 2px;
+  padding-right: 2px;
+}
+
+.calendar_cell_inner {
+  position: absolute;
+  inset: 0px;
+  border-right: 1px solid rgb(221, 221, 221);
+  border-bottom: 1px solid rgb(221, 221, 221);
+  background: rgb(249, 249, 249);
+}
+
+.calendar_event_inner {
+  position: absolute;
+  overflow: hidden;
+  inset: 0px;
+  padding: 2px 2px 2px 8px;
+  font-size: 13px;
+
+  background: -webkit-linear-gradient(
+    top,
+    rgb(255, 255, 255) 0%,
+    rgb(238, 238, 238)
+  );
+}
+
+.calendar_event_bar {
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  width: 6px;
+  background-color: rgb(157, 200, 232);
+}
+
+.calendar_event_bar_inner {
+  position: absolute;
+  width: 6px;
+  background-color: rgb(16, 102, 168);
+}
