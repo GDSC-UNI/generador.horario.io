@@ -252,7 +252,7 @@
                             <td>
                               <div class="calendar_cornerright" style="
                                     position: relative;
-                                    width: 6px;
+                                    width: 0px;
                                     height: 30px;
                                   ">
                                 <div class="calendar_cornerright_inner"></div>
@@ -262,9 +262,7 @@
                         </tbody>
                       </table>
                     </div>
-                    <div style="
-                          height: 540px;
-                          overflow: auto;
+                    <div id="content_schelude_main" style="
                           position: relative;
                           zoom: 1;
                         ">
@@ -321,7 +319,7 @@
                 <button type="button" class="btn btn-secondary btnclose" data-bs-dismiss="modal">
                   Cerrar
                 </button>
-                <button type="button" class="btn btn-primary">PDF</button>
+                <button type="button" class="btn btn-primary" id="pdf_generate">PDF</button>
               </div>
             </div>
           </div>
@@ -368,6 +366,11 @@
   <script type="text/javascript" src="./scripts/filter.js"></script>
 
   <script type="text/javascript" src="./scripts/dataTables.rowsGroup.js"></script>
+
+  <script src="./scripts/pdf/jspdf.debug.js"></script>
+  <script src="./scripts/pdf/html2canvas.min.js"></script>
+  <script src="./scripts/pdf/html2pdf.min.js"></script>
+
 </body>
 
 </html>
