@@ -243,7 +243,7 @@ tbody td:nth-child(9) {
 
 @media screen and (max-width: 1600px) {
   body{
-    background-position: 50% -65%;
+    background-position: 50% -75%;
   }
 }
 
@@ -274,7 +274,7 @@ tbody td:nth-child(9) {
 @media screen and (max-width: 480px) {
 
   body{
-    background-position: 0% -55%;
+    background-position: 0% -65%;
   }
 
   .navbar-collapse {
