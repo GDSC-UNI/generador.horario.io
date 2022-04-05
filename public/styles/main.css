@@ -1,8 +1,8 @@
 :root {
-  --color-blue: #90CAF9;
-  --color-green: #4CAF50;
-  --color-red: #F44336;
-  --color-yellow: #FFC107;
+  --color-blue: #4286f5;
+  --color-green: #109d58;
+  --color-red: #ea4235;
+  --color-yellow: #fabd03;
   --color-black: #484a52;
   --color-scrollbar-background: #f3f2f7;
 
@@ -19,7 +19,6 @@
   --xlg: 0.5rem;
   --xxlg: 2rem;
   --transition: 0.3s linear all;
-  font-family: google-sans;
 }
 
 ::-webkit-scrollbar {
@@ -47,30 +46,39 @@
   src: url(../font/google-font.woff2);
   font-display: swap;
 }
+
 body{
   font-family: google-sans;
+  background-image: url("../images/card-review-process.png");
+  background-repeat: no-repeat;
+  background-position: 0% -35%;
 }
 
 nav {
   background-color: #fefefe;
   height: 80px;
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
-
+  box-shadow: 0px 4px 4px rgb(0 0 0 / 10%);
 }
 
 nav img {
-  border-radius: 100%;
+  border-radius: 50%;
 }
 
-span {
+nav span {
   color: rgb(0,0,0,.54);
   font-weight: 600;
   font-size: 110%;
   text-align: center;
 }
-nav div div span:hover{
+
+.navbar-brand {
+  white-space: nowrap;
+}
+
+.navbar-nav a span:hover {
   color: #42A5F5;
 }
+
 .navbar-toggler {
   color: var(--color-yellow);
 }
@@ -78,105 +86,7 @@ nav div div span:hover{
 .navbar-nav {
   text-align: center;
 }
-.navbar-name{
-  vertical-align: middle;
-}
 
-/* texto-body */
-.col-md-7 h1{
-  padding-left: 3%;
-  margin-top:3.5rem;
-  font-size: 2rem;
-  font-weight: bold;
-  color: rgb(8,8,53);
-}
-.col-md-7 p{
-  padding-left: 4%;
-  font-size: 1.2rem;
-}
-.col-md-5 img{
-  padding-left: 10%;
-  width: 340px;
-}
-.btn-body{
-  border:none;
-  outline: none;
-  background-color: blue;
-}
-@media screen and (max-width: 768px){
-  .btn-body{
-    border: none;
-    outline: none;
-    color:  #EA4335;
-    background-color: #fff;
-    cursor:pointer;
-    font-size: 1rem;
-    font-weight: 500;
-    margin-top: 20px;
-    padding: 6px 20px;
-    border-radius: 30px;
-    border: 2px solid  #EA4335;
-  }
-  button a{
-    text-decoration: none;
-    color: none;
-  }
-  .btn-body:hover{
-    color: #fff !important;
-    background: rgb(224,67,54);
-  }
-  .navbar-name{
-    font-size: 110%;
-    vertical-align: middle;
-  }
-  .color{
-    background-color: #ECF0F1;
-  }
-}
-
-@media screen and (min-width:768px) {
-  .caja{
-    background-image: url("../images/card-review-process.png");
-    background-repeat: no-repeat;
-  }
-  .col-md-7{
-    padding-left:5%;
-  }
-  .col-md-7 h1{
-    margin-top:3.5rem;
-    font-size: 4rem;
-    font-weight: bold;
-    color: rgb(8,8,53);
-  }
-  .col-md-7 p{
-    font-size: 1.3rem;
-  }
-  .col-md-5 img{
-    width: 500px;
-  }
-  .btn-body{
-    border: none;
-    outline: none;
-    color:  #EA4335;
-    background-color: #fff;
-    cursor:pointer;
-    font-size: 1rem;
-    font-weight: 500;
-    margin-top: 40px;
-    padding: 10px 20px;
-    border-radius: 30px;
-    border: 2px solid  #EA4335;
-  }
-  
-  div button a{
-    text-decoration: none;
-    color: none;
-  }
-  .btn-body:hover{
-    color: #fff !important;
-    background: rgb(224,67,54);
-  }
-}
 .box {
   display: flex;
   flex-direction: row-reverse;
@@ -331,6 +241,18 @@ tbody td:nth-child(9) {
   z-index: 3;
 }
 
+@media screen and (max-width: 1600px) {
+  body{
+    background-position: 50% -65%;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  form {
+    width: 100%;
+  }
+}
+
 @media (max-width: 988px) {
   .box {
     justify-content: center;
@@ -349,13 +271,23 @@ tbody td:nth-child(9) {
   }
 }
 
-@media screen and (max-width: 1024px) {
-  form {
-    width: 100%;
-  }
-}
-
 @media screen and (max-width: 480px) {
+
+  body{
+    background-position: 0% -55%;
+  }
+
+  .navbar-collapse {
+    flex-basis: 100%;
+    flex-grow: 1;
+    align-items: center;
+    background-color: #ECF0F1;
+  }
+
+  button.navbar-toggler{
+    border-color: rgba(0,0,0,.1) !important;
+  }
+
   .main {
     justify-content: flex-start;
     margin: var(--lg) 0;
