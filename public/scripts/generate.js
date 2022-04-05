@@ -264,6 +264,20 @@ function generateSchedule(lineaDeEntrada) {
     })
 }
 
+function getNameCourse(arr){
+    fetch("https://gdsc-uni.github.io/generador.horario.io/JSON/horarios.json")
+    .then(response => response.json())
+    .then(data => {
+        var courseName = "";
+        for(const curso in data.data){
+            if(data.data[curso][0] == arr[0]){
+                courseName = data.data[curso][0]
+            }
+        }
+        arr[1] = courseName
+    })
+}
+
 
 function generateScheduleTable(lineaDeEntrada, horarioCreado) {
 
@@ -273,15 +287,13 @@ function generateScheduleTable(lineaDeEntrada, horarioCreado) {
     for (let i = 0; i < horarioCreado[1].length; i++) {
         for (let j = 0; j < horarioCreado[1][i].length; j++ ) {
             if(horarioCreado[1][i][j] !== '') {
-                let days = ["LU", "MA", "MI", "JU", "VI", "SA", "DO"];
-                let hours = ["8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"];
-
+                let days = ["LU", "MA", "MI", "JU", "VI", "SA"];
+                let hours = ["8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21"];
                 let infoCourse = ''
 
                 for (let k = 0; k < horarioCreado[1][i][j].split("-").length; k++) {
                     codeCourse = lineaDeEntrada[horarioCreado[1][i][j].split("-")[k].split("")[0] - 1];
                     type = horarioCreado[1][i][j].split("-")[k].split("")[1];
-
                     infoCourse += `${codeCourse}-${type}/`;
                 }
 
@@ -296,7 +308,17 @@ function generateScheduleTable(lineaDeEntrada, horarioCreado) {
         arraySelect.forEach(course => {
 
             console.log(course);
-            codeCourse = course[2];
+            codeCourse = course[2].substring(0,6);
+            tipo = course[2].substring(7,8);
+            arr = [course[2].substring(0,5), ""]
+            getNameCourse(arr);
+            var type = "";
+            switch(tipo){
+                case "T": type = "Teoría"; break;
+                case "P": type = "Practica"; break;
+                case "L": type = "Laboratorio"; break;
+                default: type = ""; break;
+            }
 
             dayId = course[1];
             hourCourse = course[0];
@@ -306,8 +328,8 @@ function generateScheduleTable(lineaDeEntrada, horarioCreado) {
 
             const idf = document.querySelector(`#${dayId}`);
 
-            idf.insertAdjacentHTML('beforeend', `<div class="calendar_event" style="position: absolute; left: 0%; top: ${2*30*(hourInit-7)+1}px; width: 100%; height: ${2*30*(hourEnd - hourInit)+1}px; overflow: hidden; cursor: n-resize;">
-                    <div unselectable="on" style="font-size: 10px; text-align: center;" class="calendar_event_inner">${codeCourse} <br> ${hourCourse} <br> ${dayId} <br> </div>
+            idf.insertAdjacentHTML('beforeend', `<div class="calendar_event" style="position: absolute; left: 0%; top: ${60*(hourInit-8)+1}px; width: 100%; height: 60px; overflow: hidden; cursor: n-resize;">
+                    <div unselectable="on" style="font-size: 10px; text-align: center;" class="calendar_event_inner">${codeCourse} <br> ${type} <br> ${arr[1]} <br> </div>
                     <div unselectable="on" class="calendar_event_bar" style="position: absolute; background-color: transparent;">
                         <div unselectable="on" class="calendar_default_event_bar_inner" style="top: 0%; height: 100%; background-color: #${Math.floor(Math.random()*16777215).toString(16)};"></div>
                     </div>
@@ -342,12 +364,13 @@ function generateCell() {
     const paintcell = document.querySelector(".paint_cell.paint_first");
     const bodycell = document.querySelector("#body_cell");
 
-    for (let i = 7; i < 24; i ++) {
-        hours.insertAdjacentHTML("beforeend", `<tr style="height: 60px;">
+    for (let i = 8; i <= 21; i ++) {
+        var inext = i + 1;
+        hours.insertAdjacentHTML("beforeend", `<tr style="height: 0px;">
         <td style="cursor: default; padding: 0px; border: 0px none;">
-            <div class="calendar_rowheader" style="position: relative; width: 60px; height: 60px; overflow: hidden;">
+            <div class="calendar_rowheader" style="position: relative; width: 90px; height: 60px; overflow: hidden;">
                 <div class="calendar_rowheader_inner">
-                    <div>${i}<span class="calendar_rowheader_minutes">⏲</span>
+                    <div style="font-size: 17px;">${i}-${inext} hrs
                     </div>
                 </div>
             </div>
@@ -355,8 +378,8 @@ function generateCell() {
     </tr>`);
     }
 
-    const days = ['LU', 'MA', 'MI', 'JU', 'VI', 'SA', 'DO'];
-    for (let i = 0; i < 8; i ++) {
+    const days = ['LU', 'MA', 'MI', 'JU', 'VI', 'SA'];
+    for (let i = 0; i <6; i ++) {
         paintcell.insertAdjacentHTML("beforeend", `<td style="padding: 0px; border: 0px none; height: 0px; overflow: visible; text-align: left;">
             <div class="alldays" id="${days[i]}" style="margin-right: 5px; position: relative; height: 1px; margin-top: -1px;"></div>
             <div style="position: relative;"></div>
@@ -365,9 +388,9 @@ function generateCell() {
 
     let count;
 
-    for (let i = 7; i < 41; i ++) {
-        count = 7.0 + .5*(i-7);
-        stringCount = count.toString().replace('.5', '_30');
+    for (let i = 8; i <= 21; i ++) {
+        count = i;
+        stringCount = count.toString()
         let tr = `<tr class="cell_hour hour_${stringCount}"></tr>`;
         bodycell.insertAdjacentHTML('beforeend', tr);
     }
@@ -375,13 +398,13 @@ function generateCell() {
     const trcell = document.querySelectorAll(".cell_hour");
     
     for (let i = 0; i < trcell.length; i++) {
-        const days = ['LU', 'MA', 'MI', 'JU', 'VI', 'SA', 'DO'];
+        const days = ['LU', 'MA', 'MI', 'JU', 'VI', 'SA'];
     
         let cellhourcourse = '';
     
         days.forEach(day => {
-            cellhourcourse = cellhourcourse + `<td id="${day}_${trcell[i].getAttribute('class').replace('cell_hour hour_', '')}" style="padding: 0px; border: 0px none; vertical-align: top; height: 30px; overflow: hidden;">
-            <div class="calendar_cell" style="height: 30px; position: relative;">
+            cellhourcourse = cellhourcourse + `<td id="${day}_${trcell[i].getAttribute('class').replace('cell_hour hour_', '')}" style="padding: 0px; border: 0px none; vertical-align: top; height: 60px; overflow: hidden;">
+            <div class="calendar_cell" style="height: 60px; position: relative;">
                 <div unselectable="on" class="calendar_cell_inner"></div>
             </div>
         </td>`
