@@ -172,6 +172,12 @@ td {
 
 @media screen and (max-width: 1600px) {
   #content_schelude_main {
+    height: 180vh;
+  }
+}
+
+@media screen and (max-width: 1600px) {
+  #content_schelude_main {
     height: 168vh;
   }
 }
