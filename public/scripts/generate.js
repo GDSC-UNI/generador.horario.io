@@ -264,7 +264,7 @@ function generateSchedule(lineaDeEntrada, lineaDeEntradaNombre) {
         crearCoordenadas(dataHorario);
         const conjunCursos = crearConjuntoCursos(linea1, dataHorario);
         let horarioCreado = horarioCompartido(conjunCursos, linea1, dataHorario);
-        generateScheduleTable(lineaDeEntrada, horarioCreado,lineaDeEntradaNombre);
+        generateScheduleTable(lineaDeEntrada, horarioCreado, lineaDeEntradaNombre);
     })
 }
 
