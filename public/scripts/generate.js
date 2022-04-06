@@ -3,6 +3,7 @@ const generateButtom = document.querySelector("#generate");
 generateButtom.addEventListener("click", event => {
 
     let arraySelect = [];
+    let nameSelect = [];
 
     let selected = document.querySelectorAll(".selected");
 
@@ -10,9 +11,12 @@ generateButtom.addEventListener("click", event => {
         arraySelect.push(
             item.childNodes[0].textContent + item.childNodes[2].textContent
         );
+        nameSelect.push(
+            item.childNodes[1].textContent
+        );
     });
 
-    generateSchedule(arraySelect);
+    generateSchedule(arraySelect,nameSelect);
 });
 
 // Crear la tabla representando un horario en blanco, en donde colocaremos los cursos
@@ -251,7 +255,7 @@ function crearLineaCursos(arrCursos, dataTable){
     return lineaCurso;
 }
 
-function generateSchedule(lineaDeEntrada) {
+function generateSchedule(lineaDeEntrada, lineaDeEntradaNombre) {
     fetch("https://gdsc-uni.github.io/generador.horario.io/JSON/horarioUltimo.json")
     .then(response => response.json())
     .then(data => {
@@ -260,29 +264,28 @@ function generateSchedule(lineaDeEntrada) {
         crearCoordenadas(dataHorario);
         const conjunCursos = crearConjuntoCursos(linea1, dataHorario);
         let horarioCreado = horarioCompartido(conjunCursos, linea1, dataHorario);
-        generateScheduleTable(lineaDeEntrada, horarioCreado);
+        generateScheduleTable(lineaDeEntrada, horarioCreado,lineaDeEntradaNombre);
     })
 }
 
-function getNameCourse(arr){
-    fetch("https://gdsc-uni.github.io/generador.horario.io/JSON/horarios.json")
-    .then(response => response.json())
-    .then(data => {
-        var courseName = "";
-        for(const curso in data.data){
-            if(data.data[curso][0] == arr[0]){
-                courseName = data.data[curso][0]
-            }
-        }
-        arr[1] = courseName
-    })
+function convertirTipoCurso(tipo){
+    switch(tipo){
+        case "T": type = "Teoría"; break;
+        case "P": type = "Practica"; break;
+        case "L": type = "Laboratorio"; break;
+        default: type = ""; break;
+    }
+    return type
 }
 
-
-function generateScheduleTable(lineaDeEntrada, horarioCreado) {
+function generateScheduleTable(lineaDeEntrada, horarioCreado, lineaDeEntradaNombre) {
+    //lineaNombres = []
+    //for( curso in lineaDeEntrada){
+        //lineaNombres.push(getNameCourse(lineaDeEntrada[curso].substring(0,5),dataHorario))
+    //}
 
     let arraySelect = [];
-
+    let arrayColors = ["#009f4d", "#a51890", "#0085ad", "#efdf00", "#84bd00", "#da1884", "#222", "#ff9900"]
     
     for (let i = 0; i < horarioCreado[1].length; i++) {
         for (let j = 0; j < horarioCreado[1][i].length; j++ ) {
@@ -296,8 +299,13 @@ function generateScheduleTable(lineaDeEntrada, horarioCreado) {
                     type = horarioCreado[1][i][j].split("-")[k].split("")[1];
                     infoCourse += `${codeCourse}-${type}/`;
                 }
-
-                arraySelect.push([hours[i], days[j], infoCourse.substring(0, infoCourse.length - 1)]);
+                for(let indice = 0; indice < lineaDeEntrada.length; indice++){
+                    if(lineaDeEntrada[indice] == codeCourse){
+                        var color = arrayColors[indice]
+                        var nombre = lineaDeEntradaNombre[indice]
+                    }
+                }
+                arraySelect.push([hours[i], days[j], infoCourse.substring(0, infoCourse.length - 1), color, nombre]);
 
             }
         }
@@ -306,18 +314,24 @@ function generateScheduleTable(lineaDeEntrada, horarioCreado) {
     try {
 
         arraySelect.forEach(course => {
-
-            console.log(course);
-            codeCourse = course[2].substring(0,6);
-            tipo = course[2].substring(7,8);
-            arr = [course[2].substring(0,5), ""]
-            getNameCourse(arr);
-            var type = "";
-            switch(tipo){
-                case "T": type = "Teoría"; break;
-                case "P": type = "Practica"; break;
-                case "L": type = "Laboratorio"; break;
-                default: type = ""; break;
+            codeCourse = "";
+            tipo = "";
+            // Si hay cruce:
+            if(course[2].indexOf("/") > 0){
+                for(var cru in course[2].split("/")){
+                    codeCourse = codeCourse + course[2].split("/")[cru].substring(0,6) + "//";
+                    tipo = tipo + convertirTipoCurso(course[2].split("/")[cru].substring(7,8)) + "//";
+                    colorCourse = "#e4002b";
+                    nombre = course[4]
+                }
+                codeCourse = codeCourse.substring(0,codeCourse.length - 2)
+                tipo = tipo.substring(0,tipo.length - 2)
+            }
+            else{
+                codeCourse = course[2].substring(0,6);
+                tipo = convertirTipoCurso(course[2].substring(7,8));
+                colorCourse = course[3]
+                nombre = course[4]
             }
 
             dayId = course[1];
@@ -329,9 +343,9 @@ function generateScheduleTable(lineaDeEntrada, horarioCreado) {
             const idf = document.querySelector(`#${dayId}`);
 
             idf.insertAdjacentHTML('beforeend', `<div class="calendar_event" style="position: absolute; left: 0%; top: ${60*(hourInit-8)+1}px; width: 100%; height: 60px; overflow: hidden; cursor: n-resize;">
-                    <div unselectable="on" style="font-size: 10px; text-align: center;" class="calendar_event_inner">${codeCourse} <br> ${type} <br> ${arr[1]} <br> </div>
+                    <div unselectable="on" style="font-size: 10px; text-align: center;" class="calendar_event_inner">${codeCourse} <br> ${nombre} <br> ${tipo} <br> </div>
                     <div unselectable="on" class="calendar_event_bar" style="position: absolute; background-color: transparent;">
-                        <div unselectable="on" class="calendar_default_event_bar_inner" style="top: 0%; height: 100%; background-color: #${Math.floor(Math.random()*16777215).toString(16)};"></div>
+                        <div unselectable="on" class="calendar_default_event_bar_inner" style="top: 0%; height: 100%; background-color: ${colorCourse};"></div>
                     </div>
                 </div>`
             );
