@@ -6,25 +6,25 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "10:00-12:00",
                         "Profesor": "HUALLPA GUTIERREZ, WALTER"
                     },
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "10:00-12:00",
                         "Profesor": "HUALLPA GUTIERREZ, WALTER"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "08:00-10:00",
                         "Profesor": "HUALLPA GUTIERREZ, WALTER"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "08:00-10:00",
                         "Profesor": "HUALLPA GUTIERREZ, WALTER"
                     }
@@ -33,25 +33,25 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "10:00-12:00",
                         "Profesor": "LLAMOJA CURI, JOHNNY"
                     },
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "08:00-10:00",
                         "Profesor": "LLAMOJA CURI, JOHNNY"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "08:00-10:00",
                         "Profesor": "LLAMOJA CURI, JOHNNY"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "14:00-16:00",
                         "Profesor": "LLAMOJA CURI, JOHNNY"
                     }
@@ -60,25 +60,25 @@
                 "O": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "08:00-10:00",
                         "Profesor": "CARO AMERY. JOSE"
                     },
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "10:00-12:00",
                         "Profesor": "CARO AMERY. JOSE"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "08:00-10:00",
                         "Profesor": "DURAND BERNALD, LUIS"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "14:00-16:00",
                         "Profesor": "DURAND BERNALD, LUIS"
                     }
@@ -92,13 +92,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "13:00-14:00",
                         "Profesor": "ROJAS VILLANUEVA, UWE"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "14:00-16:00",
                         "Profesor": "ROJAS VILLANUEVA, UWE"
                     }
@@ -107,13 +107,13 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "14:00-15:00",
                         "Profesor": "ROJAS VARGAS, CAROLYN"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "15:00-17:00",
                         "Profesor": "ROJAS VARGAS, CAROLYN"
                     }
@@ -122,13 +122,13 @@
                 "O": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "10:00-11:00",
                         "Profesor": "ROJAS VARGAS, CAROLYN"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "11:00-13:00",
                         "Profesor": "ROJAS VARGAS, CAROLYN"
                     }
@@ -142,19 +142,19 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "08.00-10.00",
                         "Profesor": "SAAL RIQUEROS, CESAR"
                     },
                     {
                         "Tipo": "T",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "10:00-12:00",
                         "Profesor": "SAAL RIQUEROS, CESAR"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "10:00-12:00",
                         "Profesor": "SAAL RIQUEROS, CESAR"
                     }
@@ -163,19 +163,19 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "14.00-16:00",
                         "Profesor": "ORIA CHAVARRIA, MARIO"
                     },
                     {
                         "Tipo": "T",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "08:00-10:00",
                         "Profesor": "ORIA CHAVARRIA, MARIO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "10:00-12:00",
                         "Profesor": "ORIA CHAVARRIA, MARIO"
                     }
@@ -184,19 +184,19 @@
                 "O": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "14:00-16:00",
                         "Profesor": "CORNEJO HUAMAN, JORGE"
                     },
                     {
                         "Tipo": "T",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "10:00-12:00",
                         "Profesor": "CORNEJO HUAMAN, JORGE"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "10:00-12:00",
                         "Profesor": "CORNEJO HUAMAN, JORGE"
                     }
@@ -210,13 +210,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "14:00-17:00",
                         "Profesor": "SALINAS AQUIJE, TEOFILO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "11:00-13:00",
                         "Profesor": "SALINAS AQUIJE, TEOFILO"
                     }
@@ -225,13 +225,13 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "10:00-13:00",
                         "Profesor": "ERQUIZIO ESPINAL, JOSE EDUARDO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "11:00-13:00",
                         "Profesor": "ERQUIZIO ESPINAL, JOSE EDUARDO"
                     }
@@ -240,13 +240,13 @@
                 "O": [
                     {
                         "Tipo": "T",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "14:00-17:00",
                         "Profesor": "VALENCIA MIRANDA, ANGEL"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "11:00-13:00",
                         "Profesor": "VALENCIA MIRANDA, ANGEL"
                     }
@@ -260,13 +260,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "16:00-18:00",
                         "Profesor": "ARENALES SOLIS, JOSE CARLOS"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "14:00-16:00",
                         "Profesor": "ARENALES SOLIS, JOSE CARLOS"
                     }
@@ -275,13 +275,13 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "10:00-12:00",
                         "Profesor": "ARENALES SOLIS, JOSE CARLOS"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "16:00-18:00",
                         "Profesor": "ARENALES SOLIS, JOSE CARLOS"
                     }
@@ -290,13 +290,13 @@
                 "O": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "14:00-16:00",
                         "Profesor": "ARENALES SOLIS, JOSE CARLOS"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "16:00-18:00",
                         "Profesor": "ARENALES SOLIS, JOSE CARLOS"
                     }
@@ -310,13 +310,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "17:00-19:00",
                         "Profesor": "ALMORA RIVAS, ENRIQUE"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "19:00-21:00",
                         "Profesor": "ALMORA RIVAS, ENRIQUE"
                     }
@@ -325,13 +325,13 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "18.00-20:00",
                         "Profesor": "ALMORA RIVAS, ENRIQUE"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "20:00-22:00",
                         "Profesor": "ALMORA RIVAS, ENRIQUE"
                     }
@@ -340,13 +340,13 @@
                 "O": [
                     {
                         "Tipo": "T",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "17:00-19:00",
                         "Profesor": "ALMORA RIVAS, ENRIQUE"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "19:00-21:00",
                         "Profesor": "ALMORA RIVAS, ENRIQUE"
                     }
@@ -360,13 +360,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "14:00-17:00",
                         "Profesor": "LLAMOJA CURI, JOHNNY"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "10:00-12:00",
                         "Profesor": "LLAMOJA CURI, JOHNNY"
                     }
@@ -375,13 +375,13 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "14:00-17:00",
                         "Profesor": "ALVA NAVARRO, ROY"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "10:00-12:0",
                         "Profesor": "ALVA NAVARRO, ROY"
                     }
@@ -390,13 +390,13 @@
                 "O": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "10:00-13:00",
                         "Profesor": "DURAND BERNALD, LUIS"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "10:00-12:00",
                         "Profesor": "DURAND BERNALD, LUIS"
                     }
@@ -405,13 +405,13 @@
                 "P": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "10.00-13:00",
                         "Profesor": "DURAND BERNALD, LUIS"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "10:00-12:00",
                         "Profesor": "CHIRINOS VILLARUEL, FERNANDO"
                     }
@@ -425,13 +425,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "08:00-10:00",
                         "Profesor": "BUTLER BLACKER, JORGE"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "10:00-12:00",
                         "Profesor": "BUTLER BLACKER, JORGE"
                     }
@@ -440,13 +440,13 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "18:00-20:00",
                         "Profesor": "BUTLER BLACKER, JORGE"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "20.00-22:00",
                         "Profesor": "BUTLER BLACKER, JORGE"
                     }
@@ -455,13 +455,13 @@
                 "O": [
                     {
                         "Tipo": "T",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "14:00-16:00",
                         "Profesor": "BUTLER BLACKER, JORGE"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "16:00-18:00",
                         "Profesor": "BUTLER BLACKER, JORGE"
                     }
@@ -470,13 +470,13 @@
                 "P": [
                     {
                         "Tipo": "T",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "16:00-18:00",
                         "Profesor": "MIGUEL CAÑAMERO, JOSE"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "18:00-20:00",
                         "Profesor": "MIGUEL CAÑAMERO, JOSE"
                     }
@@ -490,19 +490,19 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "16:00-18:00",
                         "Profesor": "ORIA CHAVARRIA, MARIO"
                     },
                     {
                         "Tipo": "T",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "10:00-12:00",
                         "Profesor": "ORIA CHAVARRIA, MARIO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "08:00-10:00",
                         "Profesor": "ORIA CHAVARRIA, MARIO"
                     }
@@ -511,19 +511,19 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "14:00-16:00",
                         "Profesor": "ERQUIZIO ESPINAL, JOSE EDUARDO"
                     },
                     {
                         "Tipo": "T",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "08:00-10:00",
                         "Profesor": "ERQUIZIO ESPINAL, JOSE EDUARDO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "08:00-10:00",
                         "Profesor": "ERQUIZIO ESPINAL, JOSE EDUARDO"
                     }
@@ -532,19 +532,19 @@
                 "O": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "14:00-16:00",
                         "Profesor": "SALINAS AQUIJE, TEOFILO"
                     },
                     {
                         "Tipo": "T",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "14:00-16:00",
                         "Profesor": "SALINAS AQUIJE, TEOFILO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "08:00-10:00",
                         "Profesor": "SALINAS AQUIJE, TEOFILO"
                     }
@@ -558,25 +558,25 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "10:00-12:00",
                         "Profesor": "RODRIGUEZ MORALES, MARIA"
                     },
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "10:00-12:00",
                         "Profesor": "RODRIGUEZ MORALES, MARIA"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "08:00-10:00",
                         "Profesor": "RODRIGUEZ MORALES, MARIA"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "14:00-16:00",
                         "Profesor": "RODRIGUEZ MORALES, MARIA / MEDINA RODRIGUEZ, RAQUEL"
                     }
@@ -585,19 +585,19 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "10:00-12:00",
                         "Profesor": "MEDINA RODRIGUEZ, RAQUEL"
                     },
                     {
                         "Tipo": "T",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "10:00-12:00",
                         "Profesor": "MEDINA RODRIGUEZ, RAQUEL"
                     },
                     {
                         "Tipo": "P/L",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "08:00-10:00",
                         "Profesor": "MEDINA RODRIGUEZ, RAQUEL / GARAY CAUTI, ZOILA"
                     }
@@ -606,25 +606,25 @@
                 "O": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "08:00-10:00",
                         "Profesor": "RODRIGUEZ MORALES, MARIA"
                     },
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "08:00-10:00",
                         "Profesor": "RODRIGUEZ MORALES, MARIA"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "08:00-10:00",
                         "Profesor": "RODRIGUEZ MORALES, MARIA"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "11:00-13:00",
                         "Profesor": "RODRIGUEZ MORALES, MARIA /  GARAY CAUTI, ZOILA"
                     }
@@ -638,13 +638,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "16:00-17:00",
                         "Profesor": "LEÓN CONTRERAS IRAIDA ARLENE"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "17:00-19:00",
                         "Profesor": "LEÓN CONTRERAS IRAIDA ARLENE"
                     }
@@ -653,13 +653,13 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "16:00-17:00",
                         "Profesor": "LEÓN CONTRERAS IRAIDA ARLENE"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "17:00-19:00",
                         "Profesor": "LEÓN CONTRERAS IRAIDA ARLENE"
                     }
@@ -668,13 +668,13 @@
                 "O": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "16:00-17:00",
                         "Profesor": "LEÓN CONTRERAS IRAIDA ARLENE"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "17:00-19:00",
                         "Profesor": "LEÓN CONTRERAS IRAIDA ARLENE"
                     }
@@ -688,19 +688,19 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "18:00-19:00",
                         "Profesor": "BRICEÑO ARANDA, CESAR"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "19:00-21:00",
                         "Profesor": "BRICEÑO ARANDA, CESAR"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "19.00-21:00",
                         "Profesor": "BRICEÑO ARANDA, CESAR"
                     }
@@ -709,19 +709,19 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "19:00-20:00",
                         "Profesor": "ROJAS VARGAS, CAROLYN"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "20:00-22:00",
                         "Profesor": "ROJAS VARGAS, CAROLYN"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "08.00-10:00",
                         "Profesor": "ROJAS VARGAS, CAROLYN"
                     }
@@ -730,19 +730,19 @@
                 "O": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "19:00-20:00",
                         "Profesor": "PURILLA FLORES, FELIX"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "20:00-22:00",
                         "Profesor": "PURILLA FLORES, FELIX"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "20.00-22:00",
                         "Profesor": "PURILLA FLORES, FELIX"
                     }
@@ -756,19 +756,19 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "14.00-16:00",
                         "Profesor": "PEÑA YALICO, VICENTE"
                     },
                     {
                         "Tipo": "T",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "08:00-10:00",
                         "Profesor": "PEÑA YALICO, VICENTE"
                     },
                     {
                         "Tipo": "P/L",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "08:00-10:00",
                         "Profesor": "PEÑA YALICO, VICENTE"
                     }
@@ -777,25 +777,25 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "16:00-18:00",
                         "Profesor": "DURAND BERNALD, LUIS"
                     },
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "16:00-18:00",
                         "Profesor": "DURAND BERNALD, LUIS"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "08:00-10:00",
                         "Profesor": "DURAND BERNALD, LUIS"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "10:00-12:00",
                         "Profesor": "DURAND BERNALD, LUIS"
                     }
@@ -804,25 +804,25 @@
                 "O": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "08:00-10:00",
                         "Profesor": "ALVA NAVARRO, ROY"
                     },
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "10:00-12:00",
                         "Profesor": "ALVA NAVARRO, ROY"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "08:00-10:00",
                         "Profesor": "ALVA NAVARRO, ROY"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "14:00-16:00",
                         "Profesor": "ALVA NAVARRO, ROY"
                     }
@@ -831,25 +831,25 @@
                 "P": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "10:00-12:00",
                         "Profesor": "PEÑA YALICO, VICENTE"
                     },
                     {
                         "Tipo": "T",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "10:00-12:00",
                         "Profesor": "PEÑA YALICO, VICENTE"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "08:00-10:00",
                         "Profesor": "CHIRINOS VILLARUEL, FERNANDO"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "14:00-16:00",
                         "Profesor": "CHIRINOS VILLARUEL, FERNANDO"
                     }
@@ -863,13 +863,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "10:00-12:00",
                         "Profesor": "VERA RONCALLA, CESAR"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "14:00-16:00",
                         "Profesor": "VERA RONCALLA, CESAR"
                     }
@@ -878,13 +878,13 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "10:00-12:00",
                         "Profesor": "CLAVIJO RAMOS, RAUL"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "14:00-16:00",
                         "Profesor": "CLAVIJO RAMOS, RAUL"
                     }
@@ -893,13 +893,13 @@
                 "O": [
                     {
                         "Tipo": "T",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "16:00-18:00",
                         "Profesor": "HUMALA TASSO, ULISES"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "14:00-16:00",
                         "Profesor": "HUMALA TASSO, ULISES"
                     }
@@ -913,19 +913,19 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "10:00-12:00",
                         "Profesor": "CALLA MARIN, CARLOS"
                     },
                     {
                         "Tipo": "T",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "14:00-16:00",
                         "Profesor": "CALLA MARIN, CARLOS"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "16:00-18:00",
                         "Profesor": "CALLA MARIN, CARLOS"
                     }
@@ -934,19 +934,19 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "10:00-12:00",
                         "Profesor": "RAMIREZ GUTIERREZ, ANGEL"
                     },
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "10:00-12:00",
                         "Profesor": "RAMIREZ GUTIERREZ, ANGEL"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "16:00-18:00",
                         "Profesor": "ERQUIZIO ESPINAL, JOSE EDUARDO"
                     }
@@ -955,19 +955,19 @@
                 "O": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "16:00-18:00",
                         "Profesor": "CORNEJO HUAMAN, JORGE"
                     },
                     {
                         "Tipo": "T",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "08:00-10:00",
                         "Profesor": "CORNEJO HUAMAN, JORGE"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "16:00-18:00",
                         "Profesor": "CORNEJO HUAMAN, JORGE"
                     }
@@ -981,13 +981,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "08:00-10:00",
                         "Profesor": "ESPINOZA VÁSQUEZ, MANUEL"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "12:00-14:00",
                         "Profesor": "ESPINOZA VÁSQUEZ, MANUEL"
                     }
@@ -996,19 +996,19 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "08:00-10:00",
                         "Profesor": "ESPINOZA VÁSQUEZ, MANUEL"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "12:00-14:00",
                         "Profesor": "ESPINOZA VÁSQUEZ, MANUEL"
                     },
                     {
                         "Tipo": "S",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "11:00-13:00",
                         "Profesor": "ESPINOZA VÁSQUEZ, MANUEL"
                     }
@@ -1017,13 +1017,13 @@
                 "O": [
                     {
                         "Tipo": "T",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "08:00-10:00",
                         "Profesor": "LÓPEZ ESQUIVEL, MIGUEL"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "12:00-14:00",
                         "Profesor": "LÓPEZ ESQUIVEL, MIGUEL"
                     }
@@ -1032,19 +1032,19 @@
                 "P": [
                     {
                         "Tipo": "T",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "10.00-12:00",
                         "Profesor": "LÓPEZ ESQUIVEL, MIGUEL"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "12:00-14:00",
                         "Profesor": "LÓPEZ ESQUIVEL, MIGUEL"
                     },
                     {
                         "Tipo": "S",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "14:00-16:00",
                         "Profesor": "LÓPEZ ESQUIVEL, MIGUEL"
                     }
@@ -1058,13 +1058,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "10:00-12:00",
                         "Profesor": "CASTILLO BELSUZARRI, TRINI"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "12:00-14:00",
                         "Profesor": "CASTILLO BELSUZARRI, TRINI"
                     }
@@ -1073,13 +1073,13 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "08:00-10:00",
                         "Profesor": "CASTILLO BELSUZARRI, TRINI"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "10:00-12:00",
                         "Profesor": "CASTILLO BELSUZARRI, TRINI"
                     }
@@ -1088,13 +1088,13 @@
                 "O": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "10:00-12:00",
                         "Profesor": "CASTILLO BELSUZARRI, TRINI"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "12:00-14:00",
                         "Profesor": "CASTILLO BELSUZARRI, TRINI"
                     }
@@ -1108,13 +1108,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "08.00-10:00",
                         "Profesor": "FARFAN LIRA, JOSE ENRIQUE"
                     },
                     {
                         "Tipo": "P/L",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "08:00-10:00",
                         "Profesor": "PUICAN VERA, JOSE"
                     }
@@ -1123,13 +1123,13 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "14:00-16:00",
                         "Profesor": "FARFAN LIRA, JOSE ENRIQUE"
                     },
                     {
                         "Tipo": "P/L",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "14:00-16:00",
                         "Profesor": "PUICAN VERA, JOSE"
                     }
@@ -1138,13 +1138,13 @@
                 "O": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "20:00-22:00",
                         "Profesor": "CHAVEZ CHACALTANA, ORLANDO"
                     },
                     {
                         "Tipo": "P/L",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "18:00-20:00",
                         "Profesor": "CHAVEZ CHACALTANA, ORLANDO"
                     }
@@ -1153,13 +1153,13 @@
                 "P": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "18:00-20:00",
                         "Profesor": "CHAVEZ CHACALTANA, ORLANDO"
                     },
                     {
                         "Tipo": "P/L",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "20:00-22:00",
                         "Profesor": "CHAVEZ CHACALTANA, ORLANDO"
                     }
@@ -1168,13 +1168,13 @@
                 "Q": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "16:00-18:00",
                         "Profesor": "FARFAN LIRA, JOSE ENRIQUE"
                     },
                     {
                         "Tipo": "P/L",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "10:00 -12:00",
                         "Profesor": "FARFAN LIRA, JOSE ENRIQUE"
                     }
@@ -1183,13 +1183,13 @@
                 "R": [
                     {
                         "Tipo": "T",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "14:00-16:00",
                         "Profesor": "FARFAN LIRA, JOSE ENRIQUE"
                     },
                     {
                         "Tipo": "P/L",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "10:00-12:00",
                         "Profesor": "PUICAN VERA, JOSE"
                     }
@@ -1203,7 +1203,7 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "08:00-10:00",
                         "Profesor": "ATARAMA URBINA, ANCO LUIS"
                     }
@@ -1212,7 +1212,7 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "10:00-12:00",
                         "Profesor": "ATARAMA URBINA, ANCO LUIS"
                     }
@@ -1221,7 +1221,7 @@
                 "O": [
                     {
                         "Tipo": "T",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "16:00-18:00",
                         "Profesor": "ARENALES SOLIS, JOSE CARLOS"
                     }
@@ -1235,13 +1235,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "08:00-11:00",
                         "Profesor": "PAUYAC HUAMAN, JOSE"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "10:00-12:00",
                         "Profesor": "PAUYAC HUAMAN, JOSE"
                     }
@@ -1250,13 +1250,13 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "10.00-13:00",
                         "Profesor": "PAUYAC HUAMAN, JOSE"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "08:00-10:00",
                         "Profesor": "PAUYAC HUAMAN, JOSE"
                     }
@@ -1265,13 +1265,13 @@
                 "O": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "10:00-13:00",
                         "Profesor": "LLAMOJA CURI, JOHNNY"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "08:00-10:00",
                         "Profesor": "LLAMOJA CURI, JOHNNY"
                     }
@@ -1280,13 +1280,13 @@
                 "P": [
                     {
                         "Tipo": "T",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "08:00-11:00",
                         "Profesor": "CARO AMERY. JOSE"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "14:00-16:00",
                         "Profesor": "CHIRINOS VILLARUEL, FERNANDO"
                     }
@@ -1295,13 +1295,13 @@
                 "Q": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "14.00-17:00",
                         "Profesor": "ALVA NAVARRO, ROY"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "08:00-10:00",
                         "Profesor": "ALVA NAVARRO, ROY"
                     }
@@ -1315,13 +1315,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "16:00-19:00",
                         "Profesor": "ROJAS CERNA, VICTOR"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "14:00-16:00",
                         "Profesor": "ROJAS CERNA, VICTOR"
                     }
@@ -1330,13 +1330,13 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "14:00-17:00",
                         "Profesor": "ARIAS ANTONIO, LEANDRO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "14:00-16:00",
                         "Profesor": "ARIAS ANTONIO, LEANDRO"
                     }
@@ -1345,13 +1345,13 @@
                 "O": [
                     {
                         "Tipo": "T",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "08:00-11:00",
                         "Profesor": "RAMIREZ GUTIERREZ, ANGEL"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "08:00-10:00",
                         "Profesor": "ROJAS CERNA, VICTOR"
                     }
@@ -1360,13 +1360,13 @@
                 "P": [
                     {
                         "Tipo": "T",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "08:00-11:00",
                         "Profesor": "CALLA MARIN, CARLOS"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "10:00-12:00",
                         "Profesor": "CALLA MARIN, CARLOS"
                     }
@@ -1380,13 +1380,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "14:00-16:00",
                         "Profesor": "MIGUEL CAÑAMERO, JOSE"
                     },
                     {
                         "Tipo": "P/L",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "14:00-16:00",
                         "Profesor": "MIGUEL CAÑAMERO, JOSE"
                     }
@@ -1395,13 +1395,13 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "16:00-18:00",
                         "Profesor": "MIGUEL CAÑAMERO, JOSE"
                     },
                     {
                         "Tipo": "P/L",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "10:00-12:00",
                         "Profesor": "MIGUEL CAÑAMERO, JOSE"
                     }
@@ -1410,13 +1410,13 @@
                 "O": [
                     {
                         "Tipo": "T",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "14:00-16:00",
                         "Profesor": "DIAZ ACHA, ISRAEL"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "16:00-18:00",
                         "Profesor": "DIAZ ACHA, ISRAEL"
                     }
@@ -1425,13 +1425,13 @@
                 "P": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "08:00-10:00",
                         "Profesor": "DIAZ ACHA, ISRAEL"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "18:00-20:00",
                         "Profesor": "DIAZ ACHA, ISRAEL"
                     }
@@ -1440,13 +1440,13 @@
                 "Q": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "18:00-20:00",
                         "Profesor": "DIAZ ACHA, ISRAEL"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "16:00-18:00",
                         "Profesor": "DIAZ ACHA, ISRAEL"
                     }
@@ -1460,19 +1460,19 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "10:00-13:00",
                         "Profesor": "RAMOS CARRION, JORGE"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "08:00-10:00",
                         "Profesor": "RAMOS CARRION, JORGE"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "08:00-10:00",
                         "Profesor": "RAMOS CARRION, JORGE"
                     }
@@ -1481,19 +1481,19 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "14:00-17:00",
                         "Profesor": "NEGRON MARTINEZ, CONSUELO"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "14:00-16:00",
                         "Profesor": "NEGRON MARTINEZ, CONSUELO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "14:00-16:00",
                         "Profesor": "NEGRON MARTINEZ, CONSUELO"
                     }
@@ -1502,19 +1502,19 @@
                 "O": [
                     {
                         "Tipo": "T",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "16:00-19:00",
                         "Profesor": "NEGRON MARTINEZ, CONSUELO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "14:00-16:00",
                         "Profesor": "NEGRON MARTINEZ, CONSUELO"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "11:00-13:00",
                         "Profesor": "WATERS TORRES, OSWALDO"
                     }
@@ -1523,19 +1523,19 @@
                 "P": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "17:00-20:00",
                         "Profesor": "TOKUMORI KIYOTA, SERGIO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "17:00-19:00",
                         "Profesor": "TOKUMORI KIYOTA, SERGIO"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "08:00-10:00",
                         "Profesor": "TOKUMORI KIYOTA, SERGIO"
                     }
@@ -1544,19 +1544,19 @@
                 "Q": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "10:00-13:00",
                         "Profesor": "WATERS TORRES, OSWALDO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "16:00-18:00",
                         "Profesor": "TOKUMORI KIYOTA, SERGIO"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "10:00-12:00",
                         "Profesor": "TOKUMORI KIYOTA, SERGIO"
                     }
@@ -1565,19 +1565,19 @@
                 "R": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "14:00-17:00",
                         "Profesor": "WATERS TORRES, OSWALDO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "14:00-16:00",
                         "Profesor": "WATERS TORRES, OSWALDO"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "14:00-16:00",
                         "Profesor": "WATERS TORRES, OSWALDO"
                     }
@@ -1591,13 +1591,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "10:00-13:00",
                         "Profesor": "DIAZ ACHA, ISRAEL"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "08:00-10:00",
                         "Profesor": "DIAZ ACHA, ISRAEL"
                     }
@@ -1606,13 +1606,13 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "16:00-19:00",
                         "Profesor": "ROJAS CERNA, VICTOR"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "10:00-12:00",
                         "Profesor": "ROJAS CERNA, VICTOR"
                     }
@@ -1621,13 +1621,13 @@
                 "O": [
                     {
                         "Tipo": "T",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "16:00-19:00",
                         "Profesor": "VALENCIA MIRANDA, ANGEL"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "18:00-20:00",
                         "Profesor": "VALENCIA MIRANDA, ANGEL"
                     }
@@ -1636,13 +1636,13 @@
                 "P": [
                     {
                         "Tipo": "T",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "17:00-20:00",
                         "Profesor": "ARIAS ANTONIO, LEANDRO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "16:00-18:00",
                         "Profesor": "ARIAS ANTONIO, LEANDRO"
                     }
@@ -1651,13 +1651,13 @@
                 "Q": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "19:00-22:00",
                         "Profesor": "VALENCIA MIRANDA, ANGEL"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "18:00-20:00",
                         "Profesor": "ARIAS ANTONIO, LEANDRO"
                     }
@@ -1671,13 +1671,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "16:00-18:00",
                         "Profesor": "VELAZCO LORENZO, DINAU"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "18:00-20:00",
                         "Profesor": "VELAZCO LORENZO, DINAU"
                     }
@@ -1686,13 +1686,13 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "18:00-20:00",
                         "Profesor": "VELAZCO LORENZO, DINAU"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "20:00-22:00",
                         "Profesor": "VELAZCO LORENZO, DINAU"
                     }
@@ -1706,13 +1706,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "16:00-19:00",
                         "Profesor": "ESPINOZA VÁSQUEZ, MANUEL"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "14:00-16:00",
                         "Profesor": "ESPINOZA VÁSQUEZ, MANUEL"
                     }
@@ -1726,13 +1726,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "10:00-13:00",
                         "Profesor": "LAZO OCHOA, DOMINGO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "08:00-10:00",
                         "Profesor": "LAZO OCHOA, DOMINGO"
                     }
@@ -1741,13 +1741,13 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "10:00-13:00",
                         "Profesor": "LAZO OCHOA, DOMINGO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "08:00-10:00",
                         "Profesor": "LAZO OCHOA, DOMINGO"
                     }
@@ -1756,13 +1756,13 @@
                 "O": [
                     {
                         "Tipo": "T",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "10:00-13:00",
                         "Profesor": "LAZO OCHOA, DOMINGO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "20:00-22:00",
                         "Profesor": "LAZO OCHOA, DOMINGO"
                     }
@@ -1776,19 +1776,19 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "16:00-19:00",
                         "Profesor": "BETETTA GOMEZ, JUDITH"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "08:00-10:00",
                         "Profesor": "BETETTA GOMEZ, JUDITH"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "14:00-16:00",
                         "Profesor": "BETETTA GOMEZ, JUDITH"
                     }
@@ -1797,19 +1797,19 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "10.00-13:00",
                         "Profesor": "RAMOS CARRION, JORGE"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "08:00-10:00",
                         "Profesor": "RAMOS CARRION, JORGE"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "14:00-16:00",
                         "Profesor": "NN"
                     }
@@ -1818,19 +1818,19 @@
                 "O": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "08.00-11:00",
                         "Profesor": "BETETTA GOMEZ, JUDITH"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "10:00-12:00",
                         "Profesor": "BETETTA GOMEZ, JUDITH"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "12:00-14:00",
                         "Profesor": "nn"
                     }
@@ -1839,19 +1839,19 @@
                 "P": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "18:00-21:00",
                         "Profesor": "ROCHA JARA, ALFREDO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "18:00-20:00",
                         "Profesor": "ROCHA JARA, ALFREDO"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "10:00-12:00",
                         "Profesor": "ROCHA JARA, ALFREDO"
                     }
@@ -1860,19 +1860,19 @@
                 "Q": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "15:00-18:00",
                         "Profesor": "ROCHA JARA, ALFREDO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "16:00-18:00",
                         "Profesor": "ROCHA JARA, ALFREDO"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "08:00-10:00",
                         "Profesor": "ROCHA JARA, ALFREDO"
                     }
@@ -1886,7 +1886,7 @@
         "M": [
                     {
                         "Tipo": "L",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "11:00-13:00",
                         "Profesor": "ALBURQUEQUE GUERRERO, ANGEL"
                     }
@@ -1895,7 +1895,7 @@
                 "N": [
                     {
                         "Tipo": "L",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "08:00-10:00",
                         "Profesor": "ALBURQUEQUE GUERRERO, ANGEL"
                     }
@@ -1904,7 +1904,7 @@
                 "O": [
                     {
                         "Tipo": "L",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "08:00-10:00",
                         "Profesor": "ALBURQUEQUE GUERRERO, ANGEL"
                     }
@@ -1913,7 +1913,7 @@
                 "P": [
                     {
                         "Tipo": "L",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "10:00-12:00",
                         "Profesor": "ROMERO FUENTES, VIRGINIA"
                     }
@@ -1922,7 +1922,7 @@
                 "Q": [
                     {
                         "Tipo": "L",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "12:00-14:00",
                         "Profesor": "ROMERO FUENTES, VIRGINIA"
                     }
@@ -1936,13 +1936,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "15::00-18:00",
                         "Profesor": "DELGADO LEON, MIGUEL"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "08:00-10:00",
                         "Profesor": "PEÑA YALICO, VICENTE"
                     }
@@ -1951,13 +1951,13 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "08:00-11:00",
                         "Profesor": "PEÑA YALICO, VICENTE"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "16:00-18:00",
                         "Profesor": "PEÑA YALICO, VICENTE"
                     }
@@ -1966,13 +1966,13 @@
                 "O": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "09:00-12:00",
                         "Profesor": "DELGADO LEON, MIGUEL"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "10.00-12:00",
                         "Profesor": "MEDINA RAMIREZ, JOSE AGUSTIN"
                     }
@@ -1981,13 +1981,13 @@
                 "P": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "09.00-12:00",
                         "Profesor": "MEDINA RAMIREZ, JOSE AGUSTIN"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "14:00-16:00",
                         "Profesor": "MEDINA RAMIREZ, JOSE AGUSTIN"
                     }
@@ -2001,13 +2001,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "19:00-22:00",
                         "Profesor": "AQUIZE PALACIOS, RUBEN"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "16:00-18:00",
                         "Profesor": "AQUIZE PALACIOS, RUBEN"
                     }
@@ -2016,13 +2016,13 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "14:00-17:00",
                         "Profesor": "MERCHAN GORDILLO, FERNANDO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "20:00-22:00",
                         "Profesor": "VALENZUELA DE LA CRUZ, BASILIO"
                     }
@@ -2031,13 +2031,13 @@
                 "O": [
                     {
                         "Tipo": "T",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "14:00-17:00",
                         "Profesor": "MERCHAN GORDILLO, FERNANDO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "08.00-10:00",
                         "Profesor": "CARBONEL OLAZABAL, DANIEL"
                     }
@@ -2046,13 +2046,13 @@
                 "P": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "08:00-11:00",
                         "Profesor": "MERCHAN GORDILLO, FERNANDO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "18:00-20:00",
                         "Profesor": "VALENZUELA DE LA CRUZ, BASILIO"
                     }
@@ -2061,13 +2061,13 @@
                 "Q": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "15:00-18:00",
                         "Profesor": "MERCHAN GORDILLO, FERNANDO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "20:00-22:00",
                         "Profesor": "VALENZUELA DE LA CRUZ, BASILIO"
                     }
@@ -2081,13 +2081,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "14:00-16:00",
                         "Profesor": "VELAZCO LORENZO, DINAU"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "16:00-18:00",
                         "Profesor": "VELAZCO LORENZO, DINAU"
                     }
@@ -2101,13 +2101,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "08:00-10:00",
                         "Profesor": "ROJAS VILLANUEVA, UWE"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "10:00-12:00",
                         "Profesor": "ROJAS VILLANUEVA, UWE"
                     }
@@ -2116,13 +2116,13 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "18.00-20:00",
                         "Profesor": "BENITEZ PALACIOS, JOSE"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "20:00-22:00",
                         "Profesor": "BENITEZ PALACIOS, JOSE"
                     }
@@ -2136,13 +2136,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "10:00 -12:00",
                         "Profesor": "SALVADOR JACOME, LEONCIO JULIO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "12:00 - 14:00",
                         "Profesor": "SALVADOR JACOME, LEONCIO JULIO"
                     }
@@ -2156,13 +2156,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "10:00-12:00",
                         "Profesor": "FARFAN LIRA, JOSE ENRIQUE"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "11:00-13:00",
                         "Profesor": "VENTOSILLA ZEVALLOS, MOISES ODAVIO"
                     }
@@ -2176,13 +2176,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "10:00-13:00",
                         "Profesor": "CACERES CARDENAS, FELIX VICTOR"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "09:00 - 11:00",
                         "Profesor": "CACERES CARDENAS, FELIX VICTOR"
                     }
@@ -2191,13 +2191,13 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "10:00-13:00",
                         "Profesor": "GUTIERREZ  PAUCAR , AGUSTIN"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "16:00-18:00",
                         "Profesor": "GUTIERREZ  PAUCAR , AGUSTIN"
                     }
@@ -2211,13 +2211,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "14:00-17:00",
                         "Profesor": "VENTOSILLA ZEVALLOS, MOISES ODAVIO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "17:00-19:00",
                         "Profesor": "VENTOSILLA ZEVALLOS, MOISES ODAVIO"
                     }
@@ -2226,13 +2226,13 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "14:00-17:00",
                         "Profesor": "ÑAUPARI HUATUCO, DIONICIO ZOCIMO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "20.00-22:00",
                         "Profesor": "BAUTISTA RIOS, JUAN PABLO"
                     }
@@ -2246,19 +2246,19 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "14:00-16:00",
                         "Profesor": "PERALTA ALFEREZ, FRANS"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "18:00-20:00",
                         "Profesor": "JIMENEZ HEREDIA ELADIO "
                     },
                     {
                         "Tipo": "L",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "08:00-10:00",
                         "Profesor": "ROMERO FUENTES, VIRGINIA"
                     }
@@ -2267,19 +2267,19 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "16:00-18:00",
                         "Profesor": "PERALTA ALFEREZ, FRANS"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "20:00-22:00",
                         "Profesor": "JIMENEZ HEREDIA ELADIO "
                     },
                     {
                         "Tipo": "L",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "10:00-12:00",
                         "Profesor": "ROMERO FUENTES, VIRGINIA"
                     }
@@ -2288,19 +2288,19 @@
                 "O": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "19:00-21:00",
                         "Profesor": "JIMENEZ HEREDIA ELADIO "
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "18:00-20:00",
                         "Profesor": "JIMENEZ HEREDIA ELADIO "
                     },
                     {
                         "Tipo": "L",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "18:00-20:00",
                         "Profesor": "JIMENEZ HEREDIA ELADIO "
                     }
@@ -2314,13 +2314,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "10:00-13:00",
                         "Profesor": "LOPEZ ARAMBURU, FERNANDO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "08:00-10:00",
                         "Profesor": "LOPEZ ARAMBURU, FERNANDO"
                     }
@@ -2329,13 +2329,13 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "10:00-13:00",
                         "Profesor": "LOPEZ ARAMBURU, FERNANDO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "08:00-10:00",
                         "Profesor": "LOPEZ ARAMBURU, FERNANDO"
                     }
@@ -2344,13 +2344,13 @@
                 "O": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "10.00-13:00",
                         "Profesor": "NUÑEZ CARRILLO, RICARDO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "10:00-12:00",
                         "Profesor": "LOPEZ ARAMBURU, FERNANDO"
                     }
@@ -2364,13 +2364,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "18:00-20:00",
                         "Profesor": "ROMERO GOYTENDIA, LUIS"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "18:00-20:00",
                         "Profesor": "ROMERO GOYTENDIA, LUIS"
                     }
@@ -2384,7 +2384,7 @@
         "M": [
                     {
                         "Tipo": "L",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "08:00-10:00",
                         "Profesor": "FLORES ATOCHE, BEAU"
                     }
@@ -2393,7 +2393,7 @@
                 "N": [
                     {
                         "Tipo": "L",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "14:00-16:00",
                         "Profesor": "FLORES ATOCHE, BEAU"
                     }
@@ -2402,7 +2402,7 @@
                 "O": [
                     {
                         "Tipo": "L",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "10:00-12:00",
                         "Profesor": "ALBURQUEQUE GUERRERO, ANGEL"
                     }
@@ -2411,7 +2411,7 @@
                 "P": [
                     {
                         "Tipo": "L",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "14:00-16:00",
                         "Profesor": "ALBURQUEQUE GUERRERO, ANGEL"
                     }
@@ -2420,7 +2420,7 @@
                 "Q": [
                     {
                         "Tipo": "L",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "14:00-16:00",
                         "Profesor": "ROMERO FUENTES, VIRGINIA"
                     }
@@ -2429,7 +2429,7 @@
                 "R": [
                     {
                         "Tipo": "L",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "16:00-18:00",
                         "Profesor": "MENDOZA CARDENAS, FREDY"
                     }
@@ -2438,7 +2438,7 @@
                 "S": [
                     {
                         "Tipo": "L",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "12:00-14:00",
                         "Profesor": "NUÑEZ CARRILLO, RICARDO"
                     }
@@ -2452,13 +2452,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "16:00-19:00",
                         "Profesor": "DELGADO LEON, MIGUEL"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "16:00-18:00",
                         "Profesor": "DELGADO LEON, MIGUEL"
                     }
@@ -2467,13 +2467,13 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "14:00-17:00",
                         "Profesor": "CAJAHUARINGA CAMACO, ARMANDO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "18:00-20:00",
                         "Profesor": "NN"
                     }
@@ -2482,13 +2482,13 @@
                 "O": [
                     {
                         "Tipo": "T",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "08:00-11:00",
                         "Profesor": "ALVAREZ MONTOYA, JUAN"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "20:00-22:00",
                         "Profesor": "NN"
                     }
@@ -2497,13 +2497,13 @@
                 "P": [
                     {
                         "Tipo": "T",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "11:00 - 14:00",
                         "Profesor": "ALVAREZ MONTOYA, JUAN"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "20:00-22:00",
                         "Profesor": "ALVAREZ MONTOYA, JUAN"
                     }
@@ -2517,13 +2517,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "13:00-15:00",
                         "Profesor": "ESTRADA MONTES, JOSE ALFREDO"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "15:00-17:00",
                         "Profesor": "ESTRADA MONTES, JOSE ALFREDO"
                     }
@@ -2532,13 +2532,13 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "08:00-10:00",
                         "Profesor": "GALVEZ LEGUA, MAURICIO PEDRO"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "10:00-12:00",
                         "Profesor": "GALVEZ LEGUA, MAURICIO PEDRO"
                     }
@@ -2547,13 +2547,13 @@
                 "O": [
                     {
                         "Tipo": "T",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "18:00-20:00",
                         "Profesor": "BARRIGA HOYLE, JAVIER"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "20:00-22:00",
                         "Profesor": "BARRIGA HOYLE, JAVIER"
                     }
@@ -2562,13 +2562,13 @@
                 "P": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "08:00-10:00",
                         "Profesor": "MORALES VILLANUEVA, AURELIO"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "20:00-22:00",
                         "Profesor": "BARRIGA HOYLE, JAVIER"
                     }
@@ -2577,13 +2577,13 @@
                 "Q": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "08:00-10:00",
                         "Profesor": "MORALES VILLANUEVA, AURELIO"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "10:00-12:00",
                         "Profesor": "MORALES VILLANUEVA, AURELIO"
                     }
@@ -2592,13 +2592,13 @@
                 "R": [
                     {
                         "Tipo": "T",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "16:00-18:00",
                         "Profesor": "ESTRADA MONTES, JOSE ALFREDO"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "18:00-20:00",
                         "Profesor": "ESTRADA MONTES, JOSE ALFREDO"
                     }
@@ -2612,19 +2612,19 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "18:00-20:00",
                         "Profesor": "CARBONEL OLAZABAL, DANIEL"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "08:00-10:00",
                         "Profesor": "RAMIREZ HUAMAN, LUIS ENRIQUE"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "10:00-12:00",
                         "Profesor": "VALENZUELA DE LA CRUZ, BASILIO"
                     }
@@ -2633,19 +2633,19 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "14:00-16:00",
                         "Profesor": "CARBONEL OLAZABAL, DANIEL"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "10:00-12:00",
                         "Profesor": "RAMIREZ HUAMAN, LUIS ENRIQUE"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "16:00-18:00",
                         "Profesor": "VALENZUELA DE LA CRUZ, BASILIO"
                     }
@@ -2654,19 +2654,19 @@
                 "O": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "16:00-18:00",
                         "Profesor": "MACHUCA MINES, JOSE"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "08:00-10:00",
                         "Profesor": "RAMIREZ HUAMAN, LUIS ENRIQUE"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "12:00-14:00",
                         "Profesor": "VALENZUELA DE LA CRUZ, BASILIO"
                     }
@@ -2675,19 +2675,19 @@
                 "P": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "14:00-16:00",
                         "Profesor": "MACHUCA MINES, JOSE"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "12:00-14:00",
                         "Profesor": "RAMIREZ HUAMAN, LUIS ENRIQUE"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "16:00-18:00",
                         "Profesor": "NN"
                     }
@@ -2696,19 +2696,19 @@
                 "Q": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "16:00-18:00",
                         "Profesor": "CARBONEL OLAZABAL, DANIEL"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "11:00-13.00",
                         "Profesor": "CARBONEL OLAZABAL, DANIEL"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "14:00-16:00",
                         "Profesor": "NN"
                     }
@@ -2722,13 +2722,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "08:00-10:00",
                         "Profesor": "FERNANDEZ MALPARTIDA, WALTER MIGUEL"
                     },
                     {
                         "Tipo": "T",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "12.00-14:00",
                         "Profesor": "FERNANDEZ MALPARTIDA, WALTER MIGUEL"
                     }
@@ -2742,13 +2742,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "12:00-15:00",
                         "Profesor": "KOC RUEDA, JOSE ELMER"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "16:00-18:00",
                         "Profesor": "NN"
                     }
@@ -2757,13 +2757,13 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "15:00-18:00",
                         "Profesor": "BEDRIÑANA ARONES, MANFRED FRITZ"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "18:00-20:00",
                         "Profesor": "BEDRIÑANA ARONES, MANFRED FRITZ"
                     }
@@ -2777,7 +2777,7 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "13:00-16:00",
                         "Profesor": "CARRANZA AREVALO, MANUEL"
                     }
@@ -2791,13 +2791,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "14:00-16:00",
                         "Profesor": "SANDOVAL RODRIGUEZ, ALBERTO"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "09:00-11:00",
                         "Profesor": "VENTOSILLA ZEVALLOS, MOISES ODAVIO"
                     }
@@ -2806,13 +2806,13 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "14:00-16:00",
                         "Profesor": "FARFAN LIRA, JOSE ENRIQUE"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "10:00-12:00",
                         "Profesor": "FARFAN LIRA, JOSE ENRIQUE"
                     }
@@ -2826,7 +2826,7 @@
         "M": [
                     {
                         "Tipo": "L",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "10:00-12:00",
                         "Profesor": "MEDINA RAMIREZ, JOSE AGUSTIN"
                     }
@@ -2835,7 +2835,7 @@
                 "N": [
                     {
                         "Tipo": "L",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "12:00-14:00",
                         "Profesor": "MEDINA RAMIREZ, JOSE AGUSTIN"
                     }
@@ -2844,7 +2844,7 @@
                 "O": [
                     {
                         "Tipo": "L",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "12:00-14:00",
                         "Profesor": "FARFAN LIRA, JOSE ENRIQUE"
                     }
@@ -2858,13 +2858,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "19:00-22:00",
                         "Profesor": "ROJAS MIRANDA, LUIS"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "18:00-20:00",
                         "Profesor": "ROJAS MIRANDA, LUIS"
                     }
@@ -2873,13 +2873,13 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "16:00-19:00",
                         "Profesor": "ROJAS MIRANDA, LUIS"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "20:00-22:00",
                         "Profesor": "ROJAS MIRANDA, LUIS"
                     }
@@ -2893,19 +2893,19 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "08:00 -10:00",
                         "Profesor": "GUTIERREZ  PAUCAR , AGUSTIN"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "14:00-16:00",
                         "Profesor": "GUTIERREZ  PAUCAR , AGUSTIN"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "10:00-12:00",
                         "Profesor": "GUTIERREZ  PAUCAR , AGUSTIN"
                     }
@@ -2914,19 +2914,19 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "10:00-12:00",
                         "Profesor": "GUTIERREZ  PAUCAR , AGUSTIN"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "10:00-12:00",
                         "Profesor": "PUICAN VERA, JOSE"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "10.00-12:00",
                         "Profesor": "PUICAN VERA, JOSE"
                     }
@@ -2940,19 +2940,19 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "16:00-19:00",
                         "Profesor": "MORENO MARTINEZ, RODOLFO MANUEL"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "15:00-17:00",
                         "Profesor": "MORENO MARTINEZ, RODOLFO MANUEL"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "10:00-12:00",
                         "Profesor": "NUÑEZ CARRILLO, RICARDO"
                     }
@@ -2961,19 +2961,19 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "08:00-11:00",
                         "Profesor": "NUÑEZ ZUÑIGA, TERESA ESTHER"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "18:00-20:00",
                         "Profesor": "NUÑEZ ZUÑIGA, TERESA ESTHER"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "16:00-18:00",
                         "Profesor": "NUÑEZ ZUÑIGA, TERESA ESTHER"
                     }
@@ -2982,19 +2982,19 @@
                 "O": [
                     {
                         "Tipo": "T",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "16:00-19:00",
                         "Profesor": "MORENO MARTINEZ, RODOLFO MANUEL"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "10:00 -12:00",
                         "Profesor": "NUÑEZ CARRILLO, RICARDO"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "10:00 -12:00",
                         "Profesor": "NUÑEZ CARRILLO, RICARDO"
                     }
@@ -3003,19 +3003,19 @@
                 "Q": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "10.00-13:00",
                         "Profesor": "TISZA CONTRERAS, JUAN"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "16:00-18:00",
                         "Profesor": "TISZA CONTRERAS, JUAN"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "14:00-16:00",
                         "Profesor": "RAMIREZ HUAMAN, LUIS ENRIQUE"
                     }
@@ -3029,13 +3029,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "18:00-20:00",
                         "Profesor": "DIAZ ATAUCURI, DANIEL"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "20:00-22:00",
                         "Profesor": "DIAZ ATAUCURI, DANIEL"
                     }
@@ -3044,13 +3044,13 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "12:00-14:00",
                         "Profesor": "DIAZ ATAUCURI, DANIEL"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "14:00-16:00",
                         "Profesor": "DIAZ ATAUCURI, DANIEL"
                     }
@@ -3064,19 +3064,19 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "16:00-18:00",
                         "Profesor": "PERALTA ALFEREZ, FRANS"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "11:00-13:00",
                         "Profesor": "RODRIGUEZ GUTIERREZ, ALFREDO"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "10:00-12:00",
                         "Profesor": "FLORES ATOCHE, BEAU"
                     }
@@ -3085,19 +3085,19 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "18:00-20:00",
                         "Profesor": "PERALTA ALFEREZ, FRANS"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "08:00-10:00",
                         "Profesor": "RODRIGUEZ GUTIERREZ, ALFREDO"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "16:00-18:00",
                         "Profesor": "FLORES ATOCHE, BEAU"
                     }
@@ -3106,19 +3106,19 @@
                 "O": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "16:00-18:00",
                         "Profesor": "PERALTA ALFEREZ, FRANS"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "14:00-16:00",
                         "Profesor": "RODRIGUEZ GUTIERREZ, ALFREDO"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "10:00-12:00",
                         "Profesor": "RODRIGUEZ GUTIERREZ, ALFREDO"
                     }
@@ -3127,19 +3127,19 @@
                 "P": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "20:00-22:00",
                         "Profesor": "CORDOVA BERNUY, VICTOR"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "16:00-18:00",
                         "Profesor": "CORDOVA BERNUY, VICTOR"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "16:00-18:00",
                         "Profesor": "CORDOVA BERNUY, VICTOR"
                     }
@@ -3148,19 +3148,19 @@
                 "Q": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "14:00-16:00",
                         "Profesor": "PERALTA ALFEREZ, FRANS"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "14:00-16:00",
                         "Profesor": "RODRIGUEZ GUTIERREZ, ALFREDO"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "08:00-10:00",
                         "Profesor": "RODRIGUEZ GUTIERREZ, ALFREDO"
                     }
@@ -3174,19 +3174,19 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "18:00-20:00",
                         "Profesor": "BELLEZA ZAMORA, EDUARDO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "20:00-22:00",
                         "Profesor": "BELLEZA ZAMORA, EDUARDO"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "13.00-15:00",
                         "Profesor": "BELLEZA ZAMORA, EDUARDO"
                     }
@@ -3195,19 +3195,19 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "18:00-20:00",
                         "Profesor": "BELLEZA ZAMORA, EDUARDO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "20:00-22:00",
                         "Profesor": "BELLEZA ZAMORA, EDUARDO"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "19:00-21:00",
                         "Profesor": "BELLEZA ZAMORA, EDUARDO"
                     }
@@ -3221,13 +3221,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "16:00-19:00",
                         "Profesor": "LOZANO SALAS, JULIO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "19:00-21:00",
                         "Profesor": "LOZANO SALAS, JULIO"
                     }
@@ -3241,13 +3241,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "08:00-10:00",
                         "Profesor": "GALVEZ LEGUA, MAURICIO PEDRO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "10:00-12:00",
                         "Profesor": "GALVEZ LEGUA, MAURICIO PEDRO"
                     }
@@ -3261,19 +3261,19 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "18:00-20:00",
                         "Profesor": "DIAZ ALIAGA, JULIO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "18:00-20:00",
                         "Profesor": "DIAZ ALIAGA, JULIO"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "20:00-22:00",
                         "Profesor": "DIAZ ALIAGA, JULIO"
                     }
@@ -3282,19 +3282,19 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "10:00-12:00",
                         "Profesor": "BRICEÑO ARANDA, CESAR"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "14:00-16:00",
                         "Profesor": "BRICEÑO ARANDA, CESAR"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "08:00 - 10:00",
                         "Profesor": "BRICEÑO ARANDA, CESAR"
                     }
@@ -3308,19 +3308,19 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "14:00-16:00",
                         "Profesor": "MEDINA RAMOS, CARLOS"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "16:00-18:00",
                         "Profesor": "MEDINA RAMOS, CARLOS"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "14:00-16:00",
                         "Profesor": "NN"
                     }
@@ -3329,19 +3329,19 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "14:00-16:00",
                         "Profesor": "MEDINA RAMOS, CARLOS"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "10:00-12:00",
                         "Profesor": "RAMIREZ HUAMAN, LUIS ENRIQUE"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "16:00-18:00",
                         "Profesor": "RAMIREZ HUAMAN, LUIS ENRIQUE"
                     }
@@ -3355,13 +3355,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "18:00-20:00",
                         "Profesor": "SALVADOR JACOME, LEONCIO JULIO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "18:00-20:00",
                         "Profesor": "SALVADOR JACOME, LEONCIO JULIO"
                     }
@@ -3370,13 +3370,13 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "20:00-22:00",
                         "Profesor": "SALVADOR JACOME, LEONCIO JULIO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "20:00-22:00",
                         "Profesor": "SALVADOR JACOME, LEONCIO JULIO"
                     }
@@ -3385,13 +3385,13 @@
                 "O": [
                     {
                         "Tipo": "T",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "08:00-10:00",
                         "Profesor": "MONTES BAZALAR, LUIS"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "10:00-12:00",
                         "Profesor": "MONTES BAZALAR, LUIS"
                     }
@@ -3400,13 +3400,13 @@
                 "P": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "14:00-16:00",
                         "Profesor": "SANDOVAL RODRIGUEZ, ALBERTO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "16:00 - 18:00",
                         "Profesor": "SANDOVAL RODRIGUEZ, ALBERTO"
                     }
@@ -3415,13 +3415,13 @@
                 "Q": [
                     {
                         "Tipo": "T",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "20:00-22:00",
                         "Profesor": "DEGREGORI CADENILLAS, LUIS"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "20:00-22:00",
                         "Profesor": "DEGREGORI CADENILLAS, LUIS"
                     }
@@ -3435,13 +3435,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "14:00-16:00",
                         "Profesor": "PIZAN TOSCANO, LUPE NERIDA"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "16:00-18:00",
                         "Profesor": "PIZAN TOSCANO, LUPE NERIDA"
                     }
@@ -3450,13 +3450,13 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "16:00-18:00",
                         "Profesor": "PIZAN TOSCANO, LUPE NERIDA"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "14:00-16:00",
                         "Profesor": "PIZAN TOSCANO, LUPE NERIDA"
                     }
@@ -3470,13 +3470,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "08:00-10:00",
                         "Profesor": "PALMA GARCIA, MODESTO TOMAS"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "10:00-12:00",
                         "Profesor": "PALMA GARCIA, MODESTO TOMAS"
                     }
@@ -3490,7 +3490,7 @@
         "M": [
                     {
                         "Tipo": "L",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "08:00-10:00",
                         "Profesor": "ROJAS MIRANDA, LUIS"
                     }
@@ -3499,7 +3499,7 @@
                 "N": [
                     {
                         "Tipo": "L",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "12:00-14:00",
                         "Profesor": "PUICAN VERA, JOSE"
                     }
@@ -3508,7 +3508,7 @@
                 "O": [
                     {
                         "Tipo": "L",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "08:00-10:00",
                         "Profesor": "PUICAN VERA, JOSE"
                     }
@@ -3522,13 +3522,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "16:00-19:00",
                         "Profesor": "YANQUE MONTUFAR, JUSTO"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "14:00-16:00",
                         "Profesor": "YANQUE MONTUFAR, JUSTO/SANDOVAL RODRIGUEZ, ALBERTO"
                     }
@@ -3542,13 +3542,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "19:00-22:00",
                         "Profesor": "RAMIREZ ARCELLES, ROBERTO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "20:00-22:00",
                         "Profesor": "RAMIREZ ARCELLES, ROBERTO"
                     }
@@ -3562,13 +3562,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "18:00-20:00",
                         "Profesor": "BAUTISTA RIOS, JUAN PABLO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "20:00-22:00",
                         "Profesor": "BAUTISTA RIOS, JUAN PABLO"
                     }
@@ -3577,13 +3577,13 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "20:00-22:00",
                         "Profesor": "MORENO CUEVA, CESAR"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "20:00-22:00",
                         "Profesor": "MORENO CUEVA, CESAR"
                     }
@@ -3597,13 +3597,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "14:00-17:00",
                         "Profesor": "ROSADO AGUIRRE, ESTANISLAO UBALDO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "14:00-16:00",
                         "Profesor": "ROSADO AGUIRRE, ESTANISLAO UBALDO"
                     }
@@ -3617,13 +3617,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "19:00-22:00",
                         "Profesor": "MENDOZA CARDENAS, FREDY"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "18:00-20:00",
                         "Profesor": "MENDOZA CARDENAS, FREDY"
                     }
@@ -3637,19 +3637,19 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "18:00-20:00",
                         "Profesor": "LOPEZ TAFUR, MARCIAL ANTONIO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "20:00-22:00",
                         "Profesor": "LOPEZ TAFUR, MARCIAL ANTONIO"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "08:00-10:00",
                         "Profesor": "CAJAHUARINGA CAMACO, ARMANDO"
                     }
@@ -3658,19 +3658,19 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "18:00-20:00",
                         "Profesor": "ALVAREZ MONTOYA, JUAN"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "20:00-22:00",
                         "Profesor": "ALVAREZ MONTOYA, JUAN"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "10:00-12:00",
                         "Profesor": "CAJAHUARINGA CAMACO, ARMANDO"
                     }
@@ -3684,13 +3684,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "13:00-15:00",
                         "Profesor": "GALVEZ LEGUA, MAURICIO PEDRO"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "15:00-17:00",
                         "Profesor": "GALVEZ LEGUA, MAURICIO PEDRO"
                     }
@@ -3704,13 +3704,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "18:00-20:00",
                         "Profesor": "LOPEZ TAFUR, MARCIAL ANTONIO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "20:00-22:00",
                         "Profesor": "LOPEZ TAFUR, MARCIAL ANTONIO"
                     }
@@ -3724,13 +3724,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "18:00-20:00",
                         "Profesor": "PATTRONI CHAVEZ,  ARMANDO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "20:00-22:00",
                         "Profesor": "PATTRONI CHAVEZ,  ARMANDO"
                     }
@@ -3744,13 +3744,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "18:00-20:00",
                         "Profesor": "PATTRONI CHAVEZ,  ARMANDO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "20:00-22:00",
                         "Profesor": "PATTRONI CHAVEZ,  ARMANDO"
                     }
@@ -3764,13 +3764,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "19:00-22:00",
                         "Profesor": "AQUIZE PALACIOS, RUBEN"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "18:00-20:00",
                         "Profesor": "AQUIZE PALACIOS, RUBEN"
                     }
@@ -3784,13 +3784,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "18:00-20:00",
                         "Profesor": "BARRIGA HOYLE, JAVIER"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "20:00-22:00",
                         "Profesor": "BARRIGA HOYLE, JAVIER"
                     }
@@ -3804,19 +3804,19 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "10:00-12:00",
                         "Profesor": "MORALES VILLANUEVA, AURELIO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "08:00-10:00",
                         "Profesor": "MORALES VILLANUEVA, AURELIO"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "10:00-12:00",
                         "Profesor": "MORALES VILLANUEVA, AURELIO"
                     }
@@ -3830,13 +3830,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "20:00-22:00",
                         "Profesor": "LOPEZ TAFUR, MARCIAL ANTONIO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "18:00-20:00",
                         "Profesor": "LOPEZ TAFUR, MARCIAL ANTONIO"
                     }
@@ -3850,13 +3850,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "18:00-20:00",
                         "Profesor": "ALARCON MATUTTI, RUBEN VIRGILIO"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "20:00-22:00",
                         "Profesor": "ALARCON MATUTTI, RUBEN VIRGILIO"
                     }
@@ -3870,13 +3870,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "14:00-16:00",
                         "Profesor": "BEDRIÑANA ARONES, MANFRED FRITZ"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "16:00-18:00",
                         "Profesor": "BEDRIÑANA ARONES, MANFRED FRITZ"
                     }
@@ -3890,19 +3890,19 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "20:00-22:00",
                         "Profesor": "GALVEZ LEGUA, MAURICIO PEDRO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "18:00-20:00",
                         "Profesor": "GALVEZ LEGUA, MAURICIO PEDRO"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "20:00-22:00",
                         "Profesor": "GALVEZ LEGUA, MAURICIO PEDRO"
                     }
@@ -3916,13 +3916,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "08:00-10:00",
                         "Profesor": "ANTARA ARIAS, RONAL"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "20:00-22:00",
                         "Profesor": "AGUILAR QUIROZ, RICARDO"
                     }
@@ -3936,13 +3936,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "08:00-10:00",
                         "Profesor": "CHACALIAZA HUAPAYA, LUIS"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "10:00-12:00",
                         "Profesor": "CHACALIAZA HUAPAYA, LUIS"
                     }
@@ -3956,13 +3956,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "16:00-19:00",
                         "Profesor": "HUAYLLASCO MONTALVA, CARLOS"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "18:00-20:00",
                         "Profesor": "MORENO CUEVA, CESAR"
                     }
@@ -3976,13 +3976,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "16:00-18:00",
                         "Profesor": "FLORES TINOCO, MOISES ARISTE"
                     },
                     {
                         "Tipo": "P/L",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "16:00-20:00",
                         "Profesor": "FLORES TINOCO, MOISES ARISTE"
                     }
@@ -3991,13 +3991,13 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "16:00-18:00",
                         "Profesor": "CACERES CARDENAS, FELIX VICTOR"
                     },
                     {
                         "Tipo": "P/L",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "14:00-18:00",
                         "Profesor": "KOC RUEDA, JOSE ELMER"
                     }
@@ -4006,13 +4006,13 @@
                 "O": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "20:00 - 22:00",
                         "Profesor": "CARBONEL OLAZABAL, DANIEL"
                     },
                     {
                         "Tipo": "P/L",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "18:00-22:00",
                         "Profesor": "ATALAYA PISCO, CESAR AUGUSTO"
                     }
@@ -4021,13 +4021,13 @@
                 "P": [
                     {
                         "Tipo": "T",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "18:00-20:00",
                         "Profesor": "FIGUEROA SANTOS, LUIS LEONCIO"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "16:00-20:00",
                         "Profesor": "FIGUEROA SANTOS, LUIS LEONCIO"
                     }
@@ -4036,13 +4036,13 @@
                 "Q": [
                     {
                         "Tipo": "T",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "16:00-18:00",
                         "Profesor": "FIGUEROA SANTOS, LUIS LEONCIO"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "14:00-18:00",
                         "Profesor": "FIGUEROA SANTOS, LUIS LEONCIO"
                     }
@@ -4056,7 +4056,7 @@
         "M": [
                     {
                         "Tipo": "L",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "14:00-16:00",
                         "Profesor": "FLORES ATOCHE, BEAU"
                     }
@@ -4065,7 +4065,7 @@
                 "N": [
                     {
                         "Tipo": "L",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "14:00-16:00",
                         "Profesor": "ALBURQUEQUE GUERRERO, ANGEL"
                     }
@@ -4074,7 +4074,7 @@
                 "O": [
                     {
                         "Tipo": "L",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "10:00-12:00",
                         "Profesor": "FLORES ATOCHE, BEAU"
                     }
@@ -4088,13 +4088,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "18:00-21:00",
                         "Profesor": "MACHUCA MINES, JOSE"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "14:00-16:00",
                         "Profesor": "MACHUCA MINES, JOSE"
                     }
@@ -4108,7 +4108,7 @@
         "M": [
                     {
                         "Tipo": "L",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "14:00-16:00",
                         "Profesor": "MEDINA RAMIREZ, JOSE AGUSTIN"
                     }
@@ -4122,13 +4122,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "14:00-16:00",
                         "Profesor": "TRONCOSO CASTRO, PAUL"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "16:00-18:00",
                         "Profesor": "TRONCOSO CASTRO, PAUL"
                     }
@@ -4142,13 +4142,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "08:00-10:00",
                         "Profesor": "MENDOZA CARDENAS, FREDY"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "10:00-12:00",
                         "Profesor": "MENDOZA CARDENAS, FREDY"
                     }
@@ -4162,13 +4162,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "18:00-20:00",
                         "Profesor": "NEYRA HERRERA, MIGUEL"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "20:00-22:00",
                         "Profesor": "NEYRA HERRERA, MIGUEL"
                     }
@@ -4177,13 +4177,13 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "08:00-10.00",
                         "Profesor": "MARTINEZ CHINDA, RONALD"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "10.00-12:00",
                         "Profesor": "MARTINEZ CHINDA, RONALD"
                     }
@@ -4197,13 +4197,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "12:00-15:00",
                         "Profesor": "ANTARA ARIAS, RONAL"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "20:00-22:00",
                         "Profesor": "AGUILAR QUIROZ, RICARDO"
                     }
@@ -4217,13 +4217,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "10;00-12;00",
                         "Profesor": "ARROYO ARANA, CARLOS ALBERTO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "17:0-19:00",
                         "Profesor": "VENTOSILLA ZEVALLOS, MOISES ODAVIO"
                     }
@@ -4237,7 +4237,7 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "16.00-19:00",
                         "Profesor": "SANDOVAL RODRIGUEZ, ALBERTO"
                     }
@@ -4251,13 +4251,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "16:00-18:00",
                         "Profesor": "ZORRILLA ACOSTA, JOSE ALBERTO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "18:00-20:00",
                         "Profesor": "ZORRILLA ACOSTA, JOSE ALBERTO"
                     }
@@ -4271,13 +4271,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "14:00-16:00",
                         "Profesor": "PALMA GARCIA, MODESTO TOMAS"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "14:00-18:00",
                         "Profesor": "CACERES CARDENAS, FELIX VICTOR"
                     }
@@ -4286,13 +4286,13 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "16.00-18:00",
                         "Profesor": "PALMA GARCIA, MODESTO TOMAS"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "14:00-18:00",
                         "Profesor": "PALMA GARCIA, MODESTO TOMAS"
                     }
@@ -4301,13 +4301,13 @@
                 "O": [
                     {
                         "Tipo": "T",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "08:00-10:00",
                         "Profesor": "ARROYO ARANA, CARLOS ALBERTO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "13:00-17:00",
                         "Profesor": "ARROYO ARANA, CARLOS ALBERTO"
                     }
@@ -4316,13 +4316,13 @@
                 "P": [
                     {
                         "Tipo": "T",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "17:00-19:00",
                         "Profesor": "MEDINA RAMOS, CARLOS"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "16:00 - 20:00",
                         "Profesor": "MEDINA RAMOS, CARLOS"
                     }
@@ -4331,13 +4331,13 @@
                 "Q": [
                     {
                         "Tipo": "T",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "16:00-18:00",
                         "Profesor": "TRONCOSO CASTRO, PAUL"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "17:00-21:00",
                         "Profesor": "DEGREGORI CADENILLAS, LUIS"
                     }
@@ -4346,13 +4346,13 @@
                 "R": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "20:00-22:00",
                         "Profesor": "ATALAYA PISCO, CESAR AUGUSTO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "18:00-22:00",
                         "Profesor": "ATALAYA PISCO, CESAR AUGUSTO"
                     }
@@ -4361,13 +4361,13 @@
                 "S": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "20:00-22:00",
                         "Profesor": "LOZANO SALAS, JULIO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "17:00-21:00",
                         "Profesor": "LOZANO SALAS, JULIO"
                     }
@@ -4376,13 +4376,13 @@
                 "T": [
                     {
                         "Tipo": "T",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "12:00-14:00",
                         "Profesor": "MONTES BAZALAR, LUIS"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "18:00-22:00",
                         "Profesor": "DIAZ ZEGARRA, JOSE"
                     }
@@ -4396,13 +4396,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "18:00-20:00",
                         "Profesor": "BAUTISTA RIOS, JUAN PABLO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "20:00-22:00",
                         "Profesor": "BAUTISTA RIOS, JUAN PABLO"
                     }
@@ -4411,13 +4411,13 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "20:00-22:00",
                         "Profesor": "FLORES TINOCO, MOISES ARISTE"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "20.00-22:00",
                         "Profesor": "NN"
                     }
@@ -4431,13 +4431,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "18:00-20:00",
                         "Profesor": "MONTES BAZALAR, LUIS"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "20:00-22:00",
                         "Profesor": "MONTES BAZALAR, LUIS"
                     }
@@ -4451,13 +4451,13 @@
         "M": [
                     {
                         "Tipo": "P",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "14:00-16:00",
                         "Profesor": "TRONCOSO CASTRO, PAUL"
                     },
                     {
                         "Tipo": "T",
-                        "Día": "LU",
+                        "Dia": "LU",
                         "Hora": "16:00-18:00",
                         "Profesor": "TRONCOSO CASTRO, PAUL"
                     }
@@ -4471,13 +4471,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "18:00-20:00",
                         "Profesor": "MACHUCA MINES, JOSE"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "JU",
+                        "Dia": "JU",
                         "Hora": "16:00-18:00",
                         "Profesor": "MACHUCA MINES, JOSE"
                     }
@@ -4491,13 +4491,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "16:00-18:00",
                         "Profesor": "ATALAYA PISCO, CESAR AUGUSTO"
                     },
                     {
                         "Tipo": "P",
-                        "Día": "MA",
+                        "Dia": "MA",
                         "Hora": "18:00-20:00",
                         "Profesor": "ATALAYA PISCO, CESAR AUGUSTO"
                     }
@@ -4511,13 +4511,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "14:00-16:00",
                         "Profesor": "GAMARRA QUISPE, SEGUNDO"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "MI",
+                        "Dia": "MI",
                         "Hora": "16:00-18:00",
                         "Profesor": "GAMARRA QUISPE, SEGUNDO"
                     }
@@ -4531,13 +4531,13 @@
         "M": [
                     {
                         "Tipo": "T",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "14:00-16:00",
                         "Profesor": "BENITEZ PALACIOS, JOSE"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "VI",
+                        "Dia": "VI",
                         "Hora": "16:00-18:00",
                         "Profesor": "BENITEZ PALACIOS, JOSE"
                     }
@@ -4546,13 +4546,13 @@
                 "N": [
                     {
                         "Tipo": "T",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "08:00-10:00",
                         "Profesor": "GARRO MOREY, ARTURO EDUARDO"
                     },
                     {
                         "Tipo": "L",
-                        "Día": "SA",
+                        "Dia": "SA",
                         "Hora": "10:00-12.00",
                         "Profesor": "GARRO MOREY, ARTURO EDUARDO"
                     }
