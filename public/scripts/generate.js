@@ -1,11 +1,10 @@
 const generateButtom = document.querySelector("#generate");
 
 generateButtom.addEventListener("click", event => {
+    let selected = document.querySelectorAll(".selected");
 
     let arraySelect = [];
     let nameSelect = [];
-
-    let selected = document.querySelectorAll(".selected");
 
     selected.forEach(item => {
         arraySelect.push(
@@ -15,8 +14,9 @@ generateButtom.addEventListener("click", event => {
             item.childNodes[1].textContent
         );
     });
+    console.log(arraySelect);
 
-    generateSchedule(arraySelect,nameSelect);
+    generateSchedule(arraySelect, nameSelect);
 });
 
 // Crear la tabla representando un horario en blanco, en donde colocaremos los cursos
@@ -113,7 +113,7 @@ function horarioCompartido(conjunHorarios, arregloCursos, datatable){
     else{
         var posibilidadHorario = false;
     }
-    return [posibilidadHorario, tablita]
+    return [posibilidadHorario, tablita, noHayCruce, cumpleCiclos]
 }
 
 // En esta función se realizará una tabla de horario para el curso seleccionado
@@ -158,10 +158,15 @@ function CiclosConsecutivos(dataTable, arregloCursos){
         return self.indexOf(value) === index;
     }
     var ciclosDistintos = ciclos.filter(distinct)
-    if(ciclosDistintos.length <= 3){
-        return true
+    ciclosDistintos.sort();
+    console.log(ciclosDistintos)
+    let numMinimo = ciclosDistintos[0]
+    for(var i in ciclosDistintos){
+        if(ciclosDistintos[i] < numMinimo ||  ciclosDistintos[i] > numMinimo+2){
+            return false
+        }
     }
-    return false
+    return true
 }
 
 // Detecta si hay cruces o no: (true = no hay cruce o hay cruces permitidos, false = cruces no permitidos)
@@ -278,12 +283,40 @@ function convertirTipoCurso(tipo){
     return type
 }
 
-function generateScheduleTable(lineaDeEntrada, horarioCreado, lineaDeEntradaNombre) {
-    //lineaNombres = []
-    //for( curso in lineaDeEntrada){
-        //lineaNombres.push(getNameCourse(lineaDeEntrada[curso].substring(0,5),dataHorario))
-    //}
+function generateScheduleTable(lineaDeEntrada, horarioCreado, lineaDeEntradaNombre) 
+{
+    const labelCruce = document.querySelector("#textoCruce");
+    let texto1 = ""
+    let texto2 = ""
+    if(horarioCreado[0]){
+        texto1 = "No existen cruces en el horario o existen cruces permitidos."
+        color1 = "black"
+        color2 = "black"
+    }
+    else{
+        if(horarioCreado[2]){
+            texto1 = "No existen cruces en el horario o existen cruces permitidos."
+            color1 = "black"
+        }
+        else{
+            texto1 = "Existen cruces no permitidos."
+            color1 = "red"
+        }
+        if(horarioCreado[3]){
+            texto2 = " // Los cursos pertenecen a 3 ciclos consecutivos."
+            color2 = "black"
+        }
+        else{
+            texto2 = " // Los cursos no pertenecen a 3 ciclos consecutivos."
+            color2 = "red"
+        }
+    }
+    const btnclose = document.querySelectorAll(".btnclose");
 
+    const alldays = document.querySelectorAll(".alldays");
+    //lbelCruce.textContent = textoMostrar
+    labelCruce.insertAdjacentHTML('beforeend', `<h7 style="color:${color1}">${texto1}</h7><h7 style="color:${color2}">${texto2}</h7>`)
+    console.log(horarioCreado[0])
     let arraySelect = [];
     let arrayColors = ["#009f4d", "#a51890", "#0085ad", "#efdf00", "#84bd00", "#da1884", "#222", "#ff9900"]
     
@@ -293,16 +326,23 @@ function generateScheduleTable(lineaDeEntrada, horarioCreado, lineaDeEntradaNomb
                 let days = ["LU", "MA", "MI", "JU", "VI", "SA"];
                 let hours = ["8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21"];
                 let infoCourse = ''
+                let nombre = ""
 
                 for (let k = 0; k < horarioCreado[1][i][j].split("-").length; k++) {
                     codeCourse = lineaDeEntrada[horarioCreado[1][i][j].split("-")[k].split("")[0] - 1];
                     type = horarioCreado[1][i][j].split("-")[k].split("")[1];
                     infoCourse += `${codeCourse}-${type}/`;
+
+                    for(let indice = 0; indice < lineaDeEntrada.length; indice++){
+                        if(lineaDeEntrada[indice] == codeCourse){
+                            nombre = nombre + lineaDeEntradaNombre[indice] + "-"
+                        }
+                    }
                 }
                 for(let indice = 0; indice < lineaDeEntrada.length; indice++){
                     if(lineaDeEntrada[indice] == codeCourse){
                         var color = arrayColors[indice]
-                        var nombre = lineaDeEntradaNombre[indice]
+                        //var nombre = lineaDeEntradaNombre[indice]
                     }
                 }
                 arraySelect.push([hours[i], days[j], infoCourse.substring(0, infoCourse.length - 1), color, nombre]);
@@ -316,16 +356,18 @@ function generateScheduleTable(lineaDeEntrada, horarioCreado, lineaDeEntradaNomb
         arraySelect.forEach(course => {
             codeCourse = "";
             tipo = "";
+            nombre = "";
             // Si hay cruce:
             if(course[2].indexOf("/") > 0){
                 for(var cru in course[2].split("/")){
                     codeCourse = codeCourse + course[2].split("/")[cru].substring(0,6) + "//";
                     tipo = tipo + convertirTipoCurso(course[2].split("/")[cru].substring(7,8)) + "//";
                     colorCourse = "#e4002b";
-                    nombre = course[4]
+                    nombre = nombre + course[4].split("-")[cru].substring(0,10) + ".//";
                 }
                 codeCourse = codeCourse.substring(0,codeCourse.length - 2)
                 tipo = tipo.substring(0,tipo.length - 2)
+                nombre = nombre.substring(0,nombre.length - 2)
             }
             else{
                 codeCourse = course[2].substring(0,6);
@@ -355,15 +397,15 @@ function generateScheduleTable(lineaDeEntrada, horarioCreado, lineaDeEntradaNomb
 
         const alldays = document.querySelectorAll(".alldays");
 
-        const selected = document.querySelectorAll(".selected");
-
         btnclose.forEach(item => {
             item.addEventListener('click', event => {
                 alldays.forEach(day => {
                     day.innerHTML = '';
-                });
-                selected.forEach(select => {
-                    select.classList.replace('selected', 'not_selected');
+                    texto1 =""
+                    texto2 =""
+                    color1 =""
+                    color2 =""
+                    labelCruce.innerHTML = ''
                 });
             })
         });
