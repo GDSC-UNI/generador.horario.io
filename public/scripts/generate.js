@@ -294,18 +294,26 @@ function generateScheduleTable(lineaDeEntrada, horarioCreado, lineaDeEntradaNomb
                 let days = ["LU", "MA", "MI", "JU", "VI", "SA"];
                 let hours = ["8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21"];
                 let infoCourse = ''
+                let nombre = ""
 
                 for (let k = 0; k < horarioCreado[1][i][j].split("-").length; k++) {
                     codeCourse = lineaDeEntrada[horarioCreado[1][i][j].split("-")[k].split("")[0] - 1];
                     type = horarioCreado[1][i][j].split("-")[k].split("")[1];
                     infoCourse += `${codeCourse}-${type}/`;
+
+                    for(let indice = 0; indice < lineaDeEntrada.length; indice++){
+                        if(lineaDeEntrada[indice] == codeCourse){
+                            nombre = nombre + lineaDeEntradaNombre[indice] + "-"
+                        }
+                    }
                 }
                 for(let indice = 0; indice < lineaDeEntrada.length; indice++){
                     if(lineaDeEntrada[indice] == codeCourse){
                         var color = arrayColors[indice]
-                        var nombre = lineaDeEntradaNombre[indice]
+                        //var nombre = lineaDeEntradaNombre[indice]
                     }
                 }
+                console.log(nombre)
                 arraySelect.push([hours[i], days[j], infoCourse.substring(0, infoCourse.length - 1), color, nombre]);
 
             }
@@ -317,16 +325,18 @@ function generateScheduleTable(lineaDeEntrada, horarioCreado, lineaDeEntradaNomb
         arraySelect.forEach(course => {
             codeCourse = "";
             tipo = "";
+            nombre = "";
             // Si hay cruce:
             if(course[2].indexOf("/") > 0){
                 for(var cru in course[2].split("/")){
                     codeCourse = codeCourse + course[2].split("/")[cru].substring(0,6) + "//";
                     tipo = tipo + convertirTipoCurso(course[2].split("/")[cru].substring(7,8)) + "//";
                     colorCourse = "#e4002b";
-                    nombre = course[4]
+                    nombre = nombre + course[4].split("-")[cru].substring(0,10) + ".//";
                 }
                 codeCourse = codeCourse.substring(0,codeCourse.length - 2)
                 tipo = tipo.substring(0,tipo.length - 2)
+                nombre = nombre.substring(0,nombre.length - 2)
             }
             else{
                 codeCourse = course[2].substring(0,6);
