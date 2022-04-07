@@ -1,11 +1,10 @@
 const generateButtom = document.querySelector("#generate");
 
 generateButtom.addEventListener("click", event => {
+    let selected = document.querySelectorAll(".selected");
 
     let arraySelect = [];
     let nameSelect = [];
-
-    let selected = document.querySelectorAll(".selected");
 
     selected.forEach(item => {
         arraySelect.push(
@@ -16,7 +15,9 @@ generateButtom.addEventListener("click", event => {
         );
     });
 
-    generateSchedule(arraySelect,nameSelect);
+    console.log(arraySelect);
+
+    generateSchedule(arraySelect, nameSelect);
 });
 
 // Crear la tabla representando un horario en blanco, en donde colocaremos los cursos
@@ -355,15 +356,10 @@ function generateScheduleTable(lineaDeEntrada, horarioCreado, lineaDeEntradaNomb
 
         const alldays = document.querySelectorAll(".alldays");
 
-        const selected = document.querySelectorAll(".selected");
-
         btnclose.forEach(item => {
             item.addEventListener('click', event => {
                 alldays.forEach(day => {
                     day.innerHTML = '';
-                });
-                selected.forEach(select => {
-                    select.classList.replace('selected', 'not_selected');
                 });
             })
         });
