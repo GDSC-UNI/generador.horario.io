@@ -145,8 +145,11 @@ button#add-button:hover {
 
 .tag-container {
   display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
+  flex-direction: column;
+  /* flex-wrap: wrap; */
+  justify-content: center;
+  align-items: center;
+
 }
 
 .tag {
