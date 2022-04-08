@@ -17,7 +17,7 @@ setTimeout(() => {
                     `<div class="content_select_course" id="${event.currentTarget.parentNode.childNodes[0].textContent}_${event.currentTarget.parentNode.childNodes[2].textContent}">
                         ${event.currentTarget.parentNode.childNodes[0].textContent}
                         ${event.currentTarget.parentNode.childNodes[2].textContent}
-                        ${event.currentTarget.parentNode.childNodes[1].textContent}
+                        <span class="text_course">${event.currentTarget.parentNode.childNodes[1].textContent}</span>
                     </div>`);
                 }
 

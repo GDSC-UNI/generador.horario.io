@@ -143,6 +143,12 @@ button#add-button:hover {
   background-color: #ef5350;
 }
 
+.content_course {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .tag-container {
   display: flex;
   flex-direction: column;
@@ -150,6 +156,16 @@ button#add-button:hover {
   justify-content: center;
   align-items: center;
 
+  background-color: #C8E6C9 ;
+  width: 50%;
+  border-radius: 20px;
+  color:rgba(0,0,0,.87);
+  padding: 4px 0 16px 0;
+}
+
+.content_select_course {
+  color:rgba(0,0,0,.87);
+  font-weight: 600;
 }
 
 .tag {
@@ -160,6 +176,11 @@ button#add-button:hover {
   margin-bottom: var(--sm);
   margin-right: var(--sm);
   padding: var(--xs) var(--sm);
+}
+
+.tag-container h3 {
+  color: rgb(8,8,53);
+  font-weight: bold;
 }
 
 .remove-tag {
@@ -272,6 +293,16 @@ tbody td:nth-child(9) {
   .container-search .col-search {
     width: 100%;
   }
+
+  .text_course {
+    display: none;
+  }
+
+  .tag-container {
+    width: 80%;
+  }
+
+
 }
 
 @media screen and (max-width: 480px) {
