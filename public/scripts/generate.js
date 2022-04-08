@@ -14,9 +14,6 @@ generateButtom.addEventListener("click", event => {
             item.childNodes[1].textContent
         );
     });
-
-    console.log(arraySelect);
-
     generateSchedule(arraySelect, nameSelect);
 });
 
@@ -114,7 +111,7 @@ function horarioCompartido(conjunHorarios, arregloCursos, datatable){
     else{
         var posibilidadHorario = false;
     }
-    return [posibilidadHorario, tablita]
+    return [posibilidadHorario, tablita, noHayCruce, cumpleCiclos]
 }
 
 // En esta función se realizará una tabla de horario para el curso seleccionado
@@ -160,7 +157,6 @@ function CiclosConsecutivos(dataTable, arregloCursos){
     }
     var ciclosDistintos = ciclos.filter(distinct)
     ciclosDistintos.sort();
-    console.log(ciclosDistintos)
     let numMinimo = ciclosDistintos[0]
     for(var i in ciclosDistintos){
         if(ciclosDistintos[i] < numMinimo ||  ciclosDistintos[i] > numMinimo+2){
@@ -288,6 +284,8 @@ function generateScheduleTable(lineaDeEntrada, horarioCreado, lineaDeEntradaNomb
     const labelCruce = document.querySelector("#textoCruce");
     let texto1 = ""
     let texto2 = ""
+    color1 = ""
+    color2 = ""
     if(horarioCreado[0]){
         texto1 = "No existen cruces en el horario o existen cruces permitidos."
         color1 = "black"
@@ -311,6 +309,8 @@ function generateScheduleTable(lineaDeEntrada, horarioCreado, lineaDeEntradaNomb
             color2 = "red"
         }
     }
+    console.log(horarioCreado[2])
+    console.log(horarioCreado[3])
     const btnclose = document.querySelectorAll(".btnclose");
 
     const alldays = document.querySelectorAll(".alldays");
