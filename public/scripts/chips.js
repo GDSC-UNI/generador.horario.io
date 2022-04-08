@@ -14,7 +14,7 @@ setTimeout(() => {
                     tagContainer.childNodes[1].textContent = "Cursos Seleccionados"
 
                     tagContainer.insertAdjacentHTML("beforeend",
-                    `<div id="${event.currentTarget.parentNode.childNodes[0].textContent}_${event.currentTarget.parentNode.childNodes[2].textContent}">
+                    `<div class="content_select_course" id="${event.currentTarget.parentNode.childNodes[0].textContent}_${event.currentTarget.parentNode.childNodes[2].textContent}">
                         ${event.currentTarget.parentNode.childNodes[0].textContent}
                         ${event.currentTarget.parentNode.childNodes[2].textContent}
                         ${event.currentTarget.parentNode.childNodes[1].textContent}
