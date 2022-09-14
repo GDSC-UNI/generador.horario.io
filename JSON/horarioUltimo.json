@@ -2,30 +2,29 @@
   {
     "Ciclo": 1,
     "Codigo": "BFI01",
-    "Nombre": "FÍSICA I",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "10:00-12:00",
           "Profesor": "HUALLPA GUTIERREZ, WALTER ANTONIO"
         },
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "10:00-12:00",
           "Profesor": "HUALLPA GUTIERREZ, WALTER ANTONIO"
         },
         {
           "Tipo": "P",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "8:00-10:00",
           "Profesor": "HUALLPA GUTIERREZ, WALTER ANTONIO"
         },
         {
           "Tipo": "L",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "8:00-10:00",
           "Profesor": "HUALLPA GUTIERREZ, WALTER ANTONIO"
         }
@@ -33,25 +32,25 @@
       "N": [
         {
           "Tipo": "T",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "14:00-16:00",
           "Profesor": "LLAMOJA CURI, JOHNNY"
         },
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "8:00-10:00",
           "Profesor": "LLAMOJA CURI, JOHNNY"
         },
         {
           "Tipo": "P",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "8:00-10:00",
           "Profesor": "LLAMOJA CURI, JOHNNY"
         },
         {
           "Tipo": "L",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "14:00-16:00",
           "Profesor": "LLAMOJA CURI, JOHNNY"
         }
@@ -59,25 +58,25 @@
       "O": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "8:00-10:00",
           "Profesor": "CARO AMERY. JOSE"
         },
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "10:00-12:00",
           "Profesor": "CARO AMERY. JOSE"
         },
         {
           "Tipo": "P",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "8:00-10:00",
           "Profesor": "DURAND BERNALD, LUIS"
         },
         {
           "Tipo": "L",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "14:00-16:00",
           "Profesor": "DURAND BERNALD, LUIS"
         }
@@ -85,64 +84,63 @@
       "P": [
         {
           "Tipo": "T",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "16:00-18:00",
           "Profesor": "CHIRINOS VILLARUEL, FERNANDO"
         },
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "11:00-13:00",
           "Profesor": "CHIRINOS VILLARUEL, FERNANDO"
         },
         {
           "Tipo": "P",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "8:00-10:00",
           "Profesor": "CHIRINOS VILLARUEL, FERNANDO"
         },
         {
           "Tipo": "L",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "8:00-10:00",
           "Profesor": "CHIRINOS VILLARUEL, FERNANDO"
         }
       ],
       "Q": [
-        { "Tipo": "T", "Día": "LU", "Hora": "12:00-14:00", "Profesor": "NN" },
-        { "Tipo": "T", "Día": "MA", "Hora": "18:00-20:00", "Profesor": "NN" },
-        { "Tipo": "P", "Día": "VI", "Hora": "8:00-10:00", "Profesor": "NN" },
-        { "Tipo": "L", "Día": "MA", "Hora": "8:00-10:00", "Profesor": "NN" }
+        { "Tipo": "T", "Dia": "LU", "Hora": "12:00-14:00", "Profesor": "NN" },
+        { "Tipo": "T", "Dia": "MA", "Hora": "18:00-20:00", "Profesor": "NN" },
+        { "Tipo": "P", "Dia": "VI", "Hora": "8:00-10:00", "Profesor": "NN" },
+        { "Tipo": "L", "Dia": "MA", "Hora": "8:00-10:00", "Profesor": "NN" }
       ]
     }
   },
   {
     "Ciclo": 1,
     "Codigo": "BFI01",
-    "Nombre": "FÍSICA I",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "10:00-12:00",
           "Profesor": "HUALLPA GUTIERREZ, WALTER ANTONIO"
         },
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "10:00-12:00",
           "Profesor": "HUALLPA GUTIERREZ, WALTER ANTONIO"
         },
         {
           "Tipo": "P",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "8:00-10:00",
           "Profesor": "HUALLPA GUTIERREZ, WALTER ANTONIO"
         },
         {
           "Tipo": "L",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "8:00-10:00",
           "Profesor": "HUALLPA GUTIERREZ, WALTER ANTONIO"
         }
@@ -152,30 +150,29 @@
   {
     "Ciclo": 1,
     "Codigo": "BFI01",
-    "Nombre": "FÍSICA I",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "10:00-12:00",
           "Profesor": "HUALLPA GUTIERREZ, WALTER ANTONIO"
         },
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "10:00-12:00",
           "Profesor": "HUALLPA GUTIERREZ, WALTER ANTONIO"
         },
         {
           "Tipo": "P",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "8:00-10:00",
           "Profesor": "HUALLPA GUTIERREZ, WALTER ANTONIO"
         },
         {
           "Tipo": "L",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "8:00-10:00",
           "Profesor": "HUALLPA GUTIERREZ, WALTER ANTONIO"
         }
@@ -185,18 +182,17 @@
   {
     "Ciclo": 1,
     "Codigo": "BIC01",
-    "Nombre": "INTRODUCCIÓN A LA COMPUTACIÓN",
     "Secciones": {
       "N": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "14:00-15:00",
           "Profesor": "ROJAS VARGAS, CAROLYN"
         },
         {
           "Tipo": "P",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "15:00-17:00",
           "Profesor": "ROJAS VARGAS, CAROLYN"
         }
@@ -204,31 +200,31 @@
       "O": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "14:00-15:00",
           "Profesor": "ROJAS VARGAS, CAROLYN"
         },
         {
           "Tipo": "P",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "15:00-17:00",
           "Profesor": "ROJAS VARGAS, CAROLYN"
         }
       ],
       "P": [
-        { "Tipo": "T", "Día": "VI", "Hora": "10:00-11:00", "Profesor": "NN" },
-        { "Tipo": "P", "Día": "VI", "Hora": "11:00-13:00", "Profesor": "NN" }
+        { "Tipo": "T", "Dia": "VI", "Hora": "10:00-11:00", "Profesor": "NN" },
+        { "Tipo": "P", "Dia": "VI", "Hora": "11:00-13:00", "Profesor": "NN" }
       ],
       "Q": [
         {
           "Tipo": "T",
-          "Día": "SA",
+          "Dia": "SA",
           "Hora": "8:00-9:00",
           "Profesor": "PURILLA FLORES, FELIX"
         },
         {
           "Tipo": "P",
-          "Día": "SA",
+          "Dia": "SA",
           "Hora": "9:00-11:00",
           "Profesor": "PURILLA FLORES, FELIX"
         }
@@ -238,18 +234,17 @@
   {
     "Ciclo": 1,
     "Codigo": "BIC01",
-    "Nombre": "INTRODUCCIÓN A LA COMPUTACIÓN",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "13:00-14:00",
           "Profesor": "ROJAS VILLANUEVA, UWE"
         },
         {
           "Tipo": "P",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "14:00-16:00",
           "Profesor": "ROJAS VILLANUEVA, UWE"
         }
@@ -259,18 +254,17 @@
   {
     "Ciclo": 1,
     "Codigo": "BIC01",
-    "Nombre": "INTRODUCCIÓN A LA COMPUTACIÓN",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "13:00-14:00",
           "Profesor": "ROJAS VILLANUEVA, UWE"
         },
         {
           "Tipo": "P",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "14:00-16:00",
           "Profesor": "ROJAS VILLANUEVA, UWE"
         }
@@ -280,24 +274,23 @@
   {
     "Ciclo": 1,
     "Codigo": "BMA01",
-    "Nombre": "CALCULO DIFERENCIAL",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "8:00-10:00",
           "Profesor": "SAAL RIQUEROS, CESAR"
         },
         {
           "Tipo": "T",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "10:00-12:00",
           "Profesor": "SAAL RIQUEROS, CESAR"
         },
         {
           "Tipo": "P",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "10:00-12:00",
           "Profesor": "SAAL RIQUEROS, CESAR"
         }
@@ -305,19 +298,19 @@
       "N": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "14:00-16:00",
           "Profesor": "ORIA CHAVARRIA, MARIO"
         },
         {
           "Tipo": "T",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "8:00-10:00",
           "Profesor": "ORIA CHAVARRIA, MARIO"
         },
         {
           "Tipo": "P",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "10:00-12:00",
           "Profesor": "ORIA CHAVARRIA, MARIO"
         }
@@ -325,19 +318,19 @@
       "O": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "14:00-16:00",
           "Profesor": "CORNEJO HUAMAN, JORGE"
         },
         {
           "Tipo": "T",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "10:00-12:00",
           "Profesor": "CORNEJO HUAMAN, JORGE"
         },
         {
           "Tipo": "P",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "10:00-12:00",
           "Profesor": "CORNEJO HUAMAN, JORGE"
         }
@@ -345,51 +338,50 @@
       "P": [
         {
           "Tipo": "T",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "8:00-10:00",
           "Profesor": "CHAVEZ SANTOS, MÁXIMO FLOREAN"
         },
         {
           "Tipo": "T",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "8:00-10:00",
           "Profesor": "CHAVEZ SANTOS, MÁXIMO FLOREAN"
         },
         {
           "Tipo": "P",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "10:00-12:00",
           "Profesor": "CHAVEZ SANTOS, MÁXIMO FLOREAN"
         }
       ],
       "Q": [
-        { "Tipo": "T", "Día": "LU", "Hora": "14:00-16:00", "Profesor": "NN" },
-        { "Tipo": "T", "Día": "MI", "Hora": "18:00-20:00", "Profesor": "NN" },
-        { "Tipo": "P", "Día": "MA", "Hora": "10:00-12:00", "Profesor": "NN" }
+        { "Tipo": "T", "Dia": "LU", "Hora": "14:00-16:00", "Profesor": "NN" },
+        { "Tipo": "T", "Dia": "MI", "Hora": "18:00-20:00", "Profesor": "NN" },
+        { "Tipo": "P", "Dia": "MA", "Hora": "10:00-12:00", "Profesor": "NN" }
       ]
     }
   },
   {
     "Ciclo": 1,
     "Codigo": "BMA01",
-    "Nombre": "CALCULO DIFERENCIAL",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "8:00-10:00",
           "Profesor": "SAAL RIQUEROS, CESAR"
         },
         {
           "Tipo": "T",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "10:00-12:00",
           "Profesor": "SAAL RIQUEROS, CESAR"
         },
         {
           "Tipo": "P",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "10:00-12:00",
           "Profesor": "SAAL RIQUEROS, CESAR"
         }
@@ -399,24 +391,23 @@
   {
     "Ciclo": 1,
     "Codigo": "BMA01",
-    "Nombre": "CALCULO DIFERENCIAL",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "8:00-10:00",
           "Profesor": "SAAL RIQUEROS, CESAR"
         },
         {
           "Tipo": "T",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "10:00-12:00",
           "Profesor": "SAAL RIQUEROS, CESAR"
         },
         {
           "Tipo": "P",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "10:00-12:00",
           "Profesor": "SAAL RIQUEROS, CESAR"
         }
@@ -426,18 +417,17 @@
   {
     "Ciclo": 1,
     "Codigo": "BMA03",
-    "Nombre": "ALGEBRA LINEAL",
     "Secciones": {
       "N": [
         {
           "Tipo": "T",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "10:00-13:00",
           "Profesor": "ERQUIZIO ESPINAL, JOSE EDUARDO"
         },
         {
           "Tipo": "P",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "11:00-13:00",
           "Profesor": "ERQUIZIO ESPINAL, JOSE EDUARDO"
         }
@@ -445,13 +435,13 @@
       "O": [
         {
           "Tipo": "T",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "14:00-17:00",
           "Profesor": "VALENCIA MIRANDA, ANGEL"
         },
         {
           "Tipo": "P",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "11:00-13:00",
           "Profesor": "VALENCIA MIRANDA, ANGEL"
         }
@@ -459,13 +449,13 @@
       "P": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "15:00-18:00",
           "Profesor": "CHAVEZ SANTOS, MÁXIMO FLOREAN"
         },
         {
           "Tipo": "P",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "11:00-13:00",
           "Profesor": "CHAVEZ SANTOS, MÁXIMO FLOREAN"
         }
@@ -473,13 +463,13 @@
       "Q": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "10:00-13:00",
           "Profesor": "RAMIREZ GUTIERREZ, ANGEL"
         },
         {
           "Tipo": "P",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "11:00-13:00",
           "Profesor": "RAMIREZ GUTIERREZ, ANGEL"
         }
@@ -489,18 +479,17 @@
   {
     "Ciclo": 1,
     "Codigo": "BMA03",
-    "Nombre": "ALGEBRA LINEAL",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "14:00-17:00",
           "Profesor": "SALINAS AQUIJE, TEOFILO"
         },
         {
           "Tipo": "P",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "11:00-13:00",
           "Profesor": "SALINAS AQUIJE, TEOFILO"
         }
@@ -510,18 +499,17 @@
   {
     "Ciclo": 1,
     "Codigo": "BMA03",
-    "Nombre": "ALGEBRA LINEAL",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "14:00-17:00",
           "Profesor": "SALINAS AQUIJE, TEOFILO"
         },
         {
           "Tipo": "P",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "11:00-13:00",
           "Profesor": "SALINAS AQUIJE, TEOFILO"
         }
@@ -531,18 +519,17 @@
   {
     "Ciclo": 1,
     "Codigo": "BRN01",
-    "Nombre": "REALIDAD NACIONAL, CONSTITUCIÓN Y DERECHOS HUMANOS",
     "Secciones": {
       "N": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "10:00-12:00",
           "Profesor": "ARENALES SOLIS, JOSE CARLOS"
         },
         {
           "Tipo": "P",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "16:00-18:00",
           "Profesor": "ARENALES SOLIS, JOSE CARLOS"
         }
@@ -550,13 +537,13 @@
       "O": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "8:00-10:00",
           "Profesor": "ARENALES SOLIS, JOSE CARLOS"
         },
         {
           "Tipo": "P",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "16:00-18:00",
           "Profesor": "ARENALES SOLIS, JOSE CARLOS"
         }
@@ -564,13 +551,13 @@
       "P": [
         {
           "Tipo": "T",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "16:00-18:00",
           "Profesor": "ARENALES SOLIS, JOSE CARLOS"
         },
         {
           "Tipo": "P",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "18:00-20:00",
           "Profesor": "ARENALES SOLIS, JOSE CARLOS"
         }
@@ -580,18 +567,17 @@
   {
     "Ciclo": 1,
     "Codigo": "BRN01",
-    "Nombre": "REALIDAD NACIONAL, CONSTITUCIÓN Y DERECHOS HUMANOS",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "16:00-18:00",
           "Profesor": "ARENALES SOLIS, JOSE CARLOS"
         },
         {
           "Tipo": "P",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "14:00-16:00",
           "Profesor": "ARENALES SOLIS, JOSE CARLOS"
         }
@@ -601,18 +587,17 @@
   {
     "Ciclo": 1,
     "Codigo": "BRN01",
-    "Nombre": "REALIDAD NACIONAL, CONSTITUCIÓN Y DERECHOS HUMANOS",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "16:00-18:00",
           "Profesor": "ARENALES SOLIS, JOSE CARLOS"
         },
         {
           "Tipo": "P",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "14:00-16:00",
           "Profesor": "ARENALES SOLIS, JOSE CARLOS"
         }
@@ -622,18 +607,17 @@
   {
     "Ciclo": 1,
     "Codigo": "EE250",
-    "Nombre": "DIBUJO TÉCNICO",
     "Secciones": {
       "N": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "8:00-10:00",
           "Profesor": "ALMORA RIVAS, ENRIQUE"
         },
         {
           "Tipo": "P",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "0:00-12:00",
           "Profesor": "ALMORA RIVAS, ENRIQUE"
         }
@@ -641,13 +625,13 @@
       "O": [
         {
           "Tipo": "T",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "13:00-15:00",
           "Profesor": "ALMORA RIVAS, ENRIQUE"
         },
         {
           "Tipo": "P",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "15:00-17:00",
           "Profesor": "ALMORA RIVAS, ENRIQUE"
         }
@@ -655,13 +639,13 @@
       "P": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "8:00-10:00",
           "Profesor": "ALMORA RIVAS, ENRIQUE"
         },
         {
           "Tipo": "P",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "10:00-12:00",
           "Profesor": "ALMORA RIVAS, ENRIQUE"
         }
@@ -671,18 +655,17 @@
   {
     "Ciclo": 1,
     "Codigo": "EE250",
-    "Nombre": "DIBUJO TÉCNICO",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "13:00-15:00",
           "Profesor": "ALMORA RIVAS, ENRIQUE"
         },
         {
           "Tipo": "P",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "15:00-17:00",
           "Profesor": "ALMORA RIVAS, ENRIQUE"
         }
@@ -692,18 +675,17 @@
   {
     "Ciclo": 1,
     "Codigo": "EE250",
-    "Nombre": "DIBUJO TÉCNICO",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "13:00-15:00",
           "Profesor": "ALMORA RIVAS, ENRIQUE"
         },
         {
           "Tipo": "P",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "15:00-17:00",
           "Profesor": "ALMORA RIVAS, ENRIQUE"
         }
@@ -713,22 +695,21 @@
   {
     "Ciclo": 2,
     "Codigo": "BFI05",
-    "Nombre": "FUNDAMENTOS DE INGENIERIA TÉRMICA Y DE FLUIDOS",
     "Secciones": {
       "N": [
-        { "Tipo": "T", "Día": "MA", "Hora": "8:00-11:00", "Profesor": "NN" },
-        { "Tipo": "P", "Día": "VI", "Hora": "10:00-12:00", "Profesor": "NN" }
+        { "Tipo": "T", "Dia": "MA", "Hora": "8:00-11:00", "Profesor": "NN" },
+        { "Tipo": "P", "Dia": "VI", "Hora": "10:00-12:00", "Profesor": "NN" }
       ],
       "O": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "10:00-13:00",
           "Profesor": "DURAND BERNALD, LUIS"
         },
         {
           "Tipo": "P",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "10:00-12:00",
           "Profesor": "DURAND BERNALD, LUIS"
         }
@@ -736,13 +717,13 @@
       "P": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "10:00-13:00",
           "Profesor": "DURAND BERNALD, LUIS"
         },
         {
           "Tipo": "P",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "10:00-12:00",
           "Profesor": "CHIRINOS VILLARUEL, FERNANDO"
         }
@@ -752,18 +733,17 @@
   {
     "Ciclo": 2,
     "Codigo": "BFI05",
-    "Nombre": "FUNDAMENTOS DE INGENIERIA TÉRMICA Y DE FLUIDOS",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "14:00-17:00",
           "Profesor": "LLAMOJA CURI, JOHNNY"
         },
         {
           "Tipo": "P",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "10:00-12:00",
           "Profesor": "LLAMOJA CURI, JOHNNY"
         }
@@ -773,18 +753,17 @@
   {
     "Ciclo": 2,
     "Codigo": "BFI05",
-    "Nombre": "FUNDAMENTOS DE INGENIERIA TÉRMICA Y DE FLUIDOS",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "14:00-17:00",
           "Profesor": "LLAMOJA CURI, JOHNNY"
         },
         {
           "Tipo": "P",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "10:00-12:00",
           "Profesor": "LLAMOJA CURI, JOHNNY"
         }
@@ -794,24 +773,23 @@
   {
     "Ciclo": 2,
     "Codigo": "BMA02",
-    "Nombre": "CÁLCULO INTEGRAL",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "16:00-18:00",
           "Profesor": "ORIA CHAVARRIA, MARIO"
         },
         {
           "Tipo": "T",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "10:00-12:00",
           "Profesor": "ORIA CHAVARRIA, MARIO"
         },
         {
           "Tipo": "P",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "8:00-10:00",
           "Profesor": "ORIA CHAVARRIA, MARIO"
         }
@@ -819,19 +797,19 @@
       "N": [
         {
           "Tipo": "T",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "14:00-16:00",
           "Profesor": "ERQUIZIO ESPINAL, JOSE EDUARDO"
         },
         {
           "Tipo": "T",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "14:00-16:00",
           "Profesor": "ERQUIZIO ESPINAL, JOSE EDUARDO"
         },
         {
           "Tipo": "P",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "8:00-10:00",
           "Profesor": "ERQUIZIO ESPINAL, JOSE EDUARDO"
         }
@@ -839,51 +817,50 @@
       "O": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "14:00-16:00",
           "Profesor": "SALINAS AQUIJE, TEOFILO"
         },
         {
           "Tipo": "T",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "14:00-16:00",
           "Profesor": "SALINAS AQUIJE, TEOFILO"
         },
         {
           "Tipo": "P",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "8:00-10:00",
           "Profesor": "SALINAS AQUIJE, TEOFILO"
         }
       ],
       "P": [
-        { "Tipo": "T", "Día": "LU", "Hora": "14:00-16:00", "Profesor": "NN" },
-        { "Tipo": "T", "Día": "JU", "Hora": "8:00-10:00", "Profesor": "NN" },
-        { "Tipo": "P", "Día": "MA", "Hora": "8:00-10:00", "Profesor": "NN" }
+        { "Tipo": "T", "Dia": "LU", "Hora": "14:00-16:00", "Profesor": "NN" },
+        { "Tipo": "T", "Dia": "JU", "Hora": "8:00-10:00", "Profesor": "NN" },
+        { "Tipo": "P", "Dia": "MA", "Hora": "8:00-10:00", "Profesor": "NN" }
       ]
     }
   },
   {
     "Ciclo": 2,
     "Codigo": "BMA02",
-    "Nombre": "CÁLCULO INTEGRAL",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "16:00-18:00",
           "Profesor": "ORIA CHAVARRIA, MARIO"
         },
         {
           "Tipo": "T",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "10:00-12:00",
           "Profesor": "ORIA CHAVARRIA, MARIO"
         },
         {
           "Tipo": "P",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "8:00-10:00",
           "Profesor": "ORIA CHAVARRIA, MARIO"
         }
@@ -893,24 +870,23 @@
   {
     "Ciclo": 2,
     "Codigo": "BMA02",
-    "Nombre": "CÁLCULO INTEGRAL",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "16:00-18:00",
           "Profesor": "ORIA CHAVARRIA, MARIO"
         },
         {
           "Tipo": "T",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "10:00-12:00",
           "Profesor": "ORIA CHAVARRIA, MARIO"
         },
         {
           "Tipo": "P",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "8:00-10:00",
           "Profesor": "ORIA CHAVARRIA, MARIO"
         }
@@ -920,18 +896,17 @@
   {
     "Ciclo": 2,
     "Codigo": "BMA09",
-    "Nombre": "ALGORITMOS Y ESTRUCTURA DE DATOS I",
     "Secciones": {
       "N": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "9:00-11:00",
           "Profesor": "BUTLER BLACKER, JORGE"
         },
         {
           "Tipo": "L",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "11:00-13:00",
           "Profesor": "BUTLER BLACKER, JORGE"
         }
@@ -939,13 +914,13 @@
       "O": [
         {
           "Tipo": "T",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "14:00-16:00",
           "Profesor": "BUTLER BLACKER, JORGE"
         },
         {
           "Tipo": "L",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "16:00-18:00",
           "Profesor": "BUTLER BLACKER, JORGE"
         }
@@ -953,13 +928,13 @@
       "P": [
         {
           "Tipo": "T",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "8:00-10:00",
           "Profesor": "MIGUEL CAÑAMERO, JOSE"
         },
         {
           "Tipo": "L",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "10:00-12:00",
           "Profesor": "MIGUEL CAÑAMERO, JOSE"
         }
@@ -967,13 +942,13 @@
       "Q": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "14:00-16:00",
           "Profesor": "BENITEZ PALACIOS, JOSE"
         },
         {
           "Tipo": "L",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "16:00-18:00",
           "Profesor": "BENITEZ PALACIOS, JOSE"
         }
@@ -981,13 +956,13 @@
       "R": [
         {
           "Tipo": "T",
-          "Día": "SA",
+          "Dia": "SA",
           "Hora": "8:00-10:00",
           "Profesor": "LOAYZA MEJI, WASHINGTON ERNESTO"
         },
         {
           "Tipo": "L",
-          "Día": "SA",
+          "Dia": "SA",
           "Hora": "10:00-12:00",
           "Profesor": "LOAYZA MEJI, WASHINGTON ERNESTO"
         }
@@ -997,18 +972,17 @@
   {
     "Ciclo": 2,
     "Codigo": "BMA09",
-    "Nombre": "ALGORITMOS Y ESTRUCTURA DE DATOS I",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "9:00-11:00",
           "Profesor": "BUTLER BLACKER, JORGE"
         },
         {
           "Tipo": "L",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "11:00-13:00",
           "Profesor": "BUTLER BLACKER, JORGE"
         }
@@ -1018,18 +992,17 @@
   {
     "Ciclo": 2,
     "Codigo": "BMA09",
-    "Nombre": "ALGORITMOS Y ESTRUCTURA DE DATOS I",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "9:00-11:00",
           "Profesor": "BUTLER BLACKER, JORGE"
         },
         {
           "Tipo": "L",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "11:00-13:00",
           "Profesor": "BUTLER BLACKER, JORGE"
         }
@@ -1039,30 +1012,29 @@
   {
     "Ciclo": 2,
     "Codigo": "BQU01",
-    "Nombre": "QUÍMICA I",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "10:00-12:00",
           "Profesor": "RODRIGUEZ MORALES, MARIA"
         },
         {
           "Tipo": "T",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "10:00-12:00",
           "Profesor": "RODRIGUEZ MORALES, MARIA"
         },
         {
           "Tipo": "P",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "8:00-10:00",
           "Profesor": "RODRIGUEZ MORALES, MARIA / MEDINA, RAQUEL"
         },
         {
           "Tipo": "L",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "14:00-16:00",
           "Profesor": "MEDINA RODRIGUEZ, RAQUEL / RODRIGUEZ, MARIA"
         }
@@ -1070,25 +1042,25 @@
       "N": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "10:00-12:00",
           "Profesor": "MEDINA RODRIGUEZ, RAQUEL"
         },
         {
           "Tipo": "T",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "10:00-12:00",
           "Profesor": "MEDINA RODRIGUEZ, RAQUEL"
         },
         {
           "Tipo": "P",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "8:00-10:00",
           "Profesor": "GARAY CAUTI, ZOILA / MEDINA RAQUEL"
         },
         {
           "Tipo": "L",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "8:00-10:00",
           "Profesor": "MEDINA RODRIGUEZ, RAQUEL / GARAY, ZOILA"
         }
@@ -1096,25 +1068,25 @@
       "O": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "8:00-10:00",
           "Profesor": "RODRIGUEZ MORALES, MARIA"
         },
         {
           "Tipo": "T",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "12:00-14:00",
           "Profesor": "RODRIGUEZ MORALES, MARIA"
         },
         {
           "Tipo": "P",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "8:00-10:00",
           "Profesor": "RODRIGUEZ MORALES, MARIA / GARAY, ZOILA"
         },
         {
           "Tipo": "L",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "10:00-12:00",
           "Profesor": "GARAY CAUTI, ZOILA / RODRIGUEZ, MARIA"
         }
@@ -1124,30 +1096,29 @@
   {
     "Ciclo": 2,
     "Codigo": "BQU01",
-    "Nombre": "QUÍMICA I",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "10:00-12:00",
           "Profesor": "RODRIGUEZ MORALES, MARIA"
         },
         {
           "Tipo": "T",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "10:00-12:00",
           "Profesor": "RODRIGUEZ MORALES, MARIA"
         },
         {
           "Tipo": "P",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "8:00-10:00",
           "Profesor": "RODRIGUEZ MORALES, MARIA / MEDINA, RAQUEL"
         },
         {
           "Tipo": "L",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "14:00-16:00",
           "Profesor": "MEDINA RODRIGUEZ, RAQUEL / RODRIGUEZ, MARIA"
         }
@@ -1157,30 +1128,29 @@
   {
     "Ciclo": 2,
     "Codigo": "BQU01",
-    "Nombre": "QUÍMICA I",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "10:00-12:00",
           "Profesor": "RODRIGUEZ MORALES, MARIA"
         },
         {
           "Tipo": "T",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "10:00-12:00",
           "Profesor": "RODRIGUEZ MORALES, MARIA"
         },
         {
           "Tipo": "P",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "8:00-10:00",
           "Profesor": "RODRIGUEZ MORALES, MARIA / MEDINA, RAQUEL"
         },
         {
           "Tipo": "L",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "14:00-16:00",
           "Profesor": "MEDINA RODRIGUEZ, RAQUEL / RODRIGUEZ, MARIA"
         }
@@ -1190,24 +1160,23 @@
   {
     "Ciclo": 2,
     "Codigo": "EE152",
-    "Nombre": "FUNDAMENTOS DE INGENIERÍA DEL COMPUTADOR",
     "Secciones": {
       "N": [
         {
           "Tipo": "T",
-          "Día": "SA",
+          "Dia": "SA",
           "Hora": "11:00-12:00",
           "Profesor": "PURILLA FLORES, FELIX"
         },
         {
           "Tipo": "L",
-          "Día": "SA",
+          "Dia": "SA",
           "Hora": "14:00-16:00",
           "Profesor": "PURILLA FLORES, FELIX"
         },
         {
           "Tipo": "L",
-          "Día": "SA",
+          "Dia": "SA",
           "Hora": "16:00-18:00",
           "Profesor": "PURILLA FLORES, FELIX"
         }
@@ -1217,24 +1186,23 @@
   {
     "Ciclo": 2,
     "Codigo": "EE152",
-    "Nombre": "FUNDAMENTOS DE INGENIERÍA DEL COMPUTADOR",
     "Secciones": {
       "N": [
         {
           "Tipo": "T",
-          "Día": "SA",
+          "Dia": "SA",
           "Hora": "11:00-12:00",
           "Profesor": "PURILLA FLORES, FELIX"
         },
         {
           "Tipo": "L",
-          "Día": "SA",
+          "Dia": "SA",
           "Hora": "14:00-16:00",
           "Profesor": "PURILLA FLORES, FELIX"
         },
         {
           "Tipo": "L",
-          "Día": "SA",
+          "Dia": "SA",
           "Hora": "16:00-18:00",
           "Profesor": "PURILLA FLORES, FELIX"
         }
@@ -1244,24 +1212,23 @@
   {
     "Ciclo": 2,
     "Codigo": "EE152",
-    "Nombre": "FUNDAMENTOS DE INGENIERÍA DEL COMPUTADOR",
     "Secciones": {
       "O": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "10:00-11:00",
           "Profesor": "ROJAS VARGAS, CAROLYN"
         },
         {
           "Tipo": "L",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "11:00-13:00",
           "Profesor": "ROJAS VARGAS, CAROLYN"
         },
         {
           "Tipo": "L",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "17:00-19:00",
           "Profesor": "ROJAS VARGAS, CAROLYN"
         }
@@ -1271,63 +1238,59 @@
   {
     "Ciclo": 3,
     "Codigo": "BEG01",
-    "Nombre": "ECONOMÍA GENERAL",
     "Secciones": {
       "O": [
-        { "Tipo": "T", "Día": "JU", "Hora": "10:00-12:00", "Profesor": "NN" },
-        { "Tipo": "P", "Día": "VI", "Hora": "14:00-16:00", "Profesor": "NN" }
+        { "Tipo": "T", "Dia": "JU", "Hora": "10:00-12:00", "Profesor": "NN" },
+        { "Tipo": "P", "Dia": "VI", "Hora": "14:00-16:00", "Profesor": "NN" }
       ]
     }
   },
   {
     "Ciclo": 3,
     "Codigo": "BEG01",
-    "Nombre": "ECONOMÍA GENERAL",
     "Secciones": {
       "M": [
-        { "Tipo": "T", "Día": "MA", "Hora": "10:00-12:00", "Profesor": "NN" },
-        { "Tipo": "P", "Día": "VI", "Hora": "14:00-16:00", "Profesor": "NN" }
+        { "Tipo": "T", "Dia": "MA", "Hora": "10:00-12:00", "Profesor": "NN" },
+        { "Tipo": "P", "Dia": "VI", "Hora": "14:00-16:00", "Profesor": "NN" }
       ]
     }
   },
   {
     "Ciclo": 3,
     "Codigo": "BEG01",
-    "Nombre": "ECONOMÍA GENERAL",
     "Secciones": {
       "M": [
-        { "Tipo": "T", "Día": "MA", "Hora": "10:00-12:00", "Profesor": "NN" },
-        { "Tipo": "P", "Día": "VI", "Hora": "14:00-16:00", "Profesor": "NN" }
+        { "Tipo": "T", "Dia": "MA", "Hora": "10:00-12:00", "Profesor": "NN" },
+        { "Tipo": "P", "Dia": "VI", "Hora": "14:00-16:00", "Profesor": "NN" }
       ]
     }
   },
   {
     "Ciclo": 3,
     "Codigo": "BFI03",
-    "Nombre": "FUNDAMENTOS DE ELECTRICIDAD, MAGNETISMO Y ÓPTICA",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "14:00-16:00",
           "Profesor": "PEÑA YALICO, VICENTE"
         },
         {
           "Tipo": "T",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "8:00-10:00",
           "Profesor": "PEÑA YALICO, VICENTE"
         },
         {
           "Tipo": "P",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "8:00-10:00",
           "Profesor": "PEÑA YALICO, VICENTE"
         },
         {
           "Tipo": "L",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "8:00-10:00",
           "Profesor": "PEÑA YALICO, VICENTE"
         }
@@ -1337,30 +1300,29 @@
   {
     "Ciclo": 3,
     "Codigo": "BFI03",
-    "Nombre": "FUNDAMENTOS DE ELECTRICIDAD, MAGNETISMO Y ÓPTICA",
     "Secciones": {
       "N": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "16:00-18:00",
           "Profesor": "DURAND BERNALD, LUIS"
         },
         {
           "Tipo": "T",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "10:00-12:00",
           "Profesor": "DURAND BERNALD, LUIS"
         },
         {
           "Tipo": "P",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "8:00-10:00",
           "Profesor": "DURAND BERNALD, LUIS"
         },
         {
           "Tipo": "L",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "8:00-10:00",
           "Profesor": "DURAND BERNALD, LUIS"
         }
@@ -1370,30 +1332,29 @@
   {
     "Ciclo": 3,
     "Codigo": "BFI03",
-    "Nombre": "FUNDAMENTOS DE ELECTRICIDAD, MAGNETISMO Y ÓPTICA",
     "Secciones": {
       "N": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "16:00-18:00",
           "Profesor": "DURAND BERNALD, LUIS"
         },
         {
           "Tipo": "T",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "10:00-12:00",
           "Profesor": "DURAND BERNALD, LUIS"
         },
         {
           "Tipo": "P",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "8:00-10:00",
           "Profesor": "DURAND BERNALD, LUIS"
         },
         {
           "Tipo": "L",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "8:00-10:00",
           "Profesor": "DURAND BERNALD, LUIS"
         }
@@ -1403,24 +1364,23 @@
   {
     "Ciclo": 3,
     "Codigo": "BMA05",
-    "Nombre": "ECUACIONES DIFERENCIALES",
     "Secciones": {
       "N": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "10:00-12:00",
           "Profesor": "DIAZ ACHA, ISRAEL"
         },
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "10:00-12:00",
           "Profesor": "DIAZ ACHA, ISRAEL"
         },
         {
           "Tipo": "P",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "16:00-18:00",
           "Profesor": "ERQUIZIO ESPINAL, JOSE EDUARDO"
         }
@@ -1430,24 +1390,23 @@
   {
     "Ciclo": 3,
     "Codigo": "BMA05",
-    "Nombre": "ECUACIONES DIFERENCIALES",
     "Secciones": {
       "O": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "16:00-18:00",
           "Profesor": "CORNEJO HUAMAN, JORGE"
         },
         {
           "Tipo": "T",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "12:00-14:00",
           "Profesor": "CORNEJO HUAMAN, JORGE"
         },
         {
           "Tipo": "P",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "16:00-18:00",
           "Profesor": "CORNEJO HUAMAN, JORGE"
         }
@@ -1457,18 +1416,17 @@
   {
     "Ciclo": 3,
     "Codigo": "BMA10",
-    "Nombre": "PROBABILIDADES Y ESTADÍSTICA",
     "Secciones": {
       "O": [
         {
           "Tipo": "T",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "8:00-10:00",
           "Profesor": "LÓPEZ ESQUIVEL, MIGUEL"
         },
         {
           "Tipo": "P",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "14:00-16:00",
           "Profesor": "LÓPEZ ESQUIVEL, MIGUEL"
         }
@@ -1478,18 +1436,17 @@
   {
     "Ciclo": 3,
     "Codigo": "BMA10",
-    "Nombre": "PROBABILIDADES Y ESTADÍSTICA",
     "Secciones": {
       "O": [
         {
           "Tipo": "T",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "8:00-10:00",
           "Profesor": "LÓPEZ ESQUIVEL, MIGUEL"
         },
         {
           "Tipo": "P",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "14:00-16:00",
           "Profesor": "LÓPEZ ESQUIVEL, MIGUEL"
         }
@@ -1499,24 +1456,23 @@
   {
     "Ciclo": 3,
     "Codigo": "BMA10",
-    "Nombre": "PROBABILIDADES Y ESTADÍSTICA",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "10:00-12:00",
           "Profesor": "ESPINOZA VÁSQUEZ, MANUEL"
         },
         {
           "Tipo": "P",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "14:00-16:00",
           "Profesor": "ESPINOZA VÁSQUEZ, MANUEL"
         },
         {
           "Tipo": "S",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "16:00-18:00",
           "Profesor": "ESPINOZA VÁSQUEZ, MANUEL"
         }
@@ -1526,18 +1482,17 @@
   {
     "Ciclo": 3,
     "Codigo": "BMA15",
-    "Nombre": "PROGRAMACION ORIENTADA A OBJETOS",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "10:00-12:00",
           "Profesor": "CASTILLO BELSUZARRI, TRINI"
         },
         {
           "Tipo": "L",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "12:00-14:00",
           "Profesor": "CASTILLO BELSUZARRI, TRINI"
         }
@@ -1547,18 +1502,17 @@
   {
     "Ciclo": 3,
     "Codigo": "BMA15",
-    "Nombre": "PROGRAMACION ORIENTADA A OBJETOS",
     "Secciones": {
       "N": [
         {
           "Tipo": "T",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "8:00-10:00",
           "Profesor": "CASTILLO BELSUZARRI, TRINI"
         },
         {
           "Tipo": "L",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "10:00-12:00",
           "Profesor": "CASTILLO BELSUZARRI, TRINI"
         }
@@ -1568,18 +1522,17 @@
   {
     "Ciclo": 3,
     "Codigo": "BMA15",
-    "Nombre": "PROGRAMACION ORIENTADA A OBJETOS",
     "Secciones": {
       "N": [
         {
           "Tipo": "T",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "8:00-10:00",
           "Profesor": "CASTILLO BELSUZARRI, TRINI"
         },
         {
           "Tipo": "L",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "10:00-12:00",
           "Profesor": "CASTILLO BELSUZARRI, TRINI"
         }
@@ -1589,18 +1542,17 @@
   {
     "Ciclo": 3,
     "Codigo": "EE306",
-    "Nombre": "ELECTROTECNIA E INSTALACION DE REDES",
     "Secciones": {
       "O": [
         {
           "Tipo": "T",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "20:00-22:00",
           "Profesor": "CHAVEZ CHACALTANA, ORLANDO"
         },
         {
           "Tipo": "P",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "8:00-10:00",
           "Profesor": "FALCON DOMINGUEZ, FLAVIO"
         }
@@ -1610,18 +1562,17 @@
   {
     "Ciclo": 3,
     "Codigo": "EE306",
-    "Nombre": "ELECTROTECNIA E INSTALACION DE REDES",
     "Secciones": {
       "O": [
         {
           "Tipo": "T",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "20:00-22:00",
           "Profesor": "CHAVEZ CHACALTANA, ORLANDO"
         },
         {
           "Tipo": "P",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "8:00-10:00",
           "Profesor": "FALCON DOMINGUEZ, FLAVIO"
         }
@@ -1631,18 +1582,17 @@
   {
     "Ciclo": 3,
     "Codigo": "EE306",
-    "Nombre": "ELECTROTECNIA E INSTALACION DE REDES",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "18:00-20:00",
           "Profesor": "CHAVEZ CHACALTANA, ORLANDO"
         },
         {
           "Tipo": "P",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "8:00-10:00",
           "Profesor": "PUICAN VERA, JOSE"
         }
@@ -1652,12 +1602,11 @@
   {
     "Ciclo": 4,
     "Codigo": "BEF01",
-    "Nombre": "ETICA Y FILOSOFIA POLITICA",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "SA",
+          "Dia": "SA",
           "Hora": "8:00-10:00",
           "Profesor": "ATARAMA URBINA, ANCO LUIS"
         }
@@ -1667,12 +1616,11 @@
   {
     "Ciclo": 4,
     "Codigo": "BEF01",
-    "Nombre": "ETICA Y FILOSOFIA POLITICA",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "SA",
+          "Dia": "SA",
           "Hora": "8:00-10:00",
           "Profesor": "ATARAMA URBINA, ANCO LUIS"
         }
@@ -1682,12 +1630,11 @@
   {
     "Ciclo": 4,
     "Codigo": "BEF01",
-    "Nombre": "ETICA Y FILOSOFIA POLITICA",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "SA",
+          "Dia": "SA",
           "Hora": "8:00-10:00",
           "Profesor": "ATARAMA URBINA, ANCO LUIS"
         }
@@ -1697,18 +1644,17 @@
   {
     "Ciclo": 4,
     "Codigo": "BFI06",
-    "Nombre": "INTRODUCCION A LA FISICA MODERNA",
     "Secciones": {
       "N": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "10:00-13:00",
           "Profesor": "PAUYAC HUAMAN, JOSE"
         },
         {
           "Tipo": "P",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "8:00-10:00",
           "Profesor": "QUIJADA"
         }
@@ -1718,18 +1664,17 @@
   {
     "Ciclo": 4,
     "Codigo": "BFI06",
-    "Nombre": "INTRODUCCION A LA FISICA MODERNA",
     "Secciones": {
       "N": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "10:00-13:00",
           "Profesor": "PAUYAC HUAMAN, JOSE"
         },
         {
           "Tipo": "P",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "8:00-10:00",
           "Profesor": "QUIJADA"
         }
@@ -1739,18 +1684,17 @@
   {
     "Ciclo": 4,
     "Codigo": "BFI06",
-    "Nombre": "INTRODUCCION A LA FISICA MODERNA",
     "Secciones": {
       "N": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "10:00-13:00",
           "Profesor": "PAUYAC HUAMAN, JOSE"
         },
         {
           "Tipo": "P",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "8:00-10:00",
           "Profesor": "QUIJADA"
         }
@@ -1760,18 +1704,17 @@
   {
     "Ciclo": 4,
     "Codigo": "BMA07",
-    "Nombre": "CALCULO VECTORIAL",
     "Secciones": {
       "N": [
         {
           "Tipo": "T",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "16:00-19:00",
           "Profesor": "ARIAS ANTONIO, LEANDRO"
         },
         {
           "Tipo": "P",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "14:00-16:00",
           "Profesor": "ARIAS ANTONIO, LEANDRO"
         }
@@ -1781,50 +1724,47 @@
   {
     "Ciclo": 4,
     "Codigo": "BMA07",
-    "Nombre": "CALCULO VECTORIAL",
     "Secciones": {
       "O": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "10:00-13:00",
           "Profesor": "CALLA MARIN, CARLOS"
         },
-        { "Tipo": "P", "Día": "JU", "Hora": "14:00-16:00", "Profesor": "NN" }
+        { "Tipo": "P", "Dia": "JU", "Hora": "14:00-16:00", "Profesor": "NN" }
       ]
     }
   },
   {
     "Ciclo": 4,
     "Codigo": "BMA07",
-    "Nombre": "CALCULO VECTORIAL",
     "Secciones": {
       "O": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "10:00-13:00",
           "Profesor": "CALLA MARIN, CARLOS"
         },
-        { "Tipo": "P", "Día": "JU", "Hora": "14:00-16:00", "Profesor": "NN" }
+        { "Tipo": "P", "Dia": "JU", "Hora": "14:00-16:00", "Profesor": "NN" }
       ]
     }
   },
   {
     "Ciclo": 4,
     "Codigo": "BMA18",
-    "Nombre": "METODOS NUMERICOS",
     "Secciones": {
       "O": [
         {
           "Tipo": "T",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "16:00-18:00",
           "Profesor": "DIAZ ACHA, ISRAEL"
         },
         {
           "Tipo": "P",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "14:00-16:00",
           "Profesor": "DIAZ ACHA, ISRAEL"
         }
@@ -1834,18 +1774,17 @@
   {
     "Ciclo": 4,
     "Codigo": "BMA18",
-    "Nombre": "METODOS NUMERICOS",
     "Secciones": {
       "O": [
         {
           "Tipo": "T",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "16:00-18:00",
           "Profesor": "DIAZ ACHA, ISRAEL"
         },
         {
           "Tipo": "P",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "14:00-16:00",
           "Profesor": "DIAZ ACHA, ISRAEL"
         }
@@ -1855,18 +1794,17 @@
   {
     "Ciclo": 4,
     "Codigo": "BMA18",
-    "Nombre": "METODOS NUMERICOS",
     "Secciones": {
       "P": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "8:00-10:00",
           "Profesor": "DIAZ ACHA, ISRAEL"
         },
         {
           "Tipo": "P",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "14:00-16:00",
           "Profesor": "RAMIREZ GUTIERREZ, ANGEL"
         }
@@ -1876,24 +1814,23 @@
   {
     "Ciclo": 4,
     "Codigo": "EE320",
-    "Nombre": "CIRCUITOS ELECTRICOS I",
     "Secciones": {
       "P": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "10:00-13:00",
           "Profesor": "TOKUMORI KIYOTA, SERGIO"
         },
         {
           "Tipo": "P",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "14:00-16:00",
           "Profesor": "TOKUMORI KIYOTA, SERGIO"
         },
         {
           "Tipo": "L",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "12:00-14:00",
           "Profesor": "TOKUMORI KIYOTA, SERGIO"
         }
@@ -1903,24 +1840,23 @@
   {
     "Ciclo": 4,
     "Codigo": "EE320",
-    "Nombre": "CIRCUITOS ELECTRICOS I",
     "Secciones": {
       "P": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "10:00-13:00",
           "Profesor": "TOKUMORI KIYOTA, SERGIO"
         },
         {
           "Tipo": "P",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "14:00-16:00",
           "Profesor": "TOKUMORI KIYOTA, SERGIO"
         },
         {
           "Tipo": "L",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "12:00-14:00",
           "Profesor": "TOKUMORI KIYOTA, SERGIO"
         }
@@ -1930,24 +1866,23 @@
   {
     "Ciclo": 4,
     "Codigo": "EE320",
-    "Nombre": "CIRCUITOS ELECTRICOS I",
     "Secciones": {
       "P": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "10:00-13:00",
           "Profesor": "TOKUMORI KIYOTA, SERGIO"
         },
         {
           "Tipo": "P",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "14:00-16:00",
           "Profesor": "TOKUMORI KIYOTA, SERGIO"
         },
         {
           "Tipo": "L",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "12:00-14:00",
           "Profesor": "TOKUMORI KIYOTA, SERGIO"
         }
@@ -1957,18 +1892,17 @@
   {
     "Ciclo": 4,
     "Codigo": "EE410",
-    "Nombre": "ANALISIS DE SEÑALES Y SISTEMAS",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "16:00-19:00",
           "Profesor": "DIAZ ACHA, ISRAEL"
         },
         {
           "Tipo": "P",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "18:00-20:00",
           "Profesor": "DIAZ ACHA, ISRAEL"
         }
@@ -1978,18 +1912,17 @@
   {
     "Ciclo": 4,
     "Codigo": "EE410",
-    "Nombre": "ANALISIS DE SEÑALES Y SISTEMAS",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "16:00-19:00",
           "Profesor": "DIAZ ACHA, ISRAEL"
         },
         {
           "Tipo": "P",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "18:00-20:00",
           "Profesor": "DIAZ ACHA, ISRAEL"
         }
@@ -1999,18 +1932,17 @@
   {
     "Ciclo": 4,
     "Codigo": "EE410",
-    "Nombre": "ANALISIS DE SEÑALES Y SISTEMAS",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "16:00-19:00",
           "Profesor": "DIAZ ACHA, ISRAEL"
         },
         {
           "Tipo": "P",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "18:00-20:00",
           "Profesor": "DIAZ ACHA, ISRAEL"
         }
@@ -2020,18 +1952,17 @@
   {
     "Ciclo": 5,
     "Codigo": "BFM16",
-    "Nombre": "MECANICA DE FLUIDOS Y TERMODINAMICA",
     "Secciones": {
       "N": [
         {
           "Tipo": "T",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "8:00-0:00",
           "Profesor": "VELAZCO LORENZO, DINAU"
         },
         {
           "Tipo": "P",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "10:00-12:00",
           "Profesor": "VELAZCO LORENZO, DINAU"
         }
@@ -2041,51 +1972,39 @@
   {
     "Ciclo": 11,
     "Codigo": "BFM16",
-    "Nombre": "MECANICA DE FLUIDOS Y TERMODINAMICA",
     "Secciones": {
       "N": [
         {
           "Tipo": "T",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "8:00-0:00",
           "Profesor": "VELAZCO LORENZO, DINAU"
         },
         {
           "Tipo": "P",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "10:00-12:00",
           "Profesor": "VELAZCO LORENZO, DINAU"
         }
       ]
     }
   },
-  {
-    "Ciclo": 11,
-    "Codigo": "BMA22",
-    "Nombre": "PROCESOS ESTOCASTICOS Y TEORIA DE LA INFORMACION",
-    "Secciones": { "N": [] }
-  },
-  {
-    "Ciclo": 5,
-    "Codigo": "BMA22",
-    "Nombre": "PROCESOS ESTOCASTICOS Y TEORIA DE LA INFORMACION",
-    "Secciones": { "O": [] }
-  },
+  { "Ciclo": 11, "Codigo": "BMA22", "Secciones": { "N": [] } },
+  { "Ciclo": 5, "Codigo": "BMA22", "Secciones": { "O": [] } },
   {
     "Ciclo": 5,
     "Codigo": "EE418",
-    "Nombre": "DISPOSITIVOS Y CIRCUITOS ELECTRONICOS I",
     "Secciones": {
       "O": [
         {
           "Tipo": "T",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "10:00-13:00",
           "Profesor": "LAZO OCHOA, DOMINGO"
         },
         {
           "Tipo": "P",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "8:00-10:00",
           "Profesor": "LAZO OCHOA, DOMINGO"
         }
@@ -2095,18 +2014,17 @@
   {
     "Ciclo": 5,
     "Codigo": "EE418",
-    "Nombre": "DISPOSITIVOS Y CIRCUITOS ELECTRONICOS I",
     "Secciones": {
       "O": [
         {
           "Tipo": "T",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "10:00-13:00",
           "Profesor": "LAZO OCHOA, DOMINGO"
         },
         {
           "Tipo": "P",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "8:00-10:00",
           "Profesor": "LAZO OCHOA, DOMINGO"
         }
@@ -2116,18 +2034,17 @@
   {
     "Ciclo": 5,
     "Codigo": "EE418",
-    "Nombre": "DISPOSITIVOS Y CIRCUITOS ELECTRONICOS I",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "10:00-13:00",
           "Profesor": "LAZO OCHOA, DOMINGO"
         },
         {
           "Tipo": "P",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "8:00-10:00",
           "Profesor": "LAZO OCHOA, DOMINGO"
         }
@@ -2137,24 +2054,23 @@
   {
     "Ciclo": 5,
     "Codigo": "EE420",
-    "Nombre": "CIRCUITOS ELECTRICOS II",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "10:00-13:00",
           "Profesor": "BETETTA GOMEZ, JUDITH"
         },
         {
           "Tipo": "P",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "14:00-16:00",
           "Profesor": "BETETTA GOMEZ, JUDITH"
         },
         {
           "Tipo": "L",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "8:00-10:00",
           "Profesor": "BETETTA GOMEZ, JUDITH"
         }
@@ -2164,24 +2080,23 @@
   {
     "Ciclo": 5,
     "Codigo": "EE420",
-    "Nombre": "CIRCUITOS ELECTRICOS II",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "10:00-13:00",
           "Profesor": "BETETTA GOMEZ, JUDITH"
         },
         {
           "Tipo": "P",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "14:00-16:00",
           "Profesor": "BETETTA GOMEZ, JUDITH"
         },
         {
           "Tipo": "L",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "8:00-10:00",
           "Profesor": "BETETTA GOMEZ, JUDITH"
         }
@@ -2191,24 +2106,23 @@
   {
     "Ciclo": 5,
     "Codigo": "EE420",
-    "Nombre": "CIRCUITOS ELECTRICOS II",
     "Secciones": {
       "N": [
         {
           "Tipo": "T",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "10:00-13:00",
           "Profesor": "RAMOS CARRION, JORGE"
         },
         {
           "Tipo": "P",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "14:00-16:00",
           "Profesor": "RAMOS CARRION, JORGE"
         },
         {
           "Tipo": "L",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "10:00-12:00",
           "Profesor": "ROCHA JARA, ALFREDO"
         }
@@ -2218,12 +2132,11 @@
   {
     "Ciclo": 5,
     "Codigo": "EE428",
-    "Nombre": "LABORATORIO DE ELECTRONICA I",
     "Secciones": {
       "N": [
         {
           "Tipo": "L",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "8:00-10:00",
           "Profesor": "ALBURQUEQUE GUERRERO, ANGEL"
         }
@@ -2233,12 +2146,11 @@
   {
     "Ciclo": 5,
     "Codigo": "EE428",
-    "Nombre": "LABORATORIO DE ELECTRONICA I",
     "Secciones": {
       "O": [
         {
           "Tipo": "L",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "14:00-16:00",
           "Profesor": "ALBURQUEQUE GUERRERO, ANGEL"
         }
@@ -2248,12 +2160,11 @@
   {
     "Ciclo": 5,
     "Codigo": "EE428",
-    "Nombre": "LABORATORIO DE ELECTRONICA I",
     "Secciones": {
       "O": [
         {
           "Tipo": "L",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "14:00-16:00",
           "Profesor": "ALBURQUEQUE GUERRERO, ANGEL"
         }
@@ -2263,18 +2174,17 @@
   {
     "Ciclo": 5,
     "Codigo": "EE522",
-    "Nombre": "ELECTROMAGNETISMO I",
     "Secciones": {
       "P": [
         {
           "Tipo": "T",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "10:00-13:00",
           "Profesor": "MEDINA RAMIREZ, JOSE AGUSTIN"
         },
         {
           "Tipo": "P",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "8:00-10:00",
           "Profesor": "MEDINA RAMIREZ, JOSE AGUSTIN"
         }
@@ -2284,18 +2194,17 @@
   {
     "Ciclo": 5,
     "Codigo": "EE522",
-    "Nombre": "ELECTROMAGNETISMO I",
     "Secciones": {
       "P": [
         {
           "Tipo": "T",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "10:00-13:00",
           "Profesor": "MEDINA RAMIREZ, JOSE AGUSTIN"
         },
         {
           "Tipo": "P",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "8:00-10:00",
           "Profesor": "MEDINA RAMIREZ, JOSE AGUSTIN"
         }
@@ -2305,18 +2214,17 @@
   {
     "Ciclo": 5,
     "Codigo": "EE522",
-    "Nombre": "ELECTROMAGNETISMO I",
     "Secciones": {
       "P": [
         {
           "Tipo": "T",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "10:00-13:00",
           "Profesor": "MEDINA RAMIREZ, JOSE AGUSTIN"
         },
         {
           "Tipo": "P",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "8:00-10:00",
           "Profesor": "MEDINA RAMIREZ, JOSE AGUSTIN"
         }
@@ -2326,18 +2234,17 @@
   {
     "Ciclo": 5,
     "Codigo": "EE647",
-    "Nombre": "SISTEMAS DE CONTROL I",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "19:00-22:00",
           "Profesor": "AQUIZE PALACIOS, RUBEN"
         },
         {
           "Tipo": "P",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "16:00-18:00",
           "Profesor": "AQUIZE PALACIOS, RUBEN"
         }
@@ -2347,18 +2254,17 @@
   {
     "Ciclo": 5,
     "Codigo": "EE647",
-    "Nombre": "SISTEMAS DE CONTROL I",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "19:00-22:00",
           "Profesor": "AQUIZE PALACIOS, RUBEN"
         },
         {
           "Tipo": "P",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "16:00-18:00",
           "Profesor": "AQUIZE PALACIOS, RUBEN"
         }
@@ -2368,57 +2274,40 @@
   {
     "Ciclo": 5,
     "Codigo": "EE647",
-    "Nombre": "SISTEMAS DE CONTROL I",
     "Secciones": {
       "N": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "14:00-17:00",
           "Profesor": "MERCHAN GORDILLO, FERNANDO"
         },
         {
           "Tipo": "P",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "14:00-16:00",
           "Profesor": "VALENZUELA DE LA CRUZ, BASILIO"
         }
       ]
     }
   },
-  {
-    "Ciclo": 6,
-    "Codigo": "BFM17",
-    "Nombre": "FUNDAMENTOS DE TURBOMAQUINAS",
-    "Secciones": { "N": [] }
-  },
-  {
-    "Ciclo": 6,
-    "Codigo": "EE238",
-    "Nombre": "MEDIDAS ELECTRICAS I",
-    "Secciones": { "O": [] }
-  },
-  {
-    "Ciclo": 6,
-    "Codigo": "EE288",
-    "Nombre": "MÁQUINAS ELÉCTRICAS I",
-    "Secciones": { "O": [] }
-  },
+  { "Ciclo": 6, "Codigo": "BFM17", "Secciones": { "N": [] } },
+  { "Ciclo": 6, "Codigo": "EE238", "Secciones": { "O": [] } },
+  { "Ciclo": 6, "Codigo": "EE288", "Secciones": { "O": [] } },
   {
     "Ciclo": 6,
     "Codigo": "EE353",
-    "Nombre": "ANALISIS DE SISTEMAS DE POTENCIA I",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "14:00-17:00",
           "Profesor": "VENTOSILLA ZEVALLOS, MOISES ODAVIO"
         },
         {
           "Tipo": "P",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "17:00-19:00",
           "Profesor": "VENTOSILLA ZEVALLOS, MOISES ODAVIO"
         }
@@ -2428,24 +2317,23 @@
   {
     "Ciclo": 5,
     "Codigo": "EE430",
-    "Nombre": "SISTEMAS DE COMUNICACIONES I",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "14:00-16:00",
           "Profesor": "PERALTA ALFEREZ, FRANS"
         },
         {
           "Tipo": "P",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "18:00-20:00",
           "Profesor": "JIMENEZ HEREDIA ELADIO "
         },
         {
           "Tipo": "L",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "8:00-10:00",
           "Profesor": "ROMERO FUENTES, VIRGINIA"
         }
@@ -2455,24 +2343,23 @@
   {
     "Ciclo": 6,
     "Codigo": "EE430",
-    "Nombre": "SISTEMAS DE COMUNICACIONES I",
     "Secciones": {
       "N": [
         {
           "Tipo": "T",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "16:00-18:00",
           "Profesor": "PERALTA ALFEREZ, FRANS"
         },
         {
           "Tipo": "P",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "20:00-22:00",
           "Profesor": "JIMENEZ HEREDIA ELADIO "
         },
         {
           "Tipo": "L",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "10:00-12:00",
           "Profesor": "ROMERO FUENTES, VIRGINIA"
         }
@@ -2482,18 +2369,17 @@
   {
     "Ciclo": 11,
     "Codigo": "EE438",
-    "Nombre": "DISPOSITIVOS Y CIRCUITOS ELECTRÓNICOS II",
     "Secciones": {
       "N": [
         {
           "Tipo": "T",
-          "Día": "SA",
+          "Dia": "SA",
           "Hora": "13:00-16:00",
           "Profesor": "LOPEZ ARAMBURU, FERNANDO"
         },
         {
           "Tipo": "P",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "20:00-22:00",
           "Profesor": "LOPEZ ARAMBURU, FERNANDO"
         }
@@ -2503,18 +2389,17 @@
   {
     "Ciclo": 6,
     "Codigo": "EE438",
-    "Nombre": "DISPOSITIVOS Y CIRCUITOS ELECTRÓNICOS II",
     "Secciones": {
       "O": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "10:00-13:00",
           "Profesor": "NUÑEZ CARRILLO, RICARDO"
         },
         {
           "Tipo": "P",
-          "Día": "SA",
+          "Dia": "SA",
           "Hora": "10:00-12:00",
           "Profesor": "LOPEZ ARAMBURU, FERNANDO"
         }
@@ -2524,51 +2409,34 @@
   {
     "Ciclo": 6,
     "Codigo": "EE438",
-    "Nombre": "DISPOSITIVOS Y CIRCUITOS ELECTRÓNICOS II",
     "Secciones": {
       "O": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "10:00-13:00",
           "Profesor": "NUÑEZ CARRILLO, RICARDO"
         },
         {
           "Tipo": "P",
-          "Día": "SA",
+          "Dia": "SA",
           "Hora": "10:00-12:00",
           "Profesor": "LOPEZ ARAMBURU, FERNANDO"
         }
       ]
     }
   },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE449",
-    "Nombre": "INTRODUCCION A LA INGENIERIA BIOMEDICA",
-    "Secciones": { "P": [] }
-  },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE449",
-    "Nombre": "INTRODUCCION A LA INGENIERIA BIOMEDICA",
-    "Secciones": { "P": [] }
-  },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE449",
-    "Nombre": "INTRODUCCION A LA INGENIERIA BIOMEDICA",
-    "Secciones": { "Q": [] }
-  },
+  { "Ciclo": 11, "Codigo": "EE449", "Secciones": { "P": [] } },
+  { "Ciclo": 11, "Codigo": "EE449", "Secciones": { "P": [] } },
+  { "Ciclo": 11, "Codigo": "EE449", "Secciones": { "Q": [] } },
   {
     "Ciclo": 11,
     "Codigo": "EE458",
-    "Nombre": "LABORATORIO DE ELECTRONICA II",
     "Secciones": {
       "Q": [
         {
           "Tipo": "L",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "14:00-16:00",
           "Profesor": "ROMERO FUENTES, VIRGINIA"
         }
@@ -2578,12 +2446,11 @@
   {
     "Ciclo": 6,
     "Codigo": "EE458",
-    "Nombre": "LABORATORIO DE ELECTRONICA II",
     "Secciones": {
       "R": [
         {
           "Tipo": "L",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "12:00-14:00",
           "Profesor": "NUÑEZ CARRILLO, RICARDO"
         }
@@ -2593,12 +2460,11 @@
   {
     "Ciclo": 6,
     "Codigo": "EE458",
-    "Nombre": "LABORATORIO DE ELECTRONICA II",
     "Secciones": {
       "R": [
         {
           "Tipo": "L",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "12:00-14:00",
           "Profesor": "NUÑEZ CARRILLO, RICARDO"
         }
@@ -2608,18 +2474,17 @@
   {
     "Ciclo": 11,
     "Codigo": "EE588",
-    "Nombre": "ELECTROMAGNETISMO II",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "14:00-17:00",
           "Profesor": "DELGADO LEON, MIGUEL"
         },
         {
           "Tipo": "P",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "17:00-19:00",
           "Profesor": "DELGADO LEON, MIGUEL"
         }
@@ -2629,18 +2494,17 @@
   {
     "Ciclo": 6,
     "Codigo": "EE588",
-    "Nombre": "ELECTROMAGNETISMO II",
     "Secciones": {
       "N": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "11:00-14:00",
           "Profesor": "CAJAHUARINGA CAMACO, ARMANDO"
         },
         {
           "Tipo": "P",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "18:00-20:00",
           "Profesor": "CORDOVA BERNUY, VICTOR"
         }
@@ -2650,18 +2514,17 @@
   {
     "Ciclo": 6,
     "Codigo": "EE588",
-    "Nombre": "ELECTROMAGNETISMO II",
     "Secciones": {
       "O": [
         {
           "Tipo": "T",
-          "Día": "SA",
+          "Dia": "SA",
           "Hora": "8:00-11:00",
           "Profesor": "ALVAREZ MONTOYA, JUAN"
         },
         {
           "Tipo": "P",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "20:00-22:00",
           "Profesor": "CORDOVA BERNUY, VICTOR"
         }
@@ -2671,18 +2534,17 @@
   {
     "Ciclo": 11,
     "Codigo": "EE604",
-    "Nombre": "INTRODUCCION A MICROCONTROLADORES",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "13:00-15:00",
           "Profesor": "ESTRADA MONTES, JOSE ALFREDO"
         },
         {
           "Tipo": "L",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "15:00-17:00",
           "Profesor": "ESTRADA MONTES, JOSE ALFREDO"
         }
@@ -2692,18 +2554,17 @@
   {
     "Ciclo": 6,
     "Codigo": "EE604",
-    "Nombre": "INTRODUCCION A MICROCONTROLADORES",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "13:00-15:00",
           "Profesor": "ESTRADA MONTES, JOSE ALFREDO"
         },
         {
           "Tipo": "L",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "15:00-17:00",
           "Profesor": "ESTRADA MONTES, JOSE ALFREDO"
         }
@@ -2713,18 +2574,17 @@
   {
     "Ciclo": 6,
     "Codigo": "EE604",
-    "Nombre": "INTRODUCCION A MICROCONTROLADORES",
     "Secciones": {
       "N": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "13:00-15:00",
           "Profesor": "GALVEZ LEGUA, MAURICIO PEDRO"
         },
         {
           "Tipo": "L",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "15:00-17:00",
           "Profesor": "GALVEZ LEGUA, MAURICIO PEDRO"
         }
@@ -2734,24 +2594,23 @@
   {
     "Ciclo": 11,
     "Codigo": "EE648",
-    "Nombre": "SISTEMAS DE CONTROL II",
     "Secciones": {
       "N": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "14:00-16:00",
           "Profesor": "CARBONEL OLAZABAL, DANIEL"
         },
         {
           "Tipo": "P",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "10:00-12:00",
           "Profesor": "RAMIREZ HUAMAN, LUIS ENRIQUE"
         },
         {
           "Tipo": "L",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "10:00-12:00",
           "Profesor": "VALENZUELA DE LA CRUZ, BASILIO"
         }
@@ -2761,24 +2620,23 @@
   {
     "Ciclo": 6,
     "Codigo": "EE648",
-    "Nombre": "SISTEMAS DE CONTROL II",
     "Secciones": {
       "O": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "16:00-18:00",
           "Profesor": "MACHUCA MINES, JOSE"
         },
         {
           "Tipo": "P",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "8:00-10:00",
           "Profesor": "RAMIREZ HUAMAN, LUIS ENRIQUE"
         },
         {
           "Tipo": "L",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "12:00-14:00",
           "Profesor": "VALENZUELA DE LA CRUZ, BASILIO"
         }
@@ -2788,57 +2646,45 @@
   {
     "Ciclo": 6,
     "Codigo": "EE648",
-    "Nombre": "SISTEMAS DE CONTROL II",
     "Secciones": {
       "O": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "16:00-18:00",
           "Profesor": "MACHUCA MINES, JOSE"
         },
         {
           "Tipo": "P",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "8:00-10:00",
           "Profesor": "RAMIREZ HUAMAN, LUIS ENRIQUE"
         },
         {
           "Tipo": "L",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "12:00-14:00",
           "Profesor": "VALENZUELA DE LA CRUZ, BASILIO"
         }
       ]
     }
   },
-  {
-    "Ciclo": 7,
-    "Codigo": "EE239",
-    "Nombre": "MEDIDAS ELECTRICAS II",
-    "Secciones": { "P": [] }
-  },
-  {
-    "Ciclo": 7,
-    "Codigo": "EE241",
-    "Nombre": "LABORATORIO DE MÁQUINAS ELÉCTRICAS I",
-    "Secciones": { "P": [] }
-  },
+  { "Ciclo": 7, "Codigo": "EE239", "Secciones": { "P": [] } },
+  { "Ciclo": 7, "Codigo": "EE241", "Secciones": { "P": [] } },
   {
     "Ciclo": 7,
     "Codigo": "EE298",
-    "Nombre": "MÁQUINAS ELÉCTRICAS II",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "19:00-22:00",
           "Profesor": "ROJAS MIRANDA, LUIS"
         },
         {
           "Tipo": "P",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "18:00-20:00",
           "Profesor": "ROJAS MIRANDA, LUIS"
         }
@@ -2848,18 +2694,17 @@
   {
     "Ciclo": 7,
     "Codigo": "EE354",
-    "Nombre": "ANÁLISIS DE SISTEMAS DE POTENCIA II",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "SA",
+          "Dia": "SA",
           "Hora": "12:00-15:00",
           "Profesor": "KOC RUEDA, JOSE ELMER"
         },
         {
           "Tipo": "P",
-          "Día": "SA",
+          "Dia": "SA",
           "Hora": "16:00-18:00",
           "Profesor": "VILLAVICENCIO GASTELU, JOEL"
         }
@@ -2869,18 +2714,17 @@
   {
     "Ciclo": 11,
     "Codigo": "EE467",
-    "Nombre": "PROTOCOLOS DE ENRUTAMIENTO Y ARQUITECTURA DE REDES",
     "Secciones": {
       "N": [
         {
           "Tipo": "T",
-          "Día": "SA",
+          "Dia": "SA",
           "Hora": "14:00-16:00",
           "Profesor": "DIAZ ATAUCURI, DANIEL"
         },
         {
           "Tipo": "L",
-          "Día": "SA",
+          "Dia": "SA",
           "Hora": "16:00-18:00",
           "Profesor": "DIAZ ATAUCURI, DANIEL"
         }
@@ -2890,57 +2734,45 @@
   {
     "Ciclo": 11,
     "Codigo": "EE467",
-    "Nombre": "PROTOCOLOS DE ENRUTAMIENTO Y ARQUITECTURA DE REDES",
     "Secciones": {
       "N": [
         {
           "Tipo": "T",
-          "Día": "SA",
+          "Dia": "SA",
           "Hora": "14:00-16:00",
           "Profesor": "DIAZ ATAUCURI, DANIEL"
         },
         {
           "Tipo": "L",
-          "Día": "SA",
+          "Dia": "SA",
           "Hora": "16:00-18:00",
           "Profesor": "DIAZ ATAUCURI, DANIEL"
         }
       ]
     }
   },
-  {
-    "Ciclo": 7,
-    "Codigo": "EE467",
-    "Nombre": "PROTOCOLOS DE ENRUTAMIENTO Y ARQUITECTURA DE REDES",
-    "Secciones": { "O": [] }
-  },
-  {
-    "Ciclo": 7,
-    "Codigo": "EE528",
-    "Nombre": "CONVERSION DE ENERGIA ELECTROMECANICA",
-    "Secciones": { "O": [] }
-  },
+  { "Ciclo": 7, "Codigo": "EE467", "Secciones": { "O": [] } },
+  { "Ciclo": 7, "Codigo": "EE528", "Secciones": { "O": [] } },
   {
     "Ciclo": 7,
     "Codigo": "EE530",
-    "Nombre": "SISTEMAS DE COMUNICACIONES II",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "20:00-22:00",
           "Profesor": "SANTILLAN RAMOS, OSCAR RAMIRO"
         },
         {
           "Tipo": "P",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "10:00-12:00",
           "Profesor": "RODRIGUEZ GUTIERREZ, ALFREDO"
         },
         {
           "Tipo": "L",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "10:00-12:00",
           "Profesor": "FLORES ATOCHE, BEAU"
         }
@@ -2950,24 +2782,23 @@
   {
     "Ciclo": 7,
     "Codigo": "EE530",
-    "Nombre": "SISTEMAS DE COMUNICACIONES II",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "20:00-22:00",
           "Profesor": "SANTILLAN RAMOS, OSCAR RAMIRO"
         },
         {
           "Tipo": "P",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "10:00-12:00",
           "Profesor": "RODRIGUEZ GUTIERREZ, ALFREDO"
         },
         {
           "Tipo": "L",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "10:00-12:00",
           "Profesor": "FLORES ATOCHE, BEAU"
         }
@@ -2977,24 +2808,23 @@
   {
     "Ciclo": 8,
     "Codigo": "EE532",
-    "Nombre": "ELECTRONICA DE POTENCIA",
     "Secciones": {
       "N": [
         {
           "Tipo": "T",
-          "Día": "SA",
+          "Dia": "SA",
           "Hora": "8:00-11:00",
           "Profesor": "NUÑEZ ZUÑIGA, TERESA ESTHER"
         },
         {
           "Tipo": "P",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "18:00-20:00",
           "Profesor": "NUÑEZ ZUÑIGA, TERESA ESTHER"
         },
         {
           "Tipo": "L",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "16:00-18:00",
           "Profesor": "NUÑEZ ZUÑIGA, TERESA ESTHER"
         }
@@ -3004,24 +2834,23 @@
   {
     "Ciclo": 11,
     "Codigo": "EE590",
-    "Nombre": "COMUNICACIONES POR FIBRA ÓPTICA",
     "Secciones": {
       "N": [
         {
           "Tipo": "T",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "18:00-20:00",
           "Profesor": "BELLEZA ZAMORA, EDUARDO"
         },
         {
           "Tipo": "P",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "20:00-22:00",
           "Profesor": "BELLEZA ZAMORA, EDUARDO"
         },
         {
           "Tipo": "L",
-          "Día": "SA",
+          "Dia": "SA",
           "Hora": "8:00-10:00",
           "Profesor": "BELLEZA ZAMORA, EDUARDO"
         }
@@ -3031,24 +2860,23 @@
   {
     "Ciclo": 7,
     "Codigo": "EE590",
-    "Nombre": "COMUNICACIONES POR FIBRA ÓPTICA",
     "Secciones": {
       "N": [
         {
           "Tipo": "T",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "18:00-20:00",
           "Profesor": "BELLEZA ZAMORA, EDUARDO"
         },
         {
           "Tipo": "P",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "20:00-22:00",
           "Profesor": "BELLEZA ZAMORA, EDUARDO"
         },
         {
           "Tipo": "L",
-          "Día": "SA",
+          "Dia": "SA",
           "Hora": "8:00-10:00",
           "Profesor": "BELLEZA ZAMORA, EDUARDO"
         }
@@ -3058,24 +2886,23 @@
   {
     "Ciclo": 11,
     "Codigo": "EE644",
-    "Nombre": "DISEÑO LÓGICO DIGITAL",
     "Secciones": {
       "O": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "18:00-20:00",
           "Profesor": "PISCOYA SILVA, ULISES"
         },
         {
           "Tipo": "P",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "14:00-16:00",
           "Profesor": "PISCOYA SILVA, ULISES"
         },
         {
           "Tipo": "L",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "16:00-18:00",
           "Profesor": "PISCOYA SILVA, ULISES"
         }
@@ -3085,63 +2912,51 @@
   {
     "Ciclo": 7,
     "Codigo": "EE644",
-    "Nombre": "DISEÑO LÓGICO DIGITAL",
     "Secciones": {
       "O": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "18:00-20:00",
           "Profesor": "PISCOYA SILVA, ULISES"
         },
         {
           "Tipo": "P",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "14:00-16:00",
           "Profesor": "PISCOYA SILVA, ULISES"
         },
         {
           "Tipo": "L",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "16:00-18:00",
           "Profesor": "PISCOYA SILVA, ULISES"
         }
       ]
     }
   },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE644",
-    "Nombre": "DISEÑO LÓGICO DIGITAL",
-    "Secciones": { "P": [] }
-  },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE678",
-    "Nombre": "INSTRUMENTACIÓN Y CONTROL DE PROCESOS INDUSTRIALES",
-    "Secciones": { "P": [] }
-  },
+  { "Ciclo": 11, "Codigo": "EE644", "Secciones": { "P": [] } },
+  { "Ciclo": 11, "Codigo": "EE678", "Secciones": { "P": [] } },
   {
     "Ciclo": 7,
     "Codigo": "EE678",
-    "Nombre": "INSTRUMENTACIÓN Y CONTROL DE PROCESOS INDUSTRIALES",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "14:00-16:00",
           "Profesor": "MEDINA RAMOS, CARLOS"
         },
         {
           "Tipo": "P",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "16:00-18:00",
           "Profesor": "MEDINA RAMOS, CARLOS"
         },
         {
           "Tipo": "L",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "14:00-16:00",
           "Profesor": "CORDOVA BERNUY, VICTOR"
         }
@@ -3151,24 +2966,23 @@
   {
     "Ciclo": 11,
     "Codigo": "EE678",
-    "Nombre": "INSTRUMENTACIÓN Y CONTROL DE PROCESOS INDUSTRIALES",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "14:00-16:00",
           "Profesor": "MEDINA RAMOS, CARLOS"
         },
         {
           "Tipo": "P",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "16:00-18:00",
           "Profesor": "MEDINA RAMOS, CARLOS"
         },
         {
           "Tipo": "L",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "14:00-16:00",
           "Profesor": "CORDOVA BERNUY, VICTOR"
         }
@@ -3178,18 +2992,17 @@
   {
     "Ciclo": 8,
     "Codigo": "BEG06",
-    "Nombre": "FORMULACIÓN Y EVALUACION DE PROYECTOS",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "18:00-20:00",
           "Profesor": "SALVADOR JACOME, LEONCIO JULIO"
         },
         {
           "Tipo": "P",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "18:00-20:00",
           "Profesor": "SALVADOR JACOME, LEONCIO JULIO"
         }
@@ -3199,18 +3012,17 @@
   {
     "Ciclo": 8,
     "Codigo": "BEG06",
-    "Nombre": "FORMULACIÓN Y EVALUACION DE PROYECTOS",
     "Secciones": {
       "N": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "20:00-22:00",
           "Profesor": "SALVADOR JACOME, LEONCIO JULIO"
         },
         {
           "Tipo": "P",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "20:00-22:00",
           "Profesor": "SALVADOR JACOME, LEONCIO JULIO"
         }
@@ -3220,18 +3032,17 @@
   {
     "Ciclo": 8,
     "Codigo": "BEG06",
-    "Nombre": "FORMULACIÓN Y EVALUACION DE PROYECTOS",
     "Secciones": {
       "N": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "20:00-22:00",
           "Profesor": "SALVADOR JACOME, LEONCIO JULIO"
         },
         {
           "Tipo": "P",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "20:00-22:00",
           "Profesor": "SALVADOR JACOME, LEONCIO JULIO"
         }
@@ -3241,75 +3052,38 @@
   {
     "Ciclo": 8,
     "Codigo": "EE242",
-    "Nombre": "LABORATORIO DE MÁQUINAS ELÉCTRICAS II",
     "Secciones": {
       "N": [
         {
           "Tipo": "L",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "12:00-14:00",
           "Profesor": "PUICAN VERA, JOSE"
         }
       ]
     }
   },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE375",
-    "Nombre": "ESTABILIDAD DE SISTEMAS DE POTENCIA",
-    "Secciones": { "O": [] }
-  },
-  {
-    "Ciclo": 8,
-    "Codigo": "EE393",
-    "Nombre": "LINEAS DE TRANSMISION DE POTENCIA",
-    "Secciones": { "O": [] }
-  },
-  {
-    "Ciclo": 8,
-    "Codigo": "EE468",
-    "Nombre": "ELECTRÓNICA DE RADIOCOMUNICACIONES",
-    "Secciones": { "O": [] }
-  },
-  {
-    "Ciclo": 8,
-    "Codigo": "EE468",
-    "Nombre": "ELECTRÓNICA DE RADIOCOMUNICACIONES",
-    "Secciones": { "P": [] }
-  },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE468",
-    "Nombre": "ELECTRÓNICA DE RADIOCOMUNICACIONES",
-    "Secciones": { "P": [] }
-  },
-  {
-    "Ciclo": 8,
-    "Codigo": "EE592",
-    "Nombre": "MICROONDAS",
-    "Secciones": { "P": [] }
-  },
-  {
-    "Ciclo": 9,
-    "Codigo": "CIB54",
-    "Nombre": "GESTIÓN Y SEGURIDAD DE REDES",
-    "Secciones": { "Q": [] }
-  },
+  { "Ciclo": 11, "Codigo": "EE375", "Secciones": { "O": [] } },
+  { "Ciclo": 8, "Codigo": "EE393", "Secciones": { "O": [] } },
+  { "Ciclo": 8, "Codigo": "EE468", "Secciones": { "O": [] } },
+  { "Ciclo": 8, "Codigo": "EE468", "Secciones": { "P": [] } },
+  { "Ciclo": 11, "Codigo": "EE468", "Secciones": { "P": [] } },
+  { "Ciclo": 8, "Codigo": "EE592", "Secciones": { "P": [] } },
+  { "Ciclo": 9, "Codigo": "CIB54", "Secciones": { "Q": [] } },
   {
     "Ciclo": 9,
     "Codigo": "EE445",
-    "Nombre": "PROYECTO FIN DE CARRERA (L1)",
     "Secciones": {
       "Q": [
         {
           "Tipo": "T",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "16:00-18:00",
           "Profesor": "FIGUEROA SANTOS, LUIS LEONCIO"
         },
         {
           "Tipo": "L",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "16:00-20:00",
           "Profesor": "FIGUEROA SANTOS, LUIS LEONCIO"
         }
@@ -3319,18 +3093,17 @@
   {
     "Ciclo": 9,
     "Codigo": "EE445",
-    "Nombre": "PROYECTO FIN DE CARRERA (L1)",
     "Secciones": {
       "Q": [
         {
           "Tipo": "T",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "16:00-18:00",
           "Profesor": "FIGUEROA SANTOS, LUIS LEONCIO"
         },
         {
           "Tipo": "L",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "16:00-20:00",
           "Profesor": "FIGUEROA SANTOS, LUIS LEONCIO"
         }
@@ -3340,18 +3113,17 @@
   {
     "Ciclo": 9,
     "Codigo": "EE445",
-    "Nombre": "PROYECTO FIN DE CARRERA (L1)",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "16:00-18:00",
           "Profesor": "FLORES TINOCO, MOISES ARISTE"
         },
         {
           "Tipo": "L",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "16:00-20:00",
           "Profesor": "FLORES TINOCO, MOISES ARISTE"
         }
@@ -3361,12 +3133,11 @@
   {
     "Ciclo": 9,
     "Codigo": "EE498",
-    "Nombre": "LABORATORIO DE RADIOCOMUNICACIONES",
     "Secciones": {
       "M": [
         {
           "Tipo": "L",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "14:00-16:00",
           "Profesor": "FLORES ATOCHE, BEAU"
         }
@@ -3376,12 +3147,11 @@
   {
     "Ciclo": 9,
     "Codigo": "EE498",
-    "Nombre": "LABORATORIO DE RADIOCOMUNICACIONES",
     "Secciones": {
       "N": [
         {
           "Tipo": "L",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "14:00-16:00",
           "Profesor": "ALBURQUEQUE GUERRERO, ANGEL"
         }
@@ -3391,39 +3161,32 @@
   {
     "Ciclo": 8,
     "Codigo": "EE498",
-    "Nombre": "LABORATORIO DE RADIOCOMUNICACIONES",
     "Secciones": {
       "N": [
         {
           "Tipo": "L",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "14:00-16:00",
           "Profesor": "ALBURQUEQUE GUERRERO, ANGEL"
         }
       ]
     }
   },
-  {
-    "Ciclo": 9,
-    "Codigo": "EE676",
-    "Nombre": "CENTRALES ELÉCTRICAS I",
-    "Secciones": { "O": [] }
-  },
+  { "Ciclo": 9, "Codigo": "EE676", "Secciones": { "O": [] } },
   {
     "Ciclo": 10,
     "Codigo": "EE446",
-    "Nombre": "PROYECTO DE TESIS (L1)",
     "Secciones": {
       "O": [
         {
           "Tipo": "T",
-          "Día": "SA",
+          "Dia": "SA",
           "Hora": "8:00-10:00",
           "Profesor": "ARROYO ARANA, CARLOS ALBERTO"
         },
         {
           "Tipo": "P",
-          "Día": "SA",
+          "Dia": "SA",
           "Hora": "13:00-17:00",
           "Profesor": "ARROYO ARANA, CARLOS ALBERTO"
         }
@@ -3433,18 +3196,17 @@
   {
     "Ciclo": 10,
     "Codigo": "EE446",
-    "Nombre": "PROYECTO DE TESIS (L1)",
     "Secciones": {
       "P": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "16:00-18:00",
           "Profesor": "MEDINA RAMOS, CARLOS"
         },
         {
           "Tipo": "P",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "14:00-18:00",
           "Profesor": "MEDINA RAMOS, CARLOS"
         }
@@ -3454,51 +3216,39 @@
   {
     "Ciclo": 10,
     "Codigo": "EE446",
-    "Nombre": "PROYECTO DE TESIS (L1)",
     "Secciones": {
       "P": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "16:00-18:00",
           "Profesor": "MEDINA RAMOS, CARLOS"
         },
         {
           "Tipo": "P",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "14:00-18:00",
           "Profesor": "MEDINA RAMOS, CARLOS"
         }
       ]
     }
   },
-  {
-    "Ciclo": 10,
-    "Codigo": "EE712",
-    "Nombre": "PLANIFICACION DE REDES DE TELECOMUNICACIONES",
-    "Secciones": { "Q": [] }
-  },
+  { "Ciclo": 10, "Codigo": "EE712", "Secciones": { "Q": [] } },
+  { "Ciclo": 11, "Codigo": "BMA20", "Secciones": { "Q": [] } },
   {
     "Ciclo": 11,
     "Codigo": "BMA20",
-    "Nombre": "ALGORITMOS Y ESTRUCTURAS DE DATOS II",
-    "Secciones": { "Q": [] }
-  },
-  {
-    "Ciclo": 11,
-    "Codigo": "BMA20",
-    "Nombre": "ALGORITMOS Y ESTRUCTURAS DE DATOS II",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "8:00-10:00",
           "Profesor": "ROJAS VILLANUEVA, UWE"
         },
         {
           "Tipo": "L",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "10:00-12:00",
           "Profesor": "ROJAS VILLANUEVA, UWE"
         }
@@ -3508,45 +3258,38 @@
   {
     "Ciclo": 11,
     "Codigo": "BMA20",
-    "Nombre": "ALGORITMOS Y ESTRUCTURAS DE DATOS II",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "8:00-10:00",
           "Profesor": "ROJAS VILLANUEVA, UWE"
         },
         {
           "Tipo": "L",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "10:00-12:00",
           "Profesor": "ROJAS VILLANUEVA, UWE"
         }
       ]
     }
   },
-  {
-    "Ciclo": 11,
-    "Codigo": "BRN93",
-    "Nombre": "REGULACION Y SUPERVISION DEL SECTOR ELECTRICO",
-    "Secciones": { "N": [] }
-  },
+  { "Ciclo": 11, "Codigo": "BRN93", "Secciones": { "N": [] } },
   {
     "Ciclo": 11,
     "Codigo": "CIB02",
-    "Nombre": "INGENIERIA DE SOFTWARE",
     "Secciones": {
       "N": [
         {
           "Tipo": "T",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "8:00-10:00",
           "Profesor": "GALVEZ LEGUA, MAURICIO PEDRO"
         },
         {
           "Tipo": "L",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "10:00-12:00",
           "Profesor": "GALVEZ LEGUA, MAURICIO PEDRO"
         }
@@ -3556,18 +3299,17 @@
   {
     "Ciclo": 11,
     "Codigo": "CIB12",
-    "Nombre": "APRENDIZAJE DE MAQUINA Y MINERIA DE DATOS",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "14:00-16:00",
           "Profesor": "PIZAN TOSCANO, LUPE NERIDA"
         },
         {
           "Tipo": "P",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "16:00-18:00",
           "Profesor": "PIZAN TOSCANO, LUPE NERIDA"
         }
@@ -3577,18 +3319,17 @@
   {
     "Ciclo": 11,
     "Codigo": "CIB12",
-    "Nombre": "APRENDIZAJE DE MAQUINA Y MINERIA DE DATOS",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "14:00-16:00",
           "Profesor": "PIZAN TOSCANO, LUPE NERIDA"
         },
         {
           "Tipo": "P",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "16:00-18:00",
           "Profesor": "PIZAN TOSCANO, LUPE NERIDA"
         }
@@ -3598,18 +3339,17 @@
   {
     "Ciclo": 11,
     "Codigo": "CIB12",
-    "Nombre": "APRENDIZAJE DE MAQUINA Y MINERIA DE DATOS",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "14:00-16:00",
           "Profesor": "PIZAN TOSCANO, LUPE NERIDA"
         },
         {
           "Tipo": "P",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "16:00-18:00",
           "Profesor": "PIZAN TOSCANO, LUPE NERIDA"
         }
@@ -3619,63 +3359,41 @@
   {
     "Ciclo": 11,
     "Codigo": "CIB14",
-    "Nombre": "SISTEMAS OPERATIVOS",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "SA",
+          "Dia": "SA",
           "Hora": "8:00-10:00",
           "Profesor": "MENDOZA CARDENAS, FREDY"
         },
         {
           "Tipo": "L",
-          "Día": "SA",
+          "Dia": "SA",
           "Hora": "10:00-12:00",
           "Profesor": "MENDOZA CARDENAS, FREDY"
         }
       ]
     }
   },
-  {
-    "Ciclo": 11,
-    "Codigo": "CIB14",
-    "Nombre": "SISTEMAS OPERATIVOS",
-    "Secciones": { "N": [] }
-  },
-  {
-    "Ciclo": 11,
-    "Codigo": "CIB28",
-    "Nombre": "VISIÓN Y ANÁLISIS DE IMÁGENES POR COMPUTADOR",
-    "Secciones": { "N": [] }
-  },
-  {
-    "Ciclo": 11,
-    "Codigo": "CIB28",
-    "Nombre": "VISIÓN Y ANÁLISIS DE IMÁGENES POR COMPUTADOR",
-    "Secciones": { "O": [] }
-  },
-  {
-    "Ciclo": 11,
-    "Codigo": "CIB28",
-    "Nombre": "VISIÓN Y ANÁLISIS DE IMÁGENES POR COMPUTADOR",
-    "Secciones": { "O": [] }
-  },
+  { "Ciclo": 11, "Codigo": "CIB14", "Secciones": { "N": [] } },
+  { "Ciclo": 11, "Codigo": "CIB28", "Secciones": { "N": [] } },
+  { "Ciclo": 11, "Codigo": "CIB28", "Secciones": { "O": [] } },
+  { "Ciclo": 11, "Codigo": "CIB28", "Secciones": { "O": [] } },
   {
     "Ciclo": 11,
     "Codigo": "EE225",
-    "Nombre": "MÁQUINAS ELÉCTRICAS III",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "16:00-18:00",
           "Profesor": "PALMA GARCIA, MODESTO TOMAS"
         },
         {
           "Tipo": "P",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "10:00-12:00",
           "Profesor": "PALMA GARCIA, MODESTO TOMAS"
         }
@@ -3685,12 +3403,11 @@
   {
     "Ciclo": 11,
     "Codigo": "EE235",
-    "Nombre": "DISEÑO DE MÁQUINAS ELÉCTRICAS I",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "13:00-16:00",
           "Profesor": "CARRANZA AREVALO, MANUEL"
         }
@@ -3700,156 +3417,73 @@
   {
     "Ciclo": 11,
     "Codigo": "EE316",
-    "Nombre": "CENTRALES ELÉCTRICAS II",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "SA",
+          "Dia": "SA",
           "Hora": "10:00-13:00",
           "Profesor": "ANTARA ARIAS, RONAL"
         },
         {
           "Tipo": "P",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "18:00-20:00",
           "Profesor": "AGUILAR QUIROZ, RICARDO"
         }
       ]
     }
   },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE336",
-    "Nombre": "INGENIERIA DE ALTA TENSION",
-    "Secciones": { "N": [] }
-  },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE344",
-    "Nombre": "INGENIERÍA DE ILUMINACIÓN",
-    "Secciones": { "N": [] }
-  },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE346",
-    "Nombre": "INSTALACIONES ELÉCTRICAS II",
-    "Secciones": { "N": [] }
-  },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE376",
-    "Nombre": "PROTECCIÓN DE SISTEMAS DE POTENCIA",
-    "Secciones": { "O": [] }
-  },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE385",
-    "Nombre": "VALUACION Y TARIFICACION DE LA ENERGIA ELECTRICA",
-    "Secciones": { "O": [] }
-  },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE387",
-    "Nombre": "PLANEAMIENTO DE PROYECTOS DE INGENIERIA ELECTRICA",
-    "Secciones": { "O": [] }
-  },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE387",
-    "Nombre": "PLANEAMIENTO DE PROYECTOS DE INGENIERIA ELECTRICA",
-    "Secciones": { "P": [] }
-  },
+  { "Ciclo": 11, "Codigo": "EE336", "Secciones": { "N": [] } },
+  { "Ciclo": 11, "Codigo": "EE344", "Secciones": { "N": [] } },
+  { "Ciclo": 11, "Codigo": "EE346", "Secciones": { "N": [] } },
+  { "Ciclo": 11, "Codigo": "EE376", "Secciones": { "O": [] } },
+  { "Ciclo": 11, "Codigo": "EE385", "Secciones": { "O": [] } },
+  { "Ciclo": 11, "Codigo": "EE387", "Secciones": { "O": [] } },
+  { "Ciclo": 11, "Codigo": "EE387", "Secciones": { "P": [] } },
+  { "Ciclo": 11, "Codigo": "EE469", "Secciones": { "P": [] } },
+  { "Ciclo": 11, "Codigo": "EE469", "Secciones": { "P": [] } },
   {
     "Ciclo": 11,
     "Codigo": "EE469",
-    "Nombre": "ARQUITECTURA DE CENTROS DE DATOS",
-    "Secciones": { "P": [] }
-  },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE469",
-    "Nombre": "ARQUITECTURA DE CENTROS DE DATOS",
-    "Secciones": { "P": [] }
-  },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE469",
-    "Nombre": "ARQUITECTURA DE CENTROS DE DATOS",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "14:00-16:00",
           "Profesor": "BENITEZ PALACIOS, JOSE"
         },
         {
           "Tipo": "L",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "16:00-18:00",
           "Profesor": "BENITEZ PALACIOS, JOSE"
         }
       ]
     }
   },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE479",
-    "Nombre": "INSTRUMENTACIÓN Y EQUIPOS BIOMÉDICOS",
-    "Secciones": { "N": [] }
-  },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE479",
-    "Nombre": "INSTRUMENTACIÓN Y EQUIPOS BIOMÉDICOS",
-    "Secciones": { "O": [] }
-  },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE508",
-    "Nombre": "INGENIERIA DE AUDIO Y VIDEO",
-    "Secciones": { "P": [] }
-  },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE508",
-    "Nombre": "INGENIERIA DE AUDIO Y VIDEO",
-    "Secciones": { "Q": [] }
-  },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE548",
-    "Nombre": "REDES INALAMBRICAS Y MOVILES",
-    "Secciones": { "R": [] }
-  },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE585",
-    "Nombre": "TRANSITORIOS ELECTROMAGNETICOS EN SISTEMAS DE POTENCIA",
-    "Secciones": { "S": [] }
-  },
+  { "Ciclo": 11, "Codigo": "EE479", "Secciones": { "N": [] } },
+  { "Ciclo": 11, "Codigo": "EE479", "Secciones": { "O": [] } },
+  { "Ciclo": 11, "Codigo": "EE508", "Secciones": { "P": [] } },
+  { "Ciclo": 11, "Codigo": "EE508", "Secciones": { "Q": [] } },
+  { "Ciclo": 11, "Codigo": "EE548", "Secciones": { "R": [] } },
+  { "Ciclo": 11, "Codigo": "EE585", "Secciones": { "S": [] } },
+  { "Ciclo": 11, "Codigo": "EE593", "Secciones": { "T": [] } },
   {
     "Ciclo": 11,
     "Codigo": "EE593",
-    "Nombre": "SISTEMAS DE RADIOCOMUNICACION",
-    "Secciones": { "T": [] }
-  },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE593",
-    "Nombre": "SISTEMAS DE RADIOCOMUNICACION",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "16:00-19:00",
           "Profesor": "LOZANO SALAS, JULIO"
         },
         {
           "Tipo": "P",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "19:00-21:00",
           "Profesor": "LOZANO SALAS, JULIO"
         }
@@ -3859,75 +3493,43 @@
   {
     "Ciclo": 11,
     "Codigo": "EE594",
-    "Nombre": "ANTENAS",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "16:00-18:00",
           "Profesor": "LOPEZ TAFUR, MARCIAL ANTONIO"
         },
         {
           "Tipo": "P",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "18:00-20:00",
           "Profesor": "LOPEZ TAFUR, MARCIAL ANTONIO"
         }
       ]
     }
   },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE594",
-    "Nombre": "ANTENAS",
-    "Secciones": { "N": [] }
-  },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE596",
-    "Nombre": "SISTEMAS DE RADIODIFUSION Y TELEVISION POR CABLE",
-    "Secciones": { "N": [] }
-  },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE596",
-    "Nombre": "SISTEMAS DE RADIODIFUSION Y TELEVISION POR CABLE",
-    "Secciones": { "O": [] }
-  },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE598",
-    "Nombre": "RADIODIFUSION DE VIDEO Y AUDIO DIGITALES",
-    "Secciones": { "O": [] }
-  },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE598",
-    "Nombre": "RADIODIFUSION DE VIDEO Y AUDIO DIGITALES",
-    "Secciones": { "P": [] }
-  },
+  { "Ciclo": 11, "Codigo": "EE594", "Secciones": { "N": [] } },
+  { "Ciclo": 11, "Codigo": "EE596", "Secciones": { "N": [] } },
+  { "Ciclo": 11, "Codigo": "EE596", "Secciones": { "O": [] } },
+  { "Ciclo": 11, "Codigo": "EE598", "Secciones": { "O": [] } },
+  { "Ciclo": 11, "Codigo": "EE598", "Secciones": { "P": [] } },
+  { "Ciclo": 11, "Codigo": "EE621", "Secciones": { "P": [] } },
   {
     "Ciclo": 11,
     "Codigo": "EE621",
-    "Nombre": "CONTROLES ELECTRICOS Y AUTOMATIZACION",
-    "Secciones": { "P": [] }
-  },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE621",
-    "Nombre": "CONTROLES ELECTRICOS Y AUTOMATIZACION",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "MA",
+          "Dia": "MA",
           "Hora": "19:00-22:00",
           "Profesor": "AQUIZE PALACIOS, RUBEN"
         },
         {
           "Tipo": "L",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "18:00-20:00",
           "Profesor": "AQUIZE PALACIOS, RUBEN"
         }
@@ -3937,87 +3539,45 @@
   {
     "Ciclo": 11,
     "Codigo": "EE658",
-    "Nombre": "REDES DE AUTOMATIZACION Y PROCESOS INDUSTRIALES",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "SA",
+          "Dia": "SA",
           "Hora": "10:00-12:00",
           "Profesor": "SANTILLAN RAMOS, OSCAR RAMIRO"
         },
         {
           "Tipo": "P",
-          "Día": "SA",
+          "Dia": "SA",
           "Hora": "12:00-14:00",
           "Profesor": "SANTILLAN RAMOS, OSCAR RAMIRO"
         }
       ]
     }
   },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE658",
-    "Nombre": "REDES DE AUTOMATIZACION Y PROCESOS INDUSTRIALES",
-    "Secciones": { "N": [] }
-  },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE658",
-    "Nombre": "REDES DE AUTOMATIZACION Y PROCESOS INDUSTRIALES",
-    "Secciones": { "N": [] }
-  },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE672",
-    "Nombre": "ROBOTICA INDUSTRIAL",
-    "Secciones": { "O": [] }
-  },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE672",
-    "Nombre": "ROBOTICA INDUSTRIAL",
-    "Secciones": { "O": [] }
-  },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE672",
-    "Nombre": "ROBOTICA INDUSTRIAL",
-    "Secciones": { "P": [] }
-  },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE679",
-    "Nombre": "SUBESTACIONES ELÉCTRICAS",
-    "Secciones": { "P": [] }
-  },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE681",
-    "Nombre": "ARQUITECTURA DE COMPUTADORAS DE PROCESAMIENTO PARALELO",
-    "Secciones": { "Q": [] }
-  },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE681",
-    "Nombre": "ARQUITECTURA DE COMPUTADORAS DE PROCESAMIENTO PARALELO",
-    "Secciones": { "Q": [] }
-  },
+  { "Ciclo": 11, "Codigo": "EE658", "Secciones": { "N": [] } },
+  { "Ciclo": 11, "Codigo": "EE658", "Secciones": { "N": [] } },
+  { "Ciclo": 11, "Codigo": "EE672", "Secciones": { "O": [] } },
+  { "Ciclo": 11, "Codigo": "EE672", "Secciones": { "O": [] } },
+  { "Ciclo": 11, "Codigo": "EE672", "Secciones": { "P": [] } },
+  { "Ciclo": 11, "Codigo": "EE679", "Secciones": { "P": [] } },
+  { "Ciclo": 11, "Codigo": "EE681", "Secciones": { "Q": [] } },
+  { "Ciclo": 11, "Codigo": "EE681", "Secciones": { "Q": [] } },
   {
     "Ciclo": 11,
     "Codigo": "EE689",
-    "Nombre": "ARQUITECTURA DE MICROCONTROLADORES AVANZADOS",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "18:00-20:00",
           "Profesor": "BARRIGA HOYLE, JAVIER"
         },
         {
           "Tipo": "L",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "20:00-22:00",
           "Profesor": "BARRIGA HOYLE, JAVIER"
         }
@@ -4027,18 +3587,17 @@
   {
     "Ciclo": 11,
     "Codigo": "EE689",
-    "Nombre": "ARQUITECTURA DE MICROCONTROLADORES AVANZADOS",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "18:00-20:00",
           "Profesor": "BARRIGA HOYLE, JAVIER"
         },
         {
           "Tipo": "L",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "20:00-22:00",
           "Profesor": "BARRIGA HOYLE, JAVIER"
         }
@@ -4048,18 +3607,17 @@
   {
     "Ciclo": 11,
     "Codigo": "EE689",
-    "Nombre": "ARQUITECTURA DE MICROCONTROLADORES AVANZADOS",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "18:00-20:00",
           "Profesor": "BARRIGA HOYLE, JAVIER"
         },
         {
           "Tipo": "L",
-          "Día": "JU",
+          "Dia": "JU",
           "Hora": "20:00-22:00",
           "Profesor": "BARRIGA HOYLE, JAVIER"
         }
@@ -4069,51 +3627,39 @@
   {
     "Ciclo": 11,
     "Codigo": "EE693",
-    "Nombre": "SISTEMAS MICROELECTRONICOS INTEGRADOS",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "18:00-20:00",
           "Profesor": "ALARCON MATUTTI, RUBEN VIRGILIO"
         },
         {
           "Tipo": "L",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "20:00-22:00",
           "Profesor": "ALARCON MATUTTI, RUBEN VIRGILIO"
         }
       ]
     }
   },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE693",
-    "Nombre": "SISTEMAS MICROELECTRONICOS INTEGRADOS",
-    "Secciones": { "N": [] }
-  },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE708",
-    "Nombre": "SISTEMAS DE CONMUTACIÓN DE TELECOMUNICACIONES",
-    "Secciones": { "N": [] }
-  },
+  { "Ciclo": 11, "Codigo": "EE693", "Secciones": { "N": [] } },
+  { "Ciclo": 11, "Codigo": "EE708", "Secciones": { "N": [] } },
   {
     "Ciclo": 9,
     "Codigo": "EE708",
-    "Nombre": "SISTEMAS DE CONMUTACIÓN DE TELECOMUNICACIONES",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "14:00-16:00",
           "Profesor": "TRONCOSO CASTRO, PAUL"
         },
         {
           "Tipo": "P",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "16:00-18:00",
           "Profesor": "TRONCOSO CASTRO, PAUL"
         }
@@ -4123,45 +3669,33 @@
   {
     "Ciclo": 11,
     "Codigo": "EE718",
-    "Nombre": "SISTEMAS DE CONTROL AVANZADO",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "LU",
+          "Dia": "LU",
           "Hora": "18:00-20:00",
           "Profesor": "MACHUCA MINES, JOSE"
         },
         {
           "Tipo": "P",
-          "Día": "MI",
+          "Dia": "MI",
           "Hora": "18:00-20:00",
           "Profesor": "MACHUCA MINES, JOSE"
         }
       ]
     }
   },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE718",
-    "Nombre": "SISTEMAS DE CONTROL AVANZADO",
-    "Secciones": { "N": [] }
-  },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE718",
-    "Nombre": "SISTEMAS DE CONTROL AVANZADO",
-    "Secciones": { "N": [] }
-  },
+  { "Ciclo": 11, "Codigo": "EE718", "Secciones": { "N": [] } },
+  { "Ciclo": 11, "Codigo": "EE718", "Secciones": { "N": [] } },
   {
     "Ciclo": 11,
     "Codigo": "IP101",
-    "Nombre": "INGLES PROFESIONAL I",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "14:00-16:00",
           "Profesor": "FERNANDEZ MALPARTIDA, WALTER MIGUEL"
         }
@@ -4171,22 +3705,16 @@
   {
     "Ciclo": 11,
     "Codigo": "IP101",
-    "Nombre": "INGLES PROFESIONAL I",
     "Secciones": {
       "M": [
         {
           "Tipo": "T",
-          "Día": "VI",
+          "Dia": "VI",
           "Hora": "14:00-16:00",
           "Profesor": "FERNANDEZ MALPARTIDA, WALTER MIGUEL"
         }
       ]
     }
   },
-  {
-    "Ciclo": 11,
-    "Codigo": "IT557",
-    "Nombre": "TÓPICOS ESPECIALES",
-    "Secciones": { "N": [] }
-  }
+  { "Ciclo": 11, "Codigo": "IT557", "Secciones": { "N": [] } }
 ]
