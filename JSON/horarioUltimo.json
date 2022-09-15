@@ -2,1867 +2,5107 @@
   {
     "Ciclo": 1,
     "Codigo": "BFI01",
-    "Secciones": {
-      "M": [
-        {
-          "Tipo": "T",
-          "Dia": "LU",
-          "Hora": "10:00-12:00",
-          "Profesor": "HUALLPA GUTIERREZ, WALTER ANTONIO"
-        },
-        {
-          "Tipo": "T",
-          "Dia": "MI",
-          "Hora": "10:00-12:00",
-          "Profesor": "HUALLPA GUTIERREZ, WALTER ANTONIO"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "VI",
-          "Hora": "8:00-10:00",
-          "Profesor": "HUALLPA GUTIERREZ, WALTER ANTONIO"
-        },
-        {
-          "Tipo": "L",
-          "Dia": "JU",
-          "Hora": "8:00-10:00",
-          "Profesor": "HUALLPA GUTIERREZ, WALTER ANTONIO"
-        }
-      ],
-      "N": [
-        {
-          "Tipo": "T",
-          "Dia": "JU",
-          "Hora": "14:00-16:00",
-          "Profesor": "LLAMOJA CURI, JOHNNY"
-        },
-        {
-          "Tipo": "T",
-          "Dia": "MI",
-          "Hora": "8:00-10:00",
-          "Profesor": "LLAMOJA CURI, JOHNNY"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "VI",
-          "Hora": "8:00-10:00",
-          "Profesor": "LLAMOJA CURI, JOHNNY"
-        },
-        {
-          "Tipo": "L",
-          "Dia": "MA",
-          "Hora": "14:00-16:00",
-          "Profesor": "LLAMOJA CURI, JOHNNY"
-        }
-      ],
-      "O": [
-        {
-          "Tipo": "T",
-          "Dia": "LU",
-          "Hora": "8:00-10:00",
-          "Profesor": "CARO AMERY. JOSE"
-        },
-        {
-          "Tipo": "T",
-          "Dia": "LU",
-          "Hora": "10:00-12:00",
-          "Profesor": "CARO AMERY. JOSE"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "VI",
-          "Hora": "8:00-10:00",
-          "Profesor": "DURAND BERNALD, LUIS"
-        },
-        {
-          "Tipo": "L",
-          "Dia": "JU",
-          "Hora": "14:00-16:00",
-          "Profesor": "DURAND BERNALD, LUIS"
-        }
-      ],
-      "P": [
-        {
-          "Tipo": "T",
-          "Dia": "JU",
-          "Hora": "16:00-18:00",
-          "Profesor": "CHIRINOS VILLARUEL, FERNANDO"
-        },
-        {
-          "Tipo": "T",
-          "Dia": "LU",
-          "Hora": "11:00-13:00",
-          "Profesor": "CHIRINOS VILLARUEL, FERNANDO"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "VI",
-          "Hora": "8:00-10:00",
-          "Profesor": "CHIRINOS VILLARUEL, FERNANDO"
-        },
-        {
-          "Tipo": "L",
-          "Dia": "LU",
-          "Hora": "8:00-10:00",
-          "Profesor": "CHIRINOS VILLARUEL, FERNANDO"
-        }
-      ],
-      "Q": [
-        { "Tipo": "T", "Dia": "LU", "Hora": "12:00-14:00", "Profesor": "NN" },
-        { "Tipo": "T", "Dia": "MA", "Hora": "18:00-20:00", "Profesor": "NN" },
-        { "Tipo": "P", "Dia": "VI", "Hora": "8:00-10:00", "Profesor": "NN" },
-        { "Tipo": "L", "Dia": "MA", "Hora": "8:00-10:00", "Profesor": "NN" }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "10:00-12:00",
+            "Profesor": "HUALLPA GUTIERREZ, WALTER ANTONIO"
+          },
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "10:00-12:00",
+            "Profesor": "HUALLPA GUTIERREZ, WALTER ANTONIO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "8:00-10:00",
+            "Profesor": "HUALLPA GUTIERREZ, WALTER ANTONIO"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "JU",
+            "Hora": "8:00-10:00",
+            "Profesor": "HUALLPA GUTIERREZ, WALTER ANTONIO"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "JU",
+            "Hora": "14:00-16:00",
+            "Profesor": "LLAMOJA CURI, JOHNNY"
+          },
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "8:00-10:00",
+            "Profesor": "LLAMOJA CURI, JOHNNY"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "8:00-10:00",
+            "Profesor": "LLAMOJA CURI, JOHNNY"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "MA",
+            "Hora": "14:00-16:00",
+            "Profesor": "LLAMOJA CURI, JOHNNY"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "8:00-10:00",
+            "Profesor": "CARO AMERY. JOSE"
+          },
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "10:00-12:00",
+            "Profesor": "CARO AMERY. JOSE"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "8:00-10:00",
+            "Profesor": "DURAND BERNALD, LUIS"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "JU",
+            "Hora": "14:00-16:00",
+            "Profesor": "DURAND BERNALD, LUIS"
+          }
+        ]
+      },
+      {
+        "P": [
+          {
+            "Tipo": "T",
+            "Dia": "JU",
+            "Hora": "16:00-18:00",
+            "Profesor": "CHIRINOS VILLARUEL, FERNANDO"
+          },
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "11:00-13:00",
+            "Profesor": "CHIRINOS VILLARUEL, FERNANDO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "8:00-10:00",
+            "Profesor": "CHIRINOS VILLARUEL, FERNANDO"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "LU",
+            "Hora": "8:00-10:00",
+            "Profesor": "CHIRINOS VILLARUEL, FERNANDO"
+          }
+        ]
+      },
+      {
+        "Q": [
+          { "Tipo": "T", "Dia": "LU", "Hora": "12:00-14:00", "Profesor": "NN" },
+          { "Tipo": "T", "Dia": "MA", "Hora": "18:00-20:00", "Profesor": "NN" },
+          { "Tipo": "P", "Dia": "VI", "Hora": "8:00-10:00", "Profesor": "NN" },
+          { "Tipo": "L", "Dia": "MA", "Hora": "8:00-10:00", "Profesor": "NN" }
+        ]
+      }
+    ]
   },
   {
     "Ciclo": 1,
     "Codigo": "BIC01",
-    "Secciones": {
-      "M": [
-        {
-          "Tipo": "T",
-          "Dia": "LU",
-          "Hora": "13:00-14:00",
-          "Profesor": "ROJAS VILLANUEVA, UWE"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "LU",
-          "Hora": "14:00-16:00",
-          "Profesor": "ROJAS VILLANUEVA, UWE"
-        }
-      ],
-      "N": [
-        {
-          "Tipo": "T",
-          "Dia": "LU",
-          "Hora": "14:00-15:00",
-          "Profesor": "ROJAS VARGAS, CAROLYN"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "LU",
-          "Hora": "15:00-17:00",
-          "Profesor": "ROJAS VARGAS, CAROLYN"
-        }
-      ],
-      "O": [
-        {
-          "Tipo": "T",
-          "Dia": "MI",
-          "Hora": "14:00-15:00",
-          "Profesor": "ROJAS VARGAS, CAROLYN"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "MI",
-          "Hora": "15:00-17:00",
-          "Profesor": "ROJAS VARGAS, CAROLYN"
-        }
-      ],
-      "P": [
-        { "Tipo": "T", "Dia": "VI", "Hora": "10:00-11:00", "Profesor": "NN" },
-        { "Tipo": "P", "Dia": "VI", "Hora": "11:00-13:00", "Profesor": "NN" }
-      ],
-      "Q": [
-        {
-          "Tipo": "T",
-          "Dia": "SA",
-          "Hora": "8:00-9:00",
-          "Profesor": "PURILLA FLORES, FELIX"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "SA",
-          "Hora": "9:00-11:00",
-          "Profesor": "PURILLA FLORES, FELIX"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "13:00-14:00",
+            "Profesor": "ROJAS VILLANUEVA, UWE"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "LU",
+            "Hora": "14:00-16:00",
+            "Profesor": "ROJAS VILLANUEVA, UWE"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "14:00-15:00",
+            "Profesor": "ROJAS VARGAS, CAROLYN"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "LU",
+            "Hora": "15:00-17:00",
+            "Profesor": "ROJAS VARGAS, CAROLYN"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "14:00-15:00",
+            "Profesor": "ROJAS VARGAS, CAROLYN"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MI",
+            "Hora": "15:00-17:00",
+            "Profesor": "ROJAS VARGAS, CAROLYN"
+          }
+        ]
+      },
+      {
+        "P": [
+          { "Tipo": "T", "Dia": "VI", "Hora": "10:00-11:00", "Profesor": "NN" },
+          { "Tipo": "P", "Dia": "VI", "Hora": "11:00-13:00", "Profesor": "NN" }
+        ]
+      },
+      {
+        "Q": [
+          {
+            "Tipo": "T",
+            "Dia": "SA",
+            "Hora": "8:00-9:00",
+            "Profesor": "PURILLA FLORES, FELIX"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "SA",
+            "Hora": "9:00-11:00",
+            "Profesor": "PURILLA FLORES, FELIX"
+          }
+        ]
+      }
+    ]
   },
   {
     "Ciclo": 1,
     "Codigo": "BMA01",
-    "Secciones": {
-      "M": [
-        {
-          "Tipo": "T",
-          "Dia": "LU",
-          "Hora": "8:00-10:00",
-          "Profesor": "SAAL RIQUEROS, CESAR"
-        },
-        {
-          "Tipo": "T",
-          "Dia": "VI",
-          "Hora": "10:00-12:00",
-          "Profesor": "SAAL RIQUEROS, CESAR"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "MA",
-          "Hora": "10:00-12:00",
-          "Profesor": "SAAL RIQUEROS, CESAR"
-        }
-      ],
-      "N": [
-        {
-          "Tipo": "T",
-          "Dia": "MI",
-          "Hora": "14:00-16:00",
-          "Profesor": "ORIA CHAVARRIA, MARIO"
-        },
-        {
-          "Tipo": "T",
-          "Dia": "JU",
-          "Hora": "8:00-10:00",
-          "Profesor": "ORIA CHAVARRIA, MARIO"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "MA",
-          "Hora": "10:00-12:00",
-          "Profesor": "ORIA CHAVARRIA, MARIO"
-        }
-      ],
-      "O": [
-        {
-          "Tipo": "T",
-          "Dia": "LU",
-          "Hora": "14:00-16:00",
-          "Profesor": "CORNEJO HUAMAN, JORGE"
-        },
-        {
-          "Tipo": "T",
-          "Dia": "VI",
-          "Hora": "10:00-12:00",
-          "Profesor": "CORNEJO HUAMAN, JORGE"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "MA",
-          "Hora": "10:00-12:00",
-          "Profesor": "CORNEJO HUAMAN, JORGE"
-        }
-      ],
-      "P": [
-        {
-          "Tipo": "T",
-          "Dia": "MA",
-          "Hora": "8:00-10:00",
-          "Profesor": "CHAVEZ SANTOS, MÁXIMO FLOREAN"
-        },
-        {
-          "Tipo": "T",
-          "Dia": "JU",
-          "Hora": "8:00-10:00",
-          "Profesor": "CHAVEZ SANTOS, MÁXIMO FLOREAN"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "MA",
-          "Hora": "10:00-12:00",
-          "Profesor": "CHAVEZ SANTOS, MÁXIMO FLOREAN"
-        }
-      ],
-      "Q": [
-        { "Tipo": "T", "Dia": "LU", "Hora": "14:00-16:00", "Profesor": "NN" },
-        { "Tipo": "T", "Dia": "MI", "Hora": "18:00-20:00", "Profesor": "NN" },
-        { "Tipo": "P", "Dia": "MA", "Hora": "10:00-12:00", "Profesor": "NN" }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "8:00-10:00",
+            "Profesor": "SAAL RIQUEROS, CESAR"
+          },
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "10:00-12:00",
+            "Profesor": "SAAL RIQUEROS, CESAR"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MA",
+            "Hora": "10:00-12:00",
+            "Profesor": "SAAL RIQUEROS, CESAR"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "14:00-16:00",
+            "Profesor": "ORIA CHAVARRIA, MARIO"
+          },
+          {
+            "Tipo": "T",
+            "Dia": "JU",
+            "Hora": "8:00-10:00",
+            "Profesor": "ORIA CHAVARRIA, MARIO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MA",
+            "Hora": "10:00-12:00",
+            "Profesor": "ORIA CHAVARRIA, MARIO"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "14:00-16:00",
+            "Profesor": "CORNEJO HUAMAN, JORGE"
+          },
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "10:00-12:00",
+            "Profesor": "CORNEJO HUAMAN, JORGE"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MA",
+            "Hora": "10:00-12:00",
+            "Profesor": "CORNEJO HUAMAN, JORGE"
+          }
+        ]
+      },
+      {
+        "P": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "8:00-10:00",
+            "Profesor": "CHAVEZ SANTOS, MÁXIMO FLOREAN"
+          },
+          {
+            "Tipo": "T",
+            "Dia": "JU",
+            "Hora": "8:00-10:00",
+            "Profesor": "CHAVEZ SANTOS, MÁXIMO FLOREAN"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MA",
+            "Hora": "10:00-12:00",
+            "Profesor": "CHAVEZ SANTOS, MÁXIMO FLOREAN"
+          }
+        ]
+      },
+      {
+        "Q": [
+          { "Tipo": "T", "Dia": "LU", "Hora": "14:00-16:00", "Profesor": "NN" },
+          { "Tipo": "T", "Dia": "MI", "Hora": "18:00-20:00", "Profesor": "NN" },
+          { "Tipo": "P", "Dia": "MA", "Hora": "10:00-12:00", "Profesor": "NN" }
+        ]
+      }
+    ]
   },
   {
     "Ciclo": 1,
     "Codigo": "BMA03",
-    "Secciones": {
-      "M": [
-        {
-          "Tipo": "T",
-          "Dia": "MA",
-          "Hora": "14:00-17:00",
-          "Profesor": "SALINAS AQUIJE, TEOFILO"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "JU",
-          "Hora": "11:00-13:00",
-          "Profesor": "SALINAS AQUIJE, TEOFILO"
-        }
-      ],
-      "N": [
-        {
-          "Tipo": "T",
-          "Dia": "VI",
-          "Hora": "10:00-13:00",
-          "Profesor": "ERQUIZIO ESPINAL, JOSE EDUARDO"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "JU",
-          "Hora": "11:00-13:00",
-          "Profesor": "ERQUIZIO ESPINAL, JOSE EDUARDO"
-        }
-      ],
-      "O": [
-        {
-          "Tipo": "T",
-          "Dia": "MA",
-          "Hora": "14:00-17:00",
-          "Profesor": "VALENCIA MIRANDA, ANGEL"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "JU",
-          "Hora": "11:00-13:00",
-          "Profesor": "VALENCIA MIRANDA, ANGEL"
-        }
-      ],
-      "P": [
-        {
-          "Tipo": "T",
-          "Dia": "MI",
-          "Hora": "15:00-18:00",
-          "Profesor": "CHAVEZ SANTOS, MÁXIMO FLOREAN"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "JU",
-          "Hora": "11:00-13:00",
-          "Profesor": "CHAVEZ SANTOS, MÁXIMO FLOREAN"
-        }
-      ],
-      "Q": [
-        {
-          "Tipo": "T",
-          "Dia": "LU",
-          "Hora": "10:00-13:00",
-          "Profesor": "RAMIREZ GUTIERREZ, ANGEL"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "JU",
-          "Hora": "11:00-13:00",
-          "Profesor": "RAMIREZ GUTIERREZ, ANGEL"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "14:00-17:00",
+            "Profesor": "SALINAS AQUIJE, TEOFILO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "11:00-13:00",
+            "Profesor": "SALINAS AQUIJE, TEOFILO"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "10:00-13:00",
+            "Profesor": "ERQUIZIO ESPINAL, JOSE EDUARDO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "11:00-13:00",
+            "Profesor": "ERQUIZIO ESPINAL, JOSE EDUARDO"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "14:00-17:00",
+            "Profesor": "VALENCIA MIRANDA, ANGEL"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "11:00-13:00",
+            "Profesor": "VALENCIA MIRANDA, ANGEL"
+          }
+        ]
+      },
+      {
+        "P": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "15:00-18:00",
+            "Profesor": "CHAVEZ SANTOS, MÁXIMO FLOREAN"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "11:00-13:00",
+            "Profesor": "CHAVEZ SANTOS, MÁXIMO FLOREAN"
+          }
+        ]
+      },
+      {
+        "Q": [
+          { "Tipo": "T", "Dia": "LU", "Hora": "10:00-13:00", "Profesor": "NN" },
+          { "Tipo": "P", "Dia": "JU", "Hora": "11:00-13:00", "Profesor": "NN" }
+        ]
+      }
+    ]
   },
   {
     "Ciclo": 1,
     "Codigo": "BRN01",
-    "Secciones": {
-      "M": [
-        {
-          "Tipo": "T",
-          "Dia": "LU",
-          "Hora": "16:00-18:00",
-          "Profesor": "ARENALES SOLIS, JOSE CARLOS"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "JU",
-          "Hora": "14:00-16:00",
-          "Profesor": "ARENALES SOLIS, JOSE CARLOS"
-        }
-      ],
-      "N": [
-        {
-          "Tipo": "T",
-          "Dia": "MI",
-          "Hora": "10:00-12:00",
-          "Profesor": "ARENALES SOLIS, JOSE CARLOS"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "VI",
-          "Hora": "16:00-18:00",
-          "Profesor": "ARENALES SOLIS, JOSE CARLOS"
-        }
-      ],
-      "O": [
-        {
-          "Tipo": "T",
-          "Dia": "MI",
-          "Hora": "8:00-10:00",
-          "Profesor": "ARENALES SOLIS, JOSE CARLOS"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "JU",
-          "Hora": "16:00-18:00",
-          "Profesor": "ARENALES SOLIS, JOSE CARLOS"
-        }
-      ],
-      "P": [
-        {
-          "Tipo": "T",
-          "Dia": "MA",
-          "Hora": "16:00-18:00",
-          "Profesor": "ARENALES SOLIS, JOSE CARLOS"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "MA",
-          "Hora": "18:00-20:00",
-          "Profesor": "ARENALES SOLIS, JOSE CARLOS"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "16:00-18:00",
+            "Profesor": "ARENALES SOLIS, JOSE CARLOS"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "14:00-16:00",
+            "Profesor": "ARENALES SOLIS, JOSE CARLOS"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "10:00-12:00",
+            "Profesor": "ARENALES SOLIS, JOSE CARLOS"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "16:00-18:00",
+            "Profesor": "ARENALES SOLIS, JOSE CARLOS"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "8:00-10:00",
+            "Profesor": "ARENALES SOLIS, JOSE CARLOS"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "16:00-18:00",
+            "Profesor": "ARENALES SOLIS, JOSE CARLOS"
+          }
+        ]
+      },
+      {
+        "P": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "16:00-18:00",
+            "Profesor": "ARENALES SOLIS, JOSE CARLOS"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MA",
+            "Hora": "18:00-20:00",
+            "Profesor": "ARENALES SOLIS, JOSE CARLOS"
+          }
+        ]
+      }
+    ]
   },
   {
     "Ciclo": 1,
     "Codigo": "EE250",
-    "Secciones": {
-      "M": [
-        {
-          "Tipo": "T",
-          "Dia": "MI",
-          "Hora": "13:00-15:00",
-          "Profesor": "ALMORA RIVAS, ENRIQUE"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "MI",
-          "Hora": "15:00-17:00",
-          "Profesor": "ALMORA RIVAS, ENRIQUE"
-        }
-      ],
-      "N": [
-        {
-          "Tipo": "T",
-          "Dia": "LU",
-          "Hora": "8:00-10:00",
-          "Profesor": "ALMORA RIVAS, ENRIQUE"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "LU",
-          "Hora": "0:00-12:00",
-          "Profesor": "ALMORA RIVAS, ENRIQUE"
-        }
-      ],
-      "O": [
-        {
-          "Tipo": "T",
-          "Dia": "VI",
-          "Hora": "13:00-15:00",
-          "Profesor": "ALMORA RIVAS, ENRIQUE"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "VI",
-          "Hora": "15:00-17:00",
-          "Profesor": "ALMORA RIVAS, ENRIQUE"
-        }
-      ],
-      "P": [
-        {
-          "Tipo": "T",
-          "Dia": "MI",
-          "Hora": "8:00-10:00",
-          "Profesor": "ALMORA RIVAS, ENRIQUE"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "MI",
-          "Hora": "10:00-12:00",
-          "Profesor": "ALMORA RIVAS, ENRIQUE"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "13:00-15:00",
+            "Profesor": "ALMORA RIVAS, ENRIQUE"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MI",
+            "Hora": "15:00-17:00",
+            "Profesor": "ALMORA RIVAS, ENRIQUE"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "8:00-10:00",
+            "Profesor": "ALMORA RIVAS, ENRIQUE"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "LU",
+            "Hora": "0:00-12:00",
+            "Profesor": "ALMORA RIVAS, ENRIQUE"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "13:00-15:00",
+            "Profesor": "ALMORA RIVAS, ENRIQUE"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "15:00-17:00",
+            "Profesor": "ALMORA RIVAS, ENRIQUE"
+          }
+        ]
+      },
+      {
+        "P": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "8:00-10:00",
+            "Profesor": "ALMORA RIVAS, ENRIQUE"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MI",
+            "Hora": "10:00-12:00",
+            "Profesor": "ALMORA RIVAS, ENRIQUE"
+          }
+        ]
+      }
+    ]
   },
   {
     "Ciclo": 2,
     "Codigo": "BFI05",
-    "Secciones": {
-      "M": [
-        {
-          "Tipo": "T",
-          "Dia": "LU",
-          "Hora": "14:00-17:00",
-          "Profesor": "LLAMOJA CURI, JOHNNY"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "VI",
-          "Hora": "10:00-12:00",
-          "Profesor": "LLAMOJA CURI, JOHNNY"
-        }
-      ],
-      "N": [
-        { "Tipo": "T", "Dia": "MA", "Hora": "8:00-11:00", "Profesor": "NN" },
-        { "Tipo": "P", "Dia": "VI", "Hora": "10:00-12:00", "Profesor": "NN" }
-      ],
-      "O": [
-        {
-          "Tipo": "T",
-          "Dia": "LU",
-          "Hora": "10:00-13:00",
-          "Profesor": "DURAND BERNALD, LUIS"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "VI",
-          "Hora": "10:00-12:00",
-          "Profesor": "DURAND BERNALD, LUIS"
-        }
-      ],
-      "P": [
-        {
-          "Tipo": "T",
-          "Dia": "MI",
-          "Hora": "10:00-13:00",
-          "Profesor": "DURAND BERNALD, LUIS"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "VI",
-          "Hora": "10:00-12:00",
-          "Profesor": "CHIRINOS VILLARUEL, FERNANDO"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "14:00-17:00",
+            "Profesor": "LLAMOJA CURI, JOHNNY"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "10:00-12:00",
+            "Profesor": "LLAMOJA CURI, JOHNNY"
+          }
+        ]
+      },
+      {
+        "N": [
+          { "Tipo": "T", "Dia": "MA", "Hora": "8:00-11:00", "Profesor": "NN" },
+          { "Tipo": "P", "Dia": "VI", "Hora": "10:00-12:00", "Profesor": "NN" }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "10:00-13:00",
+            "Profesor": "DURAND BERNALD, LUIS"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "10:00-12:00",
+            "Profesor": "DURAND BERNALD, LUIS"
+          }
+        ]
+      },
+      {
+        "P": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "10:00-13:00",
+            "Profesor": "DURAND BERNALD, LUIS"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "10:00-12:00",
+            "Profesor": "CHIRINOS VILLARUEL, FERNANDO"
+          }
+        ]
+      }
+    ]
   },
   {
     "Ciclo": 2,
     "Codigo": "BMA02",
-    "Secciones": {
-      "M": [
-        {
-          "Tipo": "T",
-          "Dia": "MI",
-          "Hora": "16:00-18:00",
-          "Profesor": "ORIA CHAVARRIA, MARIO"
-        },
-        {
-          "Tipo": "T",
-          "Dia": "JU",
-          "Hora": "10:00-12:00",
-          "Profesor": "ORIA CHAVARRIA, MARIO"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "MA",
-          "Hora": "8:00-10:00",
-          "Profesor": "ORIA CHAVARRIA, MARIO"
-        }
-      ],
-      "N": [
-        {
-          "Tipo": "T",
-          "Dia": "VI",
-          "Hora": "14:00-16:00",
-          "Profesor": "ERQUIZIO ESPINAL, JOSE EDUARDO"
-        },
-        {
-          "Tipo": "T",
-          "Dia": "MA",
-          "Hora": "14:00-16:00",
-          "Profesor": "ERQUIZIO ESPINAL, JOSE EDUARDO"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "MA",
-          "Hora": "8:00-10:00",
-          "Profesor": "ERQUIZIO ESPINAL, JOSE EDUARDO"
-        }
-      ],
-      "O": [
-        {
-          "Tipo": "T",
-          "Dia": "LU",
-          "Hora": "14:00-16:00",
-          "Profesor": "SALINAS AQUIJE, TEOFILO"
-        },
-        {
-          "Tipo": "T",
-          "Dia": "JU",
-          "Hora": "14:00-16:00",
-          "Profesor": "SALINAS AQUIJE, TEOFILO"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "MA",
-          "Hora": "8:00-10:00",
-          "Profesor": "SALINAS AQUIJE, TEOFILO"
-        }
-      ],
-      "P": [
-        { "Tipo": "T", "Dia": "LU", "Hora": "14:00-16:00", "Profesor": "NN" },
-        { "Tipo": "T", "Dia": "JU", "Hora": "8:00-10:00", "Profesor": "NN" },
-        { "Tipo": "P", "Dia": "MA", "Hora": "8:00-10:00", "Profesor": "NN" }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "16:00-18:00",
+            "Profesor": "ORIA CHAVARRIA, MARIO"
+          },
+          {
+            "Tipo": "T",
+            "Dia": "JU",
+            "Hora": "10:00-12:00",
+            "Profesor": "ORIA CHAVARRIA, MARIO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MA",
+            "Hora": "8:00-10:00",
+            "Profesor": "ORIA CHAVARRIA, MARIO"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "14:00-16:00",
+            "Profesor": "ERQUIZIO ESPINAL, JOSE EDUARDO"
+          },
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "14:00-16:00",
+            "Profesor": "ERQUIZIO ESPINAL, JOSE EDUARDO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MA",
+            "Hora": "8:00-10:00",
+            "Profesor": "ERQUIZIO ESPINAL, JOSE EDUARDO"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "14:00-16:00",
+            "Profesor": "SALINAS AQUIJE, TEOFILO"
+          },
+          {
+            "Tipo": "T",
+            "Dia": "JU",
+            "Hora": "14:00-16:00",
+            "Profesor": "SALINAS AQUIJE, TEOFILO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MA",
+            "Hora": "8:00-10:00",
+            "Profesor": "SALINAS AQUIJE, TEOFILO"
+          }
+        ]
+      },
+      {
+        "P": [
+          { "Tipo": "T", "Dia": "LU", "Hora": "14:00-16:00", "Profesor": "NN" },
+          { "Tipo": "T", "Dia": "JU", "Hora": "8:00-10:00", "Profesor": "NN" },
+          { "Tipo": "P", "Dia": "MA", "Hora": "8:00-10:00", "Profesor": "NN" }
+        ]
+      }
+    ]
   },
   {
     "Ciclo": 2,
     "Codigo": "BMA09",
-    "Secciones": {
-      "M": [
-        {
-          "Tipo": "T",
-          "Dia": "MI",
-          "Hora": "9:00-11:00",
-          "Profesor": "BUTLER BLACKER, JORGE"
-        },
-        {
-          "Tipo": "L",
-          "Dia": "MI",
-          "Hora": "11:00-13:00",
-          "Profesor": "BUTLER BLACKER, JORGE"
-        }
-      ],
-      "N": [
-        {
-          "Tipo": "T",
-          "Dia": "LU",
-          "Hora": "9:00-11:00",
-          "Profesor": "BUTLER BLACKER, JORGE"
-        },
-        {
-          "Tipo": "L",
-          "Dia": "LU",
-          "Hora": "11:00-13:00",
-          "Profesor": "BUTLER BLACKER, JORGE"
-        }
-      ],
-      "O": [
-        {
-          "Tipo": "T",
-          "Dia": "VI",
-          "Hora": "14:00-16:00",
-          "Profesor": "BUTLER BLACKER, JORGE"
-        },
-        {
-          "Tipo": "L",
-          "Dia": "VI",
-          "Hora": "16:00-18:00",
-          "Profesor": "BUTLER BLACKER, JORGE"
-        }
-      ],
-      "P": [
-        {
-          "Tipo": "T",
-          "Dia": "MA",
-          "Hora": "8:00-10:00",
-          "Profesor": "MIGUEL CAÑAMERO, JOSE"
-        },
-        {
-          "Tipo": "L",
-          "Dia": "MA",
-          "Hora": "10:00-12:00",
-          "Profesor": "MIGUEL CAÑAMERO, JOSE"
-        }
-      ],
-      "Q": [
-        {
-          "Tipo": "T",
-          "Dia": "LU",
-          "Hora": "14:00-16:00",
-          "Profesor": "BENITEZ PALACIOS, JOSE"
-        },
-        {
-          "Tipo": "L",
-          "Dia": "LU",
-          "Hora": "16:00-18:00",
-          "Profesor": "BENITEZ PALACIOS, JOSE"
-        }
-      ],
-      "R": [
-        {
-          "Tipo": "T",
-          "Dia": "SA",
-          "Hora": "8:00-10:00",
-          "Profesor": "LOAYZA MEJI, WASHINGTON ERNESTO"
-        },
-        {
-          "Tipo": "L",
-          "Dia": "SA",
-          "Hora": "10:00-12:00",
-          "Profesor": "LOAYZA MEJI, WASHINGTON ERNESTO"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "9:00-11:00",
+            "Profesor": "BUTLER BLACKER, JORGE"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "MI",
+            "Hora": "11:00-13:00",
+            "Profesor": "BUTLER BLACKER, JORGE"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "9:00-11:00",
+            "Profesor": "BUTLER BLACKER, JORGE"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "LU",
+            "Hora": "11:00-13:00",
+            "Profesor": "BUTLER BLACKER, JORGE"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "14:00-16:00",
+            "Profesor": "BUTLER BLACKER, JORGE"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "VI",
+            "Hora": "16:00-18:00",
+            "Profesor": "BUTLER BLACKER, JORGE"
+          }
+        ]
+      },
+      {
+        "P": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "8:00-10:00",
+            "Profesor": "MIGUEL CAÑAMERO, JOSE"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "MA",
+            "Hora": "10:00-12:00",
+            "Profesor": "MIGUEL CAÑAMERO, JOSE"
+          }
+        ]
+      },
+      {
+        "Q": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "14:00-16:00",
+            "Profesor": "BENITEZ PALACIOS, JOSE"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "LU",
+            "Hora": "16:00-18:00",
+            "Profesor": "BENITEZ PALACIOS, JOSE"
+          }
+        ]
+      },
+      {
+        "R": [
+          {
+            "Tipo": "T",
+            "Dia": "SA",
+            "Hora": "8:00-10:00",
+            "Profesor": "LOAYZA MEJI, WASHINGTON ERNESTO"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "SA",
+            "Hora": "10:00-12:00",
+            "Profesor": "LOAYZA MEJI, WASHINGTON ERNESTO"
+          }
+        ]
+      },
+      {
+        "S": [
+          { "Tipo": "T", "Dia": "JU", "Hora": "16:00-18:00", "Profesor": "NN" },
+          { "Tipo": "L", "Dia": "JU", "Hora": "20:00-22:00", "Profesor": "NN" }
+        ]
+      }
+    ]
   },
   {
     "Ciclo": 2,
     "Codigo": "BQU01",
-    "Secciones": {
-      "M": [
-        {
-          "Tipo": "T",
-          "Dia": "LU",
-          "Hora": "10:00-12:00",
-          "Profesor": "RODRIGUEZ MORALES, MARIA"
-        },
-        {
-          "Tipo": "T",
-          "Dia": "MA",
-          "Hora": "10:00-12:00",
-          "Profesor": "RODRIGUEZ MORALES, MARIA"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "JU",
-          "Hora": "8:00-10:00",
-          "Profesor": "RODRIGUEZ MORALES, MARIA / MEDINA, RAQUEL"
-        },
-        {
-          "Tipo": "L",
-          "Dia": "JU",
-          "Hora": "14:00-16:00",
-          "Profesor": "MEDINA RODRIGUEZ, RAQUEL / RODRIGUEZ, MARIA"
-        }
-      ],
-      "N": [
-        {
-          "Tipo": "T",
-          "Dia": "MI",
-          "Hora": "10:00-12:00",
-          "Profesor": "MEDINA RODRIGUEZ, RAQUEL"
-        },
-        {
-          "Tipo": "T",
-          "Dia": "JU",
-          "Hora": "10:00-12:00",
-          "Profesor": "MEDINA RODRIGUEZ, RAQUEL"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "JU",
-          "Hora": "8:00-10:00",
-          "Profesor": "GARAY CAUTI, ZOILA / MEDINA RAQUEL"
-        },
-        {
-          "Tipo": "L",
-          "Dia": "JU",
-          "Hora": "8:00-10:00",
-          "Profesor": "MEDINA RODRIGUEZ, RAQUEL / GARAY, ZOILA"
-        }
-      ],
-      "O": [
-        {
-          "Tipo": "T",
-          "Dia": "LU",
-          "Hora": "8:00-10:00",
-          "Profesor": "RODRIGUEZ MORALES, MARIA"
-        },
-        {
-          "Tipo": "T",
-          "Dia": "MA",
-          "Hora": "12:00-14:00",
-          "Profesor": "RODRIGUEZ MORALES, MARIA"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "JU",
-          "Hora": "8:00-10:00",
-          "Profesor": "RODRIGUEZ MORALES, MARIA / GARAY, ZOILA"
-        },
-        {
-          "Tipo": "L",
-          "Dia": "JU",
-          "Hora": "10:00-12:00",
-          "Profesor": "GARAY CAUTI, ZOILA / RODRIGUEZ, MARIA"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "10:00-12:00",
+            "Profesor": "RODRIGUEZ MORALES, MARIA"
+          },
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "10:00-12:00",
+            "Profesor": "RODRIGUEZ MORALES, MARIA"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "8:00-10:00",
+            "Profesor": "GARAY CAUTI, ZOILA / MEDINA, RAQUEL"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "JU",
+            "Hora": "14:00-16:00",
+            "Profesor": "MEDINA RODRIGUEZ, RAQUEL / GARAY, ZOILA"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "10:00-12:00",
+            "Profesor": "MEDINA RODRIGUEZ, RAQUEL"
+          },
+          {
+            "Tipo": "T",
+            "Dia": "JU",
+            "Hora": "10:00-12:00",
+            "Profesor": "MEDINA RODRIGUEZ, RAQUEL"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "8:00-10:00",
+            "Profesor": "RODRIGUEZ MORALES, MARIA / MEDINA RAQUEL"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "JU",
+            "Hora": "8:00-10:00",
+            "Profesor": "MEDINA RODRIGUEZ, RAQUEL / RODRIGUEZ, MARIA"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "8:00-10:00",
+            "Profesor": "RODRIGUEZ MORALES, MARIA"
+          },
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "12:00-14:00",
+            "Profesor": "RODRIGUEZ MORALES, MARIA"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "8:00-10:00",
+            "Profesor": "RODRIGUEZ MORALES, MARIA / GARAY, ZOILA"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "JU",
+            "Hora": "10:00-12:00",
+            "Profesor": "GARAY CAUTI, ZOILA / RODRIGUEZ, MARIA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Ciclo": 2,
+    "Codigo": "BRC01",
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "JU",
+            "Hora": "16:00-17:00",
+            "Profesor": "LEÓN CONTRERAS IRAIDA ARLENE"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "17:00-19:00",
+            "Profesor": "LEÓN CONTRERAS IRAIDA ARLENE"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "16:00-17:00",
+            "Profesor": "LEÓN CONTRERAS IRAIDA ARLENE"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MI",
+            "Hora": "17:00-19:00",
+            "Profesor": "LEÓN CONTRERAS IRAIDA ARLENE"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "16:00-17:00",
+            "Profesor": "LEÓN CONTRERAS IRAIDA ARLENE"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "LU",
+            "Hora": "17:00-19:00",
+            "Profesor": "LEÓN CONTRERAS IRAIDA ARLENE"
+          }
+        ]
+      }
+    ]
   },
   {
     "Ciclo": 2,
     "Codigo": "EE152",
-    "Secciones": {
-      "M": [
-        {
-          "Tipo": "T",
-          "Dia": "MA",
-          "Hora": "14:00-15:00",
-          "Profesor": "BRICEÑO ARANDA, CESAR"
-        },
-        {
-          "Tipo": "L",
-          "Dia": "MA",
-          "Hora": "15:00-17:00",
-          "Profesor": "BRICEÑO ARANDA, CESAR"
-        },
-        {
-          "Tipo": "L",
-          "Dia": "MI",
-          "Hora": "14:00-16:00",
-          "Profesor": "BRICEÑO ARANDA, CESAR"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "14:00-15:00",
+            "Profesor": "BRICEÑO ARANDA, CESAR"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "MA",
+            "Hora": "15:00-17:00",
+            "Profesor": "BRICEÑO ARANDA, CESAR"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "MI",
+            "Hora": "14:00-16:00",
+            "Profesor": "BRICEÑO ARANDA, CESAR"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "SA",
+            "Hora": "11:00-12:00",
+            "Profesor": "PURILLA FLORES, FELIX"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "SA",
+            "Hora": "14:00-16:00",
+            "Profesor": "PURILLA FLORES, FELIX"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "SA",
+            "Hora": "16:00-18:00",
+            "Profesor": "PURILLA FLORES, FELIX"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "10:00-11:00",
+            "Profesor": "ROJAS VARGAS, CAROLYN"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "MI",
+            "Hora": "11:00-13:00",
+            "Profesor": "ROJAS VARGAS, CAROLYN"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "MI",
+            "Hora": "17:00-19:00",
+            "Profesor": "ROJAS VARGAS, CAROLYN"
+          }
+        ]
+      }
+    ]
   },
   {
     "Ciclo": 3,
     "Codigo": "BEG01",
-    "Secciones": {
-      "M": [
-        { "Tipo": "T", "Dia": "MA", "Hora": "10:00-12:00", "Profesor": "NN" },
-        { "Tipo": "P", "Dia": "VI", "Hora": "14:00-16:00", "Profesor": "NN" }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "10:00-12:00",
+            "Profesor": "VERA RONCALLA, CESAR"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "14:00-16:00",
+            "Profesor": "VERA RONCALLA, CESAR"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "JU",
+            "Hora": "16:00-18:00",
+            "Profesor": "HUMALA TASSO, ULISES"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "14:00-16:00",
+            "Profesor": "HUMALA TASSO, ULISES"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "T",
+            "Dia": "JU",
+            "Hora": "10:00-12:00",
+            "Profesor": "CLAVIJO RAMOS, RAUL"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "14:00-16:00",
+            "Profesor": "CLAVIJO RAMOS, RAUL"
+          }
+        ]
+      }
+    ]
   },
   {
     "Ciclo": 3,
     "Codigo": "BFI03",
-    "Secciones": {
-      "N": [
-        {
-          "Tipo": "T",
-          "Dia": "LU",
-          "Hora": "16:00-18:00",
-          "Profesor": "DURAND BERNALD, LUIS"
-        },
-        {
-          "Tipo": "T",
-          "Dia": "JU",
-          "Hora": "10:00-12:00",
-          "Profesor": "DURAND BERNALD, LUIS"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "MI",
-          "Hora": "8:00-10:00",
-          "Profesor": "DURAND BERNALD, LUIS"
-        },
-        {
-          "Tipo": "L",
-          "Dia": "LU",
-          "Hora": "8:00-10:00",
-          "Profesor": "DURAND BERNALD, LUIS"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "14:00-16:00",
+            "Profesor": "PEÑA YALICO, VICENTE"
+          },
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "8:00-10:00",
+            "Profesor": "PEÑA YALICO, VICENTE"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MI",
+            "Hora": "8:00-10:00",
+            "Profesor": "PEÑA YALICO, VICENTE"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "MI",
+            "Hora": "8:00-10:00",
+            "Profesor": "PEÑA YALICO, VICENTE"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "16:00-18:00",
+            "Profesor": "DURAND BERNALD, LUIS"
+          },
+          {
+            "Tipo": "T",
+            "Dia": "JU",
+            "Hora": "10:00-12:00",
+            "Profesor": "DURAND BERNALD, LUIS"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MI",
+            "Hora": "8:00-10:00",
+            "Profesor": "DURAND BERNALD, LUIS"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "LU",
+            "Hora": "8:00-10:00",
+            "Profesor": "DURAND BERNALD, LUIS"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "10:00-12:00",
+            "Profesor": "WATERS TORRES, OSWALDO"
+          },
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "16:00-18:00",
+            "Profesor": "WATERS TORRES, OSWALDO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MI",
+            "Hora": "8:00-10:00",
+            "Profesor": "QUIJADA ORELLANA, SAMUEL"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "MI",
+            "Hora": "16:00-18:00",
+            "Profesor": "QUIJADA ORELLANA, SAMUEL"
+          }
+        ]
+      },
+      {
+        "P": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "16:00-18:00",
+            "Profesor": "PEÑA YALICO, VICENTE"
+          },
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "10:00-12:00",
+            "Profesor": "PEÑA YALICO, VICENTE"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MI",
+            "Hora": "8:00-10:00",
+            "Profesor": "CHIRINOS VILLARUEL, FERNANDO"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "VI",
+            "Hora": "14:00-16:00",
+            "Profesor": "CHIRINOS VILLARUEL, FERNANDO"
+          }
+        ]
+      }
+    ]
   },
   {
     "Ciclo": 3,
     "Codigo": "BMA05",
-    "Secciones": {
-      "N": [
-        {
-          "Tipo": "T",
-          "Dia": "LU",
-          "Hora": "10:00-12:00",
-          "Profesor": "DIAZ ACHA, ISRAEL"
-        },
-        {
-          "Tipo": "T",
-          "Dia": "MI",
-          "Hora": "10:00-12:00",
-          "Profesor": "DIAZ ACHA, ISRAEL"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "MA",
-          "Hora": "16:00-18:00",
-          "Profesor": "ERQUIZIO ESPINAL, JOSE EDUARDO"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "8:00-10:00",
+            "Profesor": "CALLA MARIN, CARLOS"
+          },
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "14:00-16:00",
+            "Profesor": "CALLA MARIN, CARLOS"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MA",
+            "Hora": "16:00-18:00",
+            "Profesor": "CALLA MARIN, CARLOS"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "10:00-12:00",
+            "Profesor": "DIAZ ACHA, ISRAEL"
+          },
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "10:00-12:00",
+            "Profesor": "DIAZ ACHA, ISRAEL"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MA",
+            "Hora": "16:00-18:00",
+            "Profesor": "ERQUIZIO ESPINAL, JOSE EDUARDO"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "16:00-18:00",
+            "Profesor": "CORNEJO HUAMAN, JORGE"
+          },
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "12:00-14:00",
+            "Profesor": "CORNEJO HUAMAN, JORGE"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MA",
+            "Hora": "16:00-18:00",
+            "Profesor": "CORNEJO HUAMAN, JORGE"
+          }
+        ]
+      }
+    ]
   },
   {
     "Ciclo": 3,
     "Codigo": "BMA10",
-    "Secciones": {
-      "O": [
-        {
-          "Tipo": "T",
-          "Dia": "MA",
-          "Hora": "8:00-10:00",
-          "Profesor": "LÓPEZ ESQUIVEL, MIGUEL"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "MI",
-          "Hora": "14:00-16:00",
-          "Profesor": "LÓPEZ ESQUIVEL, MIGUEL"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "10:00-12:00",
+            "Profesor": "ESPINOZA VÁSQUEZ, MANUEL"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MI",
+            "Hora": "14:00-16:00",
+            "Profesor": "ESPINOZA VÁSQUEZ, MANUEL"
+          },
+          {
+            "Tipo": "S",
+            "Dia": "MI",
+            "Hora": "16:00-18:00",
+            "Profesor": "ESPINOZA VÁSQUEZ, MANUEL"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "14:00-16:00",
+            "Profesor": "ESPINOZA VÁSQUEZ, MANUEL"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MI",
+            "Hora": "14:00-16:00",
+            "Profesor": "ESPINOZA VÁSQUEZ, MANUEL"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "8:00-10:00",
+            "Profesor": "LÓPEZ ESQUIVEL, MIGUEL"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MI",
+            "Hora": "14:00-16:00",
+            "Profesor": "LÓPEZ ESQUIVEL, MIGUEL"
+          }
+        ]
+      },
+      {
+        "P": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "10:00-12:00",
+            "Profesor": "LÓPEZ ESQUIVEL, MIGUEL"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MI",
+            "Hora": "14:00-16:00",
+            "Profesor": "LÓPEZ ESQUIVEL, MIGUEL"
+          },
+          {
+            "Tipo": "S",
+            "Dia": "MI",
+            "Hora": "16:00-18:00",
+            "Profesor": "LÓPEZ ESQUIVEL, MIGUEL"
+          }
+        ]
+      }
+    ]
   },
   {
     "Ciclo": 3,
     "Codigo": "BMA15",
-    "Secciones": {
-      "O": [
-        {
-          "Tipo": "T",
-          "Dia": "LU",
-          "Hora": "10:00-12:00",
-          "Profesor": "CASTILLO BELSUZARRI, TRINI"
-        },
-        {
-          "Tipo": "L",
-          "Dia": "LU",
-          "Hora": "12:00-14:00",
-          "Profesor": "CASTILLO BELSUZARRI, TRINI"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "10:00-12:00",
+            "Profesor": "CASTILLO BELSUZARRI, TRINI"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "MI",
+            "Hora": "12:00-14:00",
+            "Profesor": "CASTILLO BELSUZARRI, TRINI"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "8:00-10:00",
+            "Profesor": "CASTILLO BELSUZARRI, TRINI"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "MA",
+            "Hora": "10:00-12:00",
+            "Profesor": "CASTILLO BELSUZARRI, TRINI"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "10:00-12:00",
+            "Profesor": "CASTILLO BELSUZARRI, TRINI"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "LU",
+            "Hora": "12:00-14:00",
+            "Profesor": "CASTILLO BELSUZARRI, TRINI"
+          }
+        ]
+      }
+    ]
   },
   {
     "Ciclo": 3,
     "Codigo": "EE306",
-    "Secciones": {
-      "M": [
-        {
-          "Tipo": "T",
-          "Dia": "MI",
-          "Hora": "18:00-20:00",
-          "Profesor": "CHAVEZ CHACALTANA, ORLANDO"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "JU",
-          "Hora": "8:00-10:00",
-          "Profesor": "PUICAN VERA, JOSE"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "18:00-20:00",
+            "Profesor": "CHAVEZ CHACALTANA, ORLANDO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "8:00-10:00",
+            "Profesor": "PUICAN VERA, JOSE"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "20:00-22:00",
+            "Profesor": "CHAVEZ CHACALTANA, ORLANDO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "14:00-16:00",
+            "Profesor": "PUICAN VERA, JOSE"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "20:00-22:00",
+            "Profesor": "CHAVEZ CHACALTANA, ORLANDO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MA",
+            "Hora": "8:00-10:00",
+            "Profesor": "FALCON DOMINGUEZ, FLAVIO"
+          }
+        ]
+      },
+      {
+        "P": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "18:00-20:00",
+            "Profesor": "CHAVEZ CHACALTANA, ORLANDO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MA",
+            "Hora": "10:00-12:00",
+            "Profesor": "FALCON DOMINGUEZ, FLAVIO"
+          }
+        ]
+      },
+      {
+        "Q": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "8:00-10:00",
+            "Profesor": "MANRIQUE ENCISO, JOSE MANUEL"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MI",
+            "Hora": "10:00-12:00",
+            "Profesor": "MANRIQUE ENCISO, JOSE MANUEL"
+          }
+        ]
+      },
+      {
+        "R": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "12:00-14:00",
+            "Profesor": "FALCON DOMINGUEZ, FLAVIO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "10:00-12:00",
+            "Profesor": "PUICAN VERA, JOSE"
+          }
+        ]
+      }
+    ]
   },
   {
     "Ciclo": 4,
     "Codigo": "BEF01",
-    "Secciones": {
-      "M": [
-        {
-          "Tipo": "T",
-          "Dia": "SA",
-          "Hora": "8:00-10:00",
-          "Profesor": "ATARAMA URBINA, ANCO LUIS"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "SA",
+            "Hora": "8:00-10:00",
+            "Profesor": "ATARAMA URBINA, ANCO LUIS"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "SA",
+            "Hora": "10:00-12:00",
+            "Profesor": "ATARAMA URBINA, ANCO LUIS"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "18:00-20:00",
+            "Profesor": "ARENALES SOLIS, JOSE CARLOS"
+          }
+        ]
+      }
+    ]
   },
   {
     "Ciclo": 4,
     "Codigo": "BFI06",
-    "Secciones": {
-      "M": [
-        {
-          "Tipo": "T",
-          "Dia": "LU",
-          "Hora": "8:00-11:00",
-          "Profesor": "PAUYAC HUAMAN, JOSE"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "JU",
-          "Hora": "8:00-10:00",
-          "Profesor": "PAUYAC HUAMAN, JOSE"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "8:00-11:00",
+            "Profesor": "PAUYAC HUAMAN, JOSE"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "8:00-10:00",
+            "Profesor": "PAUYAC HUAMAN, JOSE"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "10:00-13:00",
+            "Profesor": "PAUYAC HUAMAN, JOSE"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "8:00-10:00",
+            "Profesor": "QUIJADA ORELLANA, SAMUEL"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "10:00-13:00",
+            "Profesor": "LLAMOJA CURI, JOHNNY"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "8:00-10:00",
+            "Profesor": "LLAMOJA CURI, JOHNNY"
+          }
+        ]
+      },
+      {
+        "P": [
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "16:00-19:00",
+            "Profesor": "CARO AMERY. JOSE"
+          },
+          { "Tipo": "P", "Dia": "JU", "Hora": "8:00-10:00", "Profesor": "NN" }
+        ]
+      }
+    ]
   },
   {
     "Ciclo": 4,
     "Codigo": "BMA07",
-    "Secciones": {
-      "N": [
-        {
-          "Tipo": "T",
-          "Dia": "MA",
-          "Hora": "16:00-19:00",
-          "Profesor": "ARIAS ANTONIO, LEANDRO"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "JU",
-          "Hora": "14:00-16:00",
-          "Profesor": "ARIAS ANTONIO, LEANDRO"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "10:00-13:00",
+            "Profesor": "ROJAS CERNA, VICTOR"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "14:00-16:00",
+            "Profesor": "ROJAS CERNA, VICTOR"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "16:00-19:00",
+            "Profesor": "ARIAS ANTONIO, LEANDRO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "14:00-16:00",
+            "Profesor": "ARIAS ANTONIO, LEANDRO"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "10:00-13:00",
+            "Profesor": "CALLA MARIN, CARLOS"
+          },
+          { "Tipo": "P", "Dia": "JU", "Hora": "14:00-16:00", "Profesor": "NN" }
+        ]
+      }
+    ]
   },
   {
     "Ciclo": 4,
     "Codigo": "BMA18",
-    "Secciones": {
-      "N": [
-        {
-          "Tipo": "T",
-          "Dia": "LU",
-          "Hora": "16:00-18:00",
-          "Profesor": "MIGUEL CAÑAMERO, JOSE"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "MA",
-          "Hora": "14:00-16:00",
-          "Profesor": "MIGUEL CAÑAMERO, JOSE"
-        },
-        {
-          "Tipo": "S",
-          "Dia": "JU",
-          "Hora": "10:00-12:00",
-          "Profesor": "MIGUEL CAÑAMERO, JOSE"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "14:00-16:00",
+            "Profesor": "MIGUEL CAÑAMERO, JOSE"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MA",
+            "Hora": "14:00-16:00",
+            "Profesor": "MIGUEL CAÑAMERO, JOSE"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "16:00-18:00",
+            "Profesor": "MIGUEL CAÑAMERO, JOSE"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MA",
+            "Hora": "14:00-16:00",
+            "Profesor": "MIGUEL CAÑAMERO, JOSE"
+          },
+          {
+            "Tipo": "S",
+            "Dia": "JU",
+            "Hora": "10:00-12:00",
+            "Profesor": "MIGUEL CAÑAMERO, JOSE"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "16:00-18:00",
+            "Profesor": "DIAZ ACHA, ISRAEL"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MA",
+            "Hora": "14:00-16:00",
+            "Profesor": "DIAZ ACHA, ISRAEL"
+          }
+        ]
+      },
+      {
+        "P": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "8:00-10:00",
+            "Profesor": "DIAZ ACHA, ISRAEL"
+          },
+          { "Tipo": "P", "Dia": "MA", "Hora": "14:00-16:00", "Profesor": "NN" }
+        ]
+      }
+    ]
   },
   {
     "Ciclo": 4,
     "Codigo": "EE320",
-    "Secciones": {
-      "N": [
-        {
-          "Tipo": "T",
-          "Dia": "MI",
-          "Hora": "14:00-17:00",
-          "Profesor": "NEGRON MARTINEZ, CONSUELO"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "VI",
-          "Hora": "14:00-16:00",
-          "Profesor": "NEGRON MARTINEZ, CONSUELO"
-        },
-        {
-          "Tipo": "L",
-          "Dia": "LU",
-          "Hora": "14:00-16:00",
-          "Profesor": "NEGRON MARTINEZ, CONSUELO"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "10:00-13:00",
+            "Profesor": "RAMOS CARRION, JORGE"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "14:00-16:00",
+            "Profesor": "RAMOS CARRION, JORGE"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "JU",
+            "Hora": "10:00-12:00",
+            "Profesor": "RAMOS CARRION, JORGE"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "14:00-17:00",
+            "Profesor": "NEGRON MARTINEZ, CONSUELO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "14:00-16:00",
+            "Profesor": "NEGRON MARTINEZ, CONSUELO"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "LU",
+            "Hora": "14:00-16:00",
+            "Profesor": "NEGRON MARTINEZ, CONSUELO"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "16:00-19:00",
+            "Profesor": "WATERS TORRES, OSWALDO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "14:00-16:00",
+            "Profesor": "WATERS TORRES, OSWALDO"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "LU",
+            "Hora": "16:00-18:00",
+            "Profesor": "WATERS TORRES, OSWALDO"
+          }
+        ]
+      },
+      {
+        "P": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "10:00-13:00",
+            "Profesor": "TOKUMORI KIYOTA, SERGIO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "14:00-16:00",
+            "Profesor": "TOKUMORI KIYOTA, SERGIO"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "VI",
+            "Hora": "12:00-14:00",
+            "Profesor": "TOKUMORI KIYOTA, SERGIO"
+          }
+        ]
+      },
+      {
+        "Q": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "14:00-17:00",
+            "Profesor": "ROCHA JARA, ALFREDO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "14:00-16:00",
+            "Profesor": "YACOLCA CRUZADO, Fidel Segundo"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "MI",
+            "Hora": "14:00-16:00",
+            "Profesor": "WATERS TORRES, OSWALDO"
+          }
+        ]
+      }
+    ]
   },
   {
     "Ciclo": 4,
     "Codigo": "EE410",
-    "Secciones": {
-      "O": [
-        {
-          "Tipo": "T",
-          "Dia": "VI",
-          "Hora": "17:00-20:00",
-          "Profesor": "VALENCIA MIRANDA, ANGEL"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "JU",
-          "Hora": "18:00-20:00",
-          "Profesor": "VALENCIA MIRANDA, ANGEL"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "16:00-19:00",
+            "Profesor": "DIAZ ACHA, ISRAEL"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "18:00-20:00",
+            "Profesor": "DIAZ ACHA, ISRAEL"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "10:00-13:00",
+            "Profesor": "ROJAS CERNA, VICTOR"
+          },
+          { "Tipo": "P", "Dia": "JU", "Hora": "18:00-20:00", "Profesor": "NN" }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "8:00-11:00",
+            "Profesor": "VALENCIA MIRANDA, ANGEL"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "18:00-20:00",
+            "Profesor": "VALENCIA MIRANDA, ANGEL"
+          }
+        ]
+      },
+      {
+        "P": [
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "16:00-19:00",
+            "Profesor": "ARIAS ANTONIO, LEANDRO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "18:00-20:00",
+            "Profesor": "ARIAS ANTONIO, LEANDRO"
+          }
+        ]
+      },
+      {
+        "Q": [
+          {
+            "Tipo": "T",
+            "Dia": "JU",
+            "Hora": "8:00-11:00",
+            "Profesor": "VALENCIA MIRANDA, ANGEL"
+          },
+          { "Tipo": "P", "Dia": "JU", "Hora": "18:00-20:00", "Profesor": "NN" }
+        ]
+      }
+    ]
   },
-  { "Ciclo": 5, "Codigo": "BFM16", "Secciones": { "O": [] } },
-  { "Ciclo": 11, "Codigo": "BMA22", "Secciones": { "O": [] } },
+  {
+    "Ciclo": 5,
+    "Codigo": "BFM16",
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "10:00-12:00",
+            "Profesor": "VELAZCO LORENZO, DINAU"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MA",
+            "Hora": "12:00-14:00",
+            "Profesor": "VELAZCO LORENZO, DINAU"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "8:00-0:00",
+            "Profesor": "VELAZCO LORENZO, DINAU"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "10:00-12:00",
+            "Profesor": "VELAZCO LORENZO, DINAU"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Ciclo": 5,
+    "Codigo": "BMA22",
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "14:00-17:00",
+            "Profesor": "VALENCIA MIRANDA, ANGEL"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "12:00-14:00",
+            "Profesor": "VALENCIA MIRANDA, ANGEL"
+          }
+        ]
+      }
+    ]
+  },
   {
     "Ciclo": 5,
     "Codigo": "EE418",
-    "Secciones": {
-      "M": [
-        {
-          "Tipo": "T",
-          "Dia": "LU",
-          "Hora": "10:00-13:00",
-          "Profesor": "LAZO OCHOA, DOMINGO"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "MI",
-          "Hora": "8:00-10:00",
-          "Profesor": "LAZO OCHOA, DOMINGO"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "10:00-13:00",
+            "Profesor": "LAZO OCHOA, DOMINGO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MI",
+            "Hora": "8:00-10:00",
+            "Profesor": "LAZO OCHOA, DOMINGO"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "10:00-13:00",
+            "Profesor": "LAZO OCHOA, DOMINGO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "SA",
+            "Hora": "10:00-12:00",
+            "Profesor": "ALBURQUEQUE VALDIVIA MARLON"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "10:00-13:00",
+            "Profesor": "LAZO OCHOA, DOMINGO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "LU",
+            "Hora": "8:00-10:00",
+            "Profesor": "LAZO OCHOA, DOMINGO"
+          }
+        ]
+      }
+    ]
   },
   {
     "Ciclo": 5,
     "Codigo": "EE420",
-    "Secciones": {
-      "M": [
-        {
-          "Tipo": "T",
-          "Dia": "LU",
-          "Hora": "10:00-13:00",
-          "Profesor": "BETETTA GOMEZ, JUDITH"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "JU",
-          "Hora": "14:00-16:00",
-          "Profesor": "BETETTA GOMEZ, JUDITH"
-        },
-        {
-          "Tipo": "L",
-          "Dia": "MA",
-          "Hora": "8:00-10:00",
-          "Profesor": "BETETTA GOMEZ, JUDITH"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "10:00-13:00",
+            "Profesor": "BETETTA GOMEZ, JUDITH"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "14:00-16:00",
+            "Profesor": "BETETTA GOMEZ, JUDITH"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "MA",
+            "Hora": "8:00-10:00",
+            "Profesor": "BETETTA GOMEZ, JUDITH"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "10:00-13:00",
+            "Profesor": "RAMOS CARRION, JORGE"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "14:00-16:00",
+            "Profesor": "RAMOS CARRION, JORGE"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "LU",
+            "Hora": "10:00-12:00",
+            "Profesor": "ROCHA JARA, ALFREDO"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "T",
+            "Dia": "JU",
+            "Hora": "10:00-13:00",
+            "Profesor": "BETETTA GOMEZ, JUDITH"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "14:00-16:00",
+            "Profesor": "YACOLCA CRUZADO, Fidel Segundo"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "LU",
+            "Hora": "8:00-10:00",
+            "Profesor": "BETETTA GOMEZ, JUDITH"
+          }
+        ]
+      },
+      {
+        "P": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "14:00-17:00",
+            "Profesor": "ROCHA JARA, ALFREDO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "14:00-16:00",
+            "Profesor": "ROCHA JARA, ALFREDO"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "MI",
+            "Hora": "10:00-12:00",
+            "Profesor": "ROCHA JARA, ALFREDO"
+          }
+        ]
+      }
+    ]
   },
   {
     "Ciclo": 5,
     "Codigo": "EE428",
-    "Secciones": {
-      "N": [
-        {
-          "Tipo": "L",
-          "Dia": "JU",
-          "Hora": "8:00-10:00",
-          "Profesor": "ALBURQUEQUE GUERRERO, ANGEL"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "L",
+            "Dia": "JU",
+            "Hora": "11:00-13:00",
+            "Profesor": "ALBURQUEQUE GUERRERO, ANGEL"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "L",
+            "Dia": "JU",
+            "Hora": "8:00-10:00",
+            "Profesor": "ALBURQUEQUE GUERRERO, ANGEL"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "L",
+            "Dia": "MA",
+            "Hora": "14:00-16:00",
+            "Profesor": "ALBURQUEQUE GUERRERO, ANGEL"
+          }
+        ]
+      },
+      {
+        "P": [
+          {
+            "Tipo": "L",
+            "Dia": "LU",
+            "Hora": "10:00-12:00",
+            "Profesor": "ROMERO FUENTES, VIRGINIA"
+          }
+        ]
+      },
+      {
+        "Q": [
+          {
+            "Tipo": "L",
+            "Dia": "LU",
+            "Hora": "12:00-14:00",
+            "Profesor": "ROMERO FUENTES, VIRGINIA"
+          }
+        ]
+      },
+      {
+        "R": [
+          {
+            "Tipo": "L",
+            "Dia": "LU",
+            "Hora": "14:00-16:00",
+            "Profesor": "TOKUMORI KIYOTA, SERGIO"
+          }
+        ]
+      },
+      {
+        "S": [
+          {
+            "Tipo": "L",
+            "Dia": "LU",
+            "Hora": "18:00-20:00",
+            "Profesor": "JIMENEZ HEREDIA ELADIO "
+          }
+        ]
+      },
+      {
+        "T": [
+          {
+            "Tipo": "L",
+            "Dia": "LU",
+            "Hora": "16:00-18:00",
+            "Profesor": "TOKUMORI KIYOTA, SERGIO"
+          }
+        ]
+      }
+    ]
   },
   {
     "Ciclo": 5,
     "Codigo": "EE522",
-    "Secciones": {
-      "N": [
-        {
-          "Tipo": "T",
-          "Dia": "MA",
-          "Hora": "14:00-17:00",
-          "Profesor": "PEÑA YALICO, VICENTE"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "VI",
-          "Hora": "16:00-18:00",
-          "Profesor": "PEÑA YALICO, VICENTE"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "14:00-17:00",
+            "Profesor": "DELGADO LEON, MIGUEL"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "LU",
+            "Hora": "8:00-10:00",
+            "Profesor": "DELGADO LEON, MIGUEL"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "14:00-17:00",
+            "Profesor": "PEÑA YALICO, VICENTE"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "16:00-18:00",
+            "Profesor": "PEÑA YALICO, VICENTE"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "10:00-13:00",
+            "Profesor": "DELGADO LEON, MIGUEL"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "10:00-12:00",
+            "Profesor": "MEDINA RAMIREZ, JOSE AGUSTIN"
+          }
+        ]
+      },
+      {
+        "P": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "10:00-13:00",
+            "Profesor": "MEDINA RAMIREZ, JOSE AGUSTIN"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "8:00-10:00",
+            "Profesor": "MEDINA RAMIREZ, JOSE AGUSTIN"
+          }
+        ]
+      }
+    ]
   },
   {
     "Ciclo": 5,
     "Codigo": "EE647",
-    "Secciones": {
-      "O": [
-        {
-          "Tipo": "T",
-          "Dia": "VI",
-          "Hora": "14:00-17:00",
-          "Profesor": "MERCHAN GORDILLO, FERNANDO"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "JU",
-          "Hora": "8:00-10:00",
-          "Profesor": "CARBONEL OLAZABAL, DANIEL"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "19:00-22:00",
+            "Profesor": "AQUIZE PALACIOS, RUBEN"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MA",
+            "Hora": "16:00-18:00",
+            "Profesor": "AQUIZE PALACIOS, RUBEN"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "14:00-17:00",
+            "Profesor": "MERCHAN GORDILLO, FERNANDO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MI",
+            "Hora": "14:00-16:00",
+            "Profesor": "VALENZUELA DE LA CRUZ, BASILIO"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "14:00-17:00",
+            "Profesor": "MERCHAN GORDILLO, FERNANDO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "8:00-10:00",
+            "Profesor": "CARBONEL OLAZABAL, DANIEL"
+          }
+        ]
+      },
+      {
+        "P": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "8:00-11:00",
+            "Profesor": "MERCHAN GORDILLO, FERNANDO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "LU",
+            "Hora": "18:00-20:00",
+            "Profesor": "VALENZUELA DE LA CRUZ, BASILIO"
+          }
+        ]
+      },
+      {
+        "Q": [
+          {
+            "Tipo": "T",
+            "Dia": "JU",
+            "Hora": "8:00-11:00",
+            "Profesor": "MERCHAN GORDILLO, FERNANDO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "LU",
+            "Hora": "16:00-18:00",
+            "Profesor": "VALENZUELA DE LA CRUZ, BASILIO"
+          }
+        ]
+      }
+    ]
   },
-  { "Ciclo": 6, "Codigo": "BFM17", "Secciones": { "O": [] } },
+  {
+    "Ciclo": 6,
+    "Codigo": "BFM17",
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "14:00-16:00",
+            "Profesor": "VELAZCO LORENZO, DINAU"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "16:00-18:00",
+            "Profesor": "VELAZCO LORENZO, DINAU"
+          }
+        ]
+      }
+    ]
+  },
   {
     "Ciclo": 6,
     "Codigo": "EE238",
-    "Secciones": {
-      "M": [
-        {
-          "Tipo": "T",
-          "Dia": "MA",
-          "Hora": "14:00-16:00",
-          "Profesor": "FARFAN LIRA, JOSE ENRIQUE"
-        },
-        {
-          "Tipo": "L",
-          "Dia": "JU",
-          "Hora": "10:00-12:00",
-          "Profesor": "VENTOSILLA ZEVALLOS, MOISES ODAVIO"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "14:00-16:00",
+            "Profesor": "FARFAN LIRA, JOSE ENRIQUE"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "JU",
+            "Hora": "10:00-12:00",
+            "Profesor": "VENTOSILLA ZEVALLOS, MOISES ODAVIO"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "8:00-10:00",
+            "Profesor": "YANQUE TOMASEVICH, IVANKO"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "VI",
+            "Hora": "11:00-13:00",
+            "Profesor": "YANQUE TOMASEVICH, IVANKO"
+          }
+        ]
+      }
+    ]
   },
   {
     "Ciclo": 6,
     "Codigo": "EE288",
-    "Secciones": {
-      "M": [
-        {
-          "Tipo": "T",
-          "Dia": "MA",
-          "Hora": "10:00-13:00",
-          "Profesor": "CACERES CARDENAS, FELIX VICTOR"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "JU",
-          "Hora": "8:00-10:00",
-          "Profesor": "CACERES CARDENAS, FELIX VICTOR"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "10:00-13:00",
+            "Profesor": "CACERES CARDENAS, FELIX VICTOR"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "8:00-10:00",
+            "Profesor": "CACERES CARDENAS, FELIX VICTOR"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "10:00-13:00",
+            "Profesor": "GUTIERREZ  PAUCAR , AGUSTIN"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "LU",
+            "Hora": "12:00-14:00",
+            "Profesor": "GUTIERREZ  PAUCAR , AGUSTIN"
+          }
+        ]
+      }
+    ]
   },
   {
     "Ciclo": 6,
     "Codigo": "EE353",
-    "Secciones": {
-      "M": [
-        {
-          "Tipo": "T",
-          "Dia": "MI",
-          "Hora": "14:00-17:00",
-          "Profesor": "VENTOSILLA ZEVALLOS, MOISES ODAVIO"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "MI",
-          "Hora": "17:00-19:00",
-          "Profesor": "VENTOSILLA ZEVALLOS, MOISES ODAVIO"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "14:00-17:00",
+            "Profesor": "VENTOSILLA ZEVALLOS, MOISES ODAVIO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MI",
+            "Hora": "17:00-19:00",
+            "Profesor": "VENTOSILLA ZEVALLOS, MOISES ODAVIO"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "14:00-17:00",
+            "Profesor": "ÑAUPARI HUATUCO, DIONICIO ZOCIMO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "LU",
+            "Hora": "20:00-22:00",
+            "Profesor": "BAUTISTA RIOS, JUAN PABLO"
+          }
+        ]
+      }
+    ]
   },
   {
-    "Ciclo": 5,
+    "Ciclo": 6,
     "Codigo": "EE430",
-    "Secciones": {
-      "M": [
-        {
-          "Tipo": "T",
-          "Dia": "LU",
-          "Hora": "14:00-16:00",
-          "Profesor": "PERALTA ALFEREZ, FRANS"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "VI",
-          "Hora": "18:00-20:00",
-          "Profesor": "JIMENEZ HEREDIA ELADIO "
-        },
-        {
-          "Tipo": "L",
-          "Dia": "MA",
-          "Hora": "8:00-10:00",
-          "Profesor": "ROMERO FUENTES, VIRGINIA"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "14:00-16:00",
+            "Profesor": "PERALTA ALFEREZ, FRANS"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "18:00-20:00",
+            "Profesor": "JIMENEZ HEREDIA ELADIO "
+          },
+          {
+            "Tipo": "L",
+            "Dia": "MA",
+            "Hora": "8:00-10:00",
+            "Profesor": "ROMERO FUENTES, VIRGINIA"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "16:00-18:00",
+            "Profesor": "PERALTA ALFEREZ, FRANS"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "20:00-22:00",
+            "Profesor": "JIMENEZ HEREDIA ELADIO "
+          },
+          {
+            "Tipo": "L",
+            "Dia": "MA",
+            "Hora": "10:00-12:00",
+            "Profesor": "ROMERO FUENTES, VIRGINIA"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "18:00-20:00",
+            "Profesor": "SANTILLAN RAMOS, OSCAR RAMIRO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MA",
+            "Hora": "20:00-22:00",
+            "Profesor": "JIMENEZ HEREDIA ELADIO "
+          },
+          {
+            "Tipo": "L",
+            "Dia": "MA",
+            "Hora": "18:00-20:00",
+            "Profesor": "JIMENEZ HEREDIA ELADIO "
+          }
+        ]
+      }
+    ]
   },
   {
-    "Ciclo": 11,
+    "Ciclo": 6,
     "Codigo": "EE438",
-    "Secciones": {
-      "N": [
-        {
-          "Tipo": "T",
-          "Dia": "SA",
-          "Hora": "13:00-16:00",
-          "Profesor": "LOPEZ ARAMBURU, FERNANDO"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "VI",
-          "Hora": "20:00-22:00",
-          "Profesor": "LOPEZ ARAMBURU, FERNANDO"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "19:00-22:00",
+            "Profesor": "LOPEZ ARAMBURU, FERNANDO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "SA",
+            "Hora": "8:00-10:00",
+            "Profesor": "LOPEZ ARAMBURU, FERNANDO"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "SA",
+            "Hora": "13:00-16:00",
+            "Profesor": "LOPEZ ARAMBURU, FERNANDO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "20:00-22:00",
+            "Profesor": "LOPEZ ARAMBURU, FERNANDO"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "10:00-13:00",
+            "Profesor": "NUÑEZ CARRILLO, RICARDO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "SA",
+            "Hora": "10:00-12:00",
+            "Profesor": "LOPEZ ARAMBURU, FERNANDO"
+          }
+        ]
+      }
+    ]
   },
-  { "Ciclo": 11, "Codigo": "EE449", "Secciones": { "N": [] } },
   {
-    "Ciclo": 11,
+    "Ciclo": 6,
+    "Codigo": "EE449",
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "16:00-18:00",
+            "Profesor": "ROMERO GOYTENDIA, LUIS MIGUEL"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "16:00-18:00",
+            "Profesor": "ROMERO GOYTENDIA, LUIS MIGUEL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Ciclo": 6,
     "Codigo": "EE458",
-    "Secciones": {
-      "N": [
-        {
-          "Tipo": "L",
-          "Dia": "JU",
-          "Hora": "14:00-16:00",
-          "Profesor": "FLORES ATOCHE, BEAU"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "L",
+            "Dia": "MI",
+            "Hora": "14:00-16:00",
+            "Profesor": "FLORES ATOCHE, BEAU"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "L",
+            "Dia": "JU",
+            "Hora": "14:00-16:00",
+            "Profesor": "FLORES ATOCHE, BEAU"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "L",
+            "Dia": "MA",
+            "Hora": "8:00-10:00",
+            "Profesor": "ALBURQUEQUE GUERRERO, ANGEL"
+          }
+        ]
+      },
+      {
+        "P": [
+          {
+            "Tipo": "L",
+            "Dia": "MA",
+            "Hora": "10:00-12:00",
+            "Profesor": "ALBURQUEQUE GUERRERO, ANGEL"
+          }
+        ]
+      },
+      {
+        "Q": [
+          {
+            "Tipo": "L",
+            "Dia": "MA",
+            "Hora": "14:00-16:00",
+            "Profesor": "ROMERO FUENTES, VIRGINIA"
+          }
+        ]
+      },
+      {
+        "R": [
+          {
+            "Tipo": "L",
+            "Dia": "MA",
+            "Hora": "12:00-14:00",
+            "Profesor": "NUÑEZ CARRILLO, RICARDO"
+          }
+        ]
+      }
+    ]
   },
   {
-    "Ciclo": 11,
+    "Ciclo": 6,
     "Codigo": "EE588",
-    "Secciones": {
-      "N": [
-        {
-          "Tipo": "T",
-          "Dia": "LU",
-          "Hora": "11:00-14:00",
-          "Profesor": "CAJAHUARINGA CAMACO, ARMANDO"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "JU",
-          "Hora": "18:00-20:00",
-          "Profesor": "CORDOVA BERNUY, VICTOR"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "14:00-17:00",
+            "Profesor": "DELGADO LEON, MIGUEL"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MI",
+            "Hora": "17:00-19:00",
+            "Profesor": "DELGADO LEON, MIGUEL"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "11:00-14:00",
+            "Profesor": "CAJAHUARINGA CAMACO, ARMANDO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "18:00-20:00",
+            "Profesor": "CORDOVA BERNUY, VICTOR"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "T",
+            "Dia": "SA",
+            "Hora": "8:00-11:00",
+            "Profesor": "ALVAREZ MONTOYA, JUAN"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MI",
+            "Hora": "20:00-22:00",
+            "Profesor": "CORDOVA BERNUY, VICTOR"
+          }
+        ]
+      },
+      {
+        "P": [
+          {
+            "Tipo": "T",
+            "Dia": "SA",
+            "Hora": "11:00- 14:00",
+            "Profesor": "ALVAREZ MONTOYA, JUAN"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "20:00-22:00",
+            "Profesor": "ALVAREZ MONTOYA, JUAN"
+          }
+        ]
+      }
+    ]
   },
   {
-    "Ciclo": 11,
+    "Ciclo": 6,
     "Codigo": "EE604",
-    "Secciones": {
-      "O": [
-        {
-          "Tipo": "T",
-          "Dia": "VI",
-          "Hora": "18:00-20:00",
-          "Profesor": "BARRIGA HOYLE, JAVIER"
-        },
-        {
-          "Tipo": "L",
-          "Dia": "VI",
-          "Hora": "20:00-22:00",
-          "Profesor": "BARRIGA HOYLE, JAVIER"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "13:00-15:00",
+            "Profesor": "ESTRADA MONTES, JOSE ALFREDO"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "MA",
+            "Hora": "15:00-17:00",
+            "Profesor": "ESTRADA MONTES, JOSE ALFREDO"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "13:00-15:00",
+            "Profesor": "GALVEZ LEGUA, MAURICIO PEDRO"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "MI",
+            "Hora": "15:00-17:00",
+            "Profesor": "GALVEZ LEGUA, MAURICIO PEDRO"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "18:00-20:00",
+            "Profesor": "BARRIGA HOYLE, JAVIER"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "VI",
+            "Hora": "20:00-22:00",
+            "Profesor": "BARRIGA HOYLE, JAVIER"
+          }
+        ]
+      },
+      {
+        "P": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "8:00-10:00",
+            "Profesor": "MORALES VILLANUEVA, AURELIO"
+          },
+          { "Tipo": "L", "Dia": "MI", "Hora": "20:00-22:00", "Profesor": "NN" }
+        ]
+      },
+      {
+        "Q": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "8:00-10:00",
+            "Profesor": "MORALES VILLANUEVA, AURELIO"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "LU",
+            "Hora": "10:00-12:00",
+            "Profesor": "MORALES VILLANUEVA, AURELIO"
+          }
+        ]
+      },
+      {
+        "R": [
+          {
+            "Tipo": "T",
+            "Dia": "JU",
+            "Hora": "16:00-18:00",
+            "Profesor": "ESTRADA MONTES, JOSE ALFREDO"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "JU",
+            "Hora": "18:00-20:00",
+            "Profesor": "ESTRADA MONTES, JOSE ALFREDO"
+          }
+        ]
+      }
+    ]
   },
   {
-    "Ciclo": 11,
+    "Ciclo": 6,
     "Codigo": "EE648",
-    "Secciones": {
-      "O": [
-        {
-          "Tipo": "T",
-          "Dia": "LU",
-          "Hora": "16:00-18:00",
-          "Profesor": "MACHUCA MINES, JOSE"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "LU",
-          "Hora": "8:00-10:00",
-          "Profesor": "RAMIREZ HUAMAN, LUIS ENRIQUE"
-        },
-        {
-          "Tipo": "L",
-          "Dia": "LU",
-          "Hora": "12:00-14:00",
-          "Profesor": "VALENZUELA DE LA CRUZ, BASILIO"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "16:00-18:00",
+            "Profesor": "CARBONEL OLAZABAL, DANIEL"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "8:00-10:00",
+            "Profesor": "RAMIREZ HUAMAN, LUIS ENRIQUE"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "MI",
+            "Hora": "16:00-18:00",
+            "Profesor": "VALENZUELA DE LA CRUZ, BASILIO"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "14:00-16:00",
+            "Profesor": "CARBONEL OLAZABAL, DANIEL"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "LU",
+            "Hora": "8:00-10:00",
+            "Profesor": "RAMIREZ HUAMAN, LUIS ENRIQUE"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "MI",
+            "Hora": "10:00-12:00",
+            "Profesor": "VALENZUELA DE LA CRUZ, BASILIO"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "16:00-18:00",
+            "Profesor": "MACHUCA MINES, JOSE"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "LU",
+            "Hora": "8:00-10:00",
+            "Profesor": "RAMIREZ HUAMAN, LUIS ENRIQUE"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "LU",
+            "Hora": "12:00-14:00",
+            "Profesor": "VALENZUELA DE LA CRUZ, BASILIO"
+          }
+        ]
+      },
+      {
+        "P": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "14:00-16:00",
+            "Profesor": "MACHUCA MINES, JOSE"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "SA",
+            "Hora": "8:00-10:00",
+            "Profesor": "ALBURQUEQUE VALDIVIA MARLON"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "SA",
+            "Hora": "14:00-16:00",
+            "Profesor": "ALBURQUEQUE VALDIVIA MARLON"
+          }
+        ]
+      },
+      {
+        "Q": [
+          {
+            "Tipo": "T",
+            "Dia": "JU",
+            "Hora": "14:00-16:00",
+            "Profesor": "CARBONEL OLAZABAL, DANIEL"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "11:00-13:00",
+            "Profesor": "CARBONEL OLAZABAL, DANIEL"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "SA",
+            "Hora": "16:00-18:00",
+            "Profesor": "ALBURQUEQUE VALDIVIA MARLON"
+          }
+        ]
+      }
+    ]
   },
-  { "Ciclo": 7, "Codigo": "EE239", "Secciones": { "O": [] } },
+  {
+    "Ciclo": 7,
+    "Codigo": "EE239",
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "10:00-12:00",
+            "Profesor": "SANDOVAL RODRIGUEZ, ALBERTO"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "JU",
+            "Hora": "8:00-10:00",
+            "Profesor": "VENTOSILLA ZEVALLOS, MOISES ODAVIO"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "14:00-16:00",
+            "Profesor": "FARFAN LIRA, JOSE ENRIQUE"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "MA",
+            "Hora": "10:00-12:00",
+            "Profesor": "FARFAN LIRA, JOSE ENRIQUE"
+          }
+        ]
+      }
+    ]
+  },
   {
     "Ciclo": 7,
     "Codigo": "EE241",
-    "Secciones": {
-      "O": [
-        {
-          "Tipo": "L",
-          "Dia": "JU",
-          "Hora": "12:00-14:00",
-          "Profesor": "FARFAN LIRA, JOSE ENRIQUE"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "L",
+            "Dia": "MI",
+            "Hora": "8:00-10:00",
+            "Profesor": "MEDINA RAMIREZ, JOSE AGUSTIN / FARFAN"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "L",
+            "Dia": "MI",
+            "Hora": "10:00-12:00",
+            "Profesor": "MEDINA RAMIREZ, JOSE AGUSTIN / FARFAN"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "L",
+            "Dia": "JU",
+            "Hora": "12:00-14:00",
+            "Profesor": "FARFAN LIRA, JOSE ENRIQUE"
+          }
+        ]
+      }
+    ]
   },
-  { "Ciclo": 7, "Codigo": "EE298", "Secciones": { "P": [] } },
-  { "Ciclo": 7, "Codigo": "EE354", "Secciones": { "P": [] } },
-  { "Ciclo": 11, "Codigo": "EE467", "Secciones": { "P": [] } },
-  { "Ciclo": 7, "Codigo": "EE528", "Secciones": { "P": [] } },
+  {
+    "Ciclo": 7,
+    "Codigo": "EE298",
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "19:00-22:00",
+            "Profesor": "ROJAS MIRANDA, LUIS"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "18:00-20:00",
+            "Profesor": "ROJAS MIRANDA, LUIS"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "16:00-19:00",
+            "Profesor": "ROJAS MIRANDA, LUIS"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "20:00-22:00",
+            "Profesor": "ROJAS MIRANDA, LUIS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Ciclo": 7,
+    "Codigo": "EE354",
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "SA",
+            "Hora": "12:00-15:00",
+            "Profesor": "KOC RUEDA, JOSE ELMER"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "SA",
+            "Hora": "16:00-18:00",
+            "Profesor": "VILLAVICENCIO GASTELU, JOEL"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "17:00-20:00",
+            "Profesor": "BEDRIÑANA ARONES, MANFRED FRITZ"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "SA",
+            "Hora": "14:00-16:00",
+            "Profesor": "BEDRIÑANA ARONES, MANFRED FRITZ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Ciclo": 7,
+    "Codigo": "EE467",
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "18:00-20:00",
+            "Profesor": "DIAZ ATAUCURI, DANIEL"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "LU",
+            "Hora": "20:00-22:00",
+            "Profesor": "DIAZ ATAUCURI, DANIEL"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "SA",
+            "Hora": "14:00-16:00",
+            "Profesor": "DIAZ ATAUCURI, DANIEL"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "SA",
+            "Hora": "16:00-18:00",
+            "Profesor": "DIAZ ATAUCURI, DANIEL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Ciclo": 7,
+    "Codigo": "EE528",
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "8:00-10:00",
+            "Profesor": "GUTIERREZ  PAUCAR , AGUSTIN"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "14:00-16:00",
+            "Profesor": "GUTIERREZ  PAUCAR , AGUSTIN"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "JU",
+            "Hora": "10:00-12:00",
+            "Profesor": "GUTIERREZ  PAUCAR , AGUSTIN"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "10:00-12:00",
+            "Profesor": "GUTIERREZ  PAUCAR , AGUSTIN"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "10:00-12:00",
+            "Profesor": "PUICAN VERA, JOSE"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "MA",
+            "Hora": "10:00-12:00",
+            "Profesor": "PUICAN VERA, JOSE"
+          }
+        ]
+      }
+    ]
+  },
   {
     "Ciclo": 7,
     "Codigo": "EE530",
-    "Secciones": {
-      "M": [
-        {
-          "Tipo": "T",
-          "Dia": "VI",
-          "Hora": "20:00-22:00",
-          "Profesor": "SANTILLAN RAMOS, OSCAR RAMIRO"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "LU",
-          "Hora": "10:00-12:00",
-          "Profesor": "RODRIGUEZ GUTIERREZ, ALFREDO"
-        },
-        {
-          "Tipo": "L",
-          "Dia": "JU",
-          "Hora": "10:00-12:00",
-          "Profesor": "FLORES ATOCHE, BEAU"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "16:00-18:00",
+            "Profesor": "PERALTA ALFEREZ, FRANS"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "LU",
+            "Hora": "10:00-12:00",
+            "Profesor": "RODRIGUEZ GUTIERREZ, ALFREDO"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "JU",
+            "Hora": "10:00-12:00",
+            "Profesor": "FLORES ATOCHE, BEAU"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "18:00-20:00",
+            "Profesor": "PERALTA ALFEREZ, FRANS"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "LU",
+            "Hora": "8:00-10:00",
+            "Profesor": "RODRIGUEZ GUTIERREZ, ALFREDO"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "MA",
+            "Hora": "16:00-18:00",
+            "Profesor": "FLORES ATOCHE, BEAU"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "16:00-18:00",
+            "Profesor": "PERALTA ALFEREZ, FRANS"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "LU",
+            "Hora": "14:00-16:00",
+            "Profesor": "RODRIGUEZ GUTIERREZ, ALFREDO"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "MA",
+            "Hora": "10:00-12:00",
+            "Profesor": "RODRIGUEZ GUTIERREZ, ALFREDO"
+          }
+        ]
+      },
+      {
+        "P": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "20:00-22:00",
+            "Profesor": "CORDOVA BERNUY, VICTOR"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "20:00-22:00",
+            "Profesor": "SANTILLAN RAMOS, OSCAR RAMIRO"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "VI",
+            "Hora": "16:00-18:00",
+            "Profesor": "JIMENEZ HEREDIA ELADIO "
+          }
+        ]
+      },
+      {
+        "Q": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "14:00-16:00",
+            "Profesor": "PERALTA ALFEREZ, FRANS"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MA",
+            "Hora": "14:00-16:00",
+            "Profesor": "RODRIGUEZ GUTIERREZ, ALFREDO"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "MA",
+            "Hora": "8:00-10:00",
+            "Profesor": "RODRIGUEZ GUTIERREZ, ALFREDO"
+          }
+        ]
+      }
+    ]
   },
   {
-    "Ciclo": 8,
+    "Ciclo": 7,
     "Codigo": "EE532",
-    "Secciones": {
-      "M": [
-        {
-          "Tipo": "T",
-          "Dia": "MI",
-          "Hora": "16:00-19:00",
-          "Profesor": "MORENO MARTINEZ, RODOLFO MANUEL"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "MA",
-          "Hora": "15:00-17:00",
-          "Profesor": "MORENO MARTINEZ, RODOLFO MANUEL"
-        },
-        {
-          "Tipo": "L",
-          "Dia": "MA",
-          "Hora": "10:00-12:00",
-          "Profesor": "NUÑEZ CARRILLO, RICARDO"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "16:00-19:00",
+            "Profesor": "MORENO MARTINEZ, RODOLFO MANUEL"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MA",
+            "Hora": "15:00-17:00",
+            "Profesor": "MORENO MARTINEZ, RODOLFO MANUEL"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "MA",
+            "Hora": "10:00-12:00",
+            "Profesor": "NUÑEZ CARRILLO, RICARDO"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "SA",
+            "Hora": "8:00-11:00",
+            "Profesor": "NUÑEZ ZUÑIGA, TERESA ESTHER"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "LU",
+            "Hora": "18:00-20:00",
+            "Profesor": "NUÑEZ ZUÑIGA, TERESA ESTHER"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "LU",
+            "Hora": "16:00-18:00",
+            "Profesor": "NUÑEZ ZUÑIGA, TERESA ESTHER"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "16:00-19:00",
+            "Profesor": "MORENO MARTINEZ, RODOLFO MANUEL"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "LU",
+            "Hora": "12:00-14:00",
+            "Profesor": "NUÑEZ CARRILLO, RICARDO"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "JU",
+            "Hora": "12:00-14:00",
+            "Profesor": "NUÑEZ CARRILLO, RICARDO"
+          }
+        ]
+      },
+      {
+        "P": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "8:00-11:00",
+            "Profesor": "TISZA CONTRERAS, JUAN"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MI",
+            "Hora": "11:00-13:00",
+            "Profesor": "TISZA CONTRERAS, JUAN"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "VI",
+            "Hora": "12:00-14:00",
+            "Profesor": "RAMIREZ HUAMAN, LUIS ENRIQUE"
+          }
+        ]
+      }
+    ]
   },
   {
-    "Ciclo": 11,
+    "Ciclo": 7,
     "Codigo": "EE590",
-    "Secciones": {
-      "M": [
-        {
-          "Tipo": "T",
-          "Dia": "LU",
-          "Hora": "18:00-20:00",
-          "Profesor": "BELLEZA ZAMORA, EDUARDO"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "LU",
-          "Hora": "20:00-22:00",
-          "Profesor": "BELLEZA ZAMORA, EDUARDO"
-        },
-        {
-          "Tipo": "L",
-          "Dia": "SA",
-          "Hora": "10:00-12:00",
-          "Profesor": "BELLEZA ZAMORA, EDUARDO"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "18:00-20:00",
+            "Profesor": "BELLEZA ZAMORA, EDUARDO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "LU",
+            "Hora": "20:00-22:00",
+            "Profesor": "BELLEZA ZAMORA, EDUARDO"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "SA",
+            "Hora": "10:00-12:00",
+            "Profesor": "BELLEZA ZAMORA, EDUARDO"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "18:00-20:00",
+            "Profesor": "BELLEZA ZAMORA, EDUARDO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "20:00-22:00",
+            "Profesor": "BELLEZA ZAMORA, EDUARDO"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "SA",
+            "Hora": "8:00-10:00",
+            "Profesor": "BELLEZA ZAMORA, EDUARDO"
+          }
+        ]
+      }
+    ]
   },
   {
-    "Ciclo": 11,
+    "Ciclo": 7,
     "Codigo": "EE644",
-    "Secciones": {
-      "N": [
-        {
-          "Tipo": "T",
-          "Dia": "MI",
-          "Hora": "10:00-12:00",
-          "Profesor": "BRICEÑO ARANDA, CESAR"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "VI",
-          "Hora": "14:00-16:00",
-          "Profesor": "BRICEÑO ARANDA, CESAR"
-        },
-        {
-          "Tipo": "L",
-          "Dia": "VI",
-          "Hora": "16:00-18:00",
-          "Profesor": "BRICEÑO ARANDA, CESAR"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "8:00-10:00",
+            "Profesor": "DIAZ ALIAGA, JULIO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "14:00-16:00",
+            "Profesor": "DIAZ ALIAGA, JULIO"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "VI",
+            "Hora": "10:00-12:00",
+            "Profesor": "DIAZ ALIAGA, JULIO"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "10:00-12:00",
+            "Profesor": "BRICEÑO ARANDA, CESAR"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "14:00-16:00",
+            "Profesor": "BRICEÑO ARANDA, CESAR"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "VI",
+            "Hora": "16:00-18:00",
+            "Profesor": "BRICEÑO ARANDA, CESAR"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "18:00-20:00",
+            "Profesor": "PISCOYA SILVA, ULISES"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "14:00-16:00",
+            "Profesor": "PISCOYA SILVA, ULISES"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "MA",
+            "Hora": "16:00-18:00",
+            "Profesor": "PISCOYA SILVA, ULISES"
+          }
+        ]
+      }
+    ]
   },
   {
-    "Ciclo": 11,
+    "Ciclo": 7,
     "Codigo": "EE678",
-    "Secciones": {
-      "N": [
-        {
-          "Tipo": "T",
-          "Dia": "LU",
-          "Hora": "14:00-16:00",
-          "Profesor": "MEDINA RAMOS, CARLOS"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "LU",
-          "Hora": "10:00-12:00",
-          "Profesor": "RAMIREZ HUAMAN, LUIS ENRIQUE"
-        },
-        {
-          "Tipo": "L",
-          "Dia": "VI",
-          "Hora": "10:00-12:00",
-          "Profesor": "RAMIREZ HUAMAN, LUIS ENRIQUE"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "14:00-16:00",
+            "Profesor": "MEDINA RAMOS, CARLOS"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MI",
+            "Hora": "16:00-18:00",
+            "Profesor": "MEDINA RAMOS, CARLOS"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "LU",
+            "Hora": "14:00-16:00",
+            "Profesor": "CORDOVA BERNUY, VICTOR"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "14:00-16:00",
+            "Profesor": "MEDINA RAMOS, CARLOS"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "LU",
+            "Hora": "10:00-12:00",
+            "Profesor": "RAMIREZ HUAMAN, LUIS ENRIQUE"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "VI",
+            "Hora": "10:00-12:00",
+            "Profesor": "RAMIREZ HUAMAN, LUIS ENRIQUE"
+          }
+        ]
+      }
+    ]
   },
   {
     "Ciclo": 8,
     "Codigo": "BEG06",
-    "Secciones": {
-      "N": [
-        {
-          "Tipo": "T",
-          "Dia": "MI",
-          "Hora": "20:00-22:00",
-          "Profesor": "SALVADOR JACOME, LEONCIO JULIO"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "JU",
-          "Hora": "20:00-22:00",
-          "Profesor": "SALVADOR JACOME, LEONCIO JULIO"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "18:00-20:00",
+            "Profesor": "SALVADOR JACOME, LEONCIO JULIO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "18:00-20:00",
+            "Profesor": "SALVADOR JACOME, LEONCIO JULIO"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "20:00-22:00",
+            "Profesor": "SALVADOR JACOME, LEONCIO JULIO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "20:00-22:00",
+            "Profesor": "SALVADOR JACOME, LEONCIO JULIO"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "T",
+            "Dia": "JU",
+            "Hora": "9:00-11:00",
+            "Profesor": "MONTES BAZALAR, LUIS"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "11:00-13:00",
+            "Profesor": "MONTES BAZALAR, LUIS"
+          }
+        ]
+      },
+      {
+        "P": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "10:00-12:00",
+            "Profesor": "SANDOVAL RODRIGUEZ, ALBERTO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "LU",
+            "Hora": "10:00-12:00",
+            "Profesor": "SANDOVAL RODRIGUEZ, ALBERTO"
+          }
+        ]
+      },
+      {
+        "Q": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "20:00-22:00",
+            "Profesor": "DEGREGORI CADENILLAS, LUIS"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "20:00-22:00",
+            "Profesor": "DEGREGORI CADENILLAS, LUIS"
+          }
+        ]
+      }
+    ]
   },
   {
     "Ciclo": 8,
     "Codigo": "EE242",
-    "Secciones": {
-      "O": [
-        {
-          "Tipo": "L",
-          "Dia": "LU",
-          "Hora": "10:00-12:00",
-          "Profesor": "FARFAN LIRA, JOSE ENRIQUE"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "L",
+            "Dia": "JU",
+            "Hora": "12:00-14:00",
+            "Profesor": "ROJAS MIRANDA, LUIS"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "L",
+            "Dia": "MA",
+            "Hora": "12:00-14:00",
+            "Profesor": "PUICAN VERA, JOSE"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "L",
+            "Dia": "LU",
+            "Hora": "10:00-12:00",
+            "Profesor": "FARFAN LIRA, JOSE ENRIQUE"
+          }
+        ]
+      }
+    ]
   },
-  { "Ciclo": 11, "Codigo": "EE375", "Secciones": { "O": [] } },
-  { "Ciclo": 8, "Codigo": "EE393", "Secciones": { "O": [] } },
+  {
+    "Ciclo": 8,
+    "Codigo": "EE375",
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "JU",
+            "Hora": "19:00-22:00",
+            "Profesor": "RAMIREZ ARCELLES, ROBERTO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MI",
+            "Hora": "20:00-22:00",
+            "Profesor": "RAMIREZ ARCELLES, ROBERTO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Ciclo": 8,
+    "Codigo": "EE393",
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "18:00-20:00",
+            "Profesor": "BAUTISTA RIOS, JUAN PABLO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "20:00-22:00",
+            "Profesor": "BAUTISTA RIOS, JUAN PABLO"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "16:00-18:00",
+            "Profesor": "MORENO CUEVA, CESAR"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "20:00-22:00",
+            "Profesor": "MORENO CUEVA, CESAR"
+          }
+        ]
+      }
+    ]
+  },
   {
     "Ciclo": 8,
     "Codigo": "EE468",
-    "Secciones": {
-      "M": [
-        {
-          "Tipo": "T",
-          "Dia": "MI",
-          "Hora": "19:00-22:00",
-          "Profesor": "MENDOZA CARDENAS, FREDY"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "JU",
-          "Hora": "20:00-22:00",
-          "Profesor": "MENDOZA CARDENAS, FREDY"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "19:00-22:00",
+            "Profesor": "MENDOZA CARDENAS, FREDY"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "20:00-22:00",
+            "Profesor": "MENDOZA CARDENAS, FREDY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Ciclo": 8,
+    "Codigo": "EE470",
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "14:00-17:00",
+            "Profesor": "ROSADO AGUIRRE, ESTANISLAO UBALDO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "14:00-16:00",
+            "Profesor": "ROSADO AGUIRRE, ESTANISLAO UBALDO"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "JU",
+            "Hora": "10:00-13:00",
+            "Profesor": "ROSADO AGUIRRE, ESTANISLAO UBALDO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MA",
+            "Hora": "17:00-19:00",
+            "Profesor": "ROSADO AGUIRRE, ESTANISLAO UBALDO"
+          }
+        ]
+      }
+    ]
   },
   {
     "Ciclo": 8,
     "Codigo": "EE592",
-    "Secciones": {
-      "M": [
-        {
-          "Tipo": "T",
-          "Dia": "LU",
-          "Hora": "16:00-18:00",
-          "Profesor": "LOPEZ TAFUR, MARCIAL ANTONIO"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "LU",
-          "Hora": "18:00-20:00",
-          "Profesor": "LOPEZ TAFUR, MARCIAL ANTONIO"
-        },
-        {
-          "Tipo": "L",
-          "Dia": "JU",
-          "Hora": "8:00-10:00",
-          "Profesor": "CAJAHUARINGA CAMACO, ARMANDO"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "16:00-18:00",
+            "Profesor": "LOPEZ TAFUR, MARCIAL ANTONIO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "LU",
+            "Hora": "18:00-20:00",
+            "Profesor": "LOPEZ TAFUR, MARCIAL ANTONIO"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "JU",
+            "Hora": "8:00-10:00",
+            "Profesor": "CAJAHUARINGA CAMACO, ARMANDO"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "18:00-20:00",
+            "Profesor": "ALVAREZ MONTOYA, JUAN"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MA",
+            "Hora": "20:00-22:00",
+            "Profesor": "ALVAREZ MONTOYA, JUAN"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "JU",
+            "Hora": "10:00-12:00",
+            "Profesor": "CAJAHUARINGA CAMACO, ARMANDO"
+          }
+        ]
+      }
+    ]
   },
   {
     "Ciclo": 9,
     "Codigo": "CIB54",
-    "Secciones": {
-      "M": [
-        {
-          "Tipo": "T",
-          "Dia": "LU",
-          "Hora": "18:00-20:00",
-          "Profesor": "NEYRA HERRERA, MIGUEL"
-        },
-        {
-          "Tipo": "L",
-          "Dia": "LU",
-          "Hora": "20:00-22:00",
-          "Profesor": "NEYRA HERRERA, MIGUEL"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "18:00-20:00",
+            "Profesor": "NEYRA HERRERA, MIGUEL"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "LU",
+            "Hora": "20:00-22:00",
+            "Profesor": "NEYRA HERRERA, MIGUEL"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "14:00-16:00",
+            "Profesor": "MARTINEZ CHUNGA, RONALD"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "MI",
+            "Hora": "16:00-18:00",
+            "Profesor": "MARTINEZ CHUNGA, RONALD"
+          }
+        ]
+      }
+    ]
   },
   {
     "Ciclo": 9,
     "Codigo": "EE445",
-    "Secciones": {
-      "N": [
-        {
-          "Tipo": "T",
-          "Dia": "MA",
-          "Hora": "16:00-18:00",
-          "Profesor": "CACERES CARDENAS, FELIX VICTOR"
-        },
-        {
-          "Tipo": "L",
-          "Dia": "SA",
-          "Hora": "16:00-20:00",
-          "Profesor": "KOC RUEDA, JOSE ELMER"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "16:00-18:00",
+            "Profesor": "FLORES TINOCO, MOISES ARISTE"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "MI",
+            "Hora": "16:00-20:00",
+            "Profesor": "FLORES TINOCO, MOISES ARISTE"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "16:00-18:00",
+            "Profesor": "CACERES CARDENAS, FELIX VICTOR"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "SA",
+            "Hora": "16:00-20:00",
+            "Profesor": "KOC RUEDA, JOSE ELMER"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "14:00-16:00",
+            "Profesor": "CARBONEL OLAZABAL, DANIEL"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "VI",
+            "Hora": "18:00-22:00",
+            "Profesor": "ATALAYA PISCO, CESAR AUGUSTO"
+          }
+        ]
+      },
+      {
+        "P": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "18:00-20:00",
+            "Profesor": "FIGUEROA SANTOS, LUIS LEONCIO"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "VI",
+            "Hora": "16:00-20:00",
+            "Profesor": "FIGUEROA SANTOS, LUIS LEONCIO"
+          }
+        ]
+      },
+      {
+        "Q": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "16:00-18:00",
+            "Profesor": "FIGUEROA SANTOS, LUIS LEONCIO"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "JU",
+            "Hora": "16:00-20:00",
+            "Profesor": "FIGUEROA SANTOS, LUIS LEONCIO"
+          }
+        ]
+      },
+      {
+        "R": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "16:00-18:00",
+            "Profesor": "VILLAVICENCIO GASTELU, JOEL"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "MI",
+            "Hora": "16:00-20:00",
+            "Profesor": "VILLAVICENCIO GASTELU, JOEL"
+          }
+        ]
+      },
+      {
+        "S": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "18:00-20:00",
+            "Profesor": "PISCOYA SILVA, ULISES"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "JU",
+            "Hora": "14:00-18:00",
+            "Profesor": "PISCOYA SILVA, ULISES"
+          }
+        ]
+      },
+      {
+        "T": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "16:00-18:00",
+            "Profesor": "PARK TAE DONG"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "MA",
+            "Hora": "18:00-22:00",
+            "Profesor": "PARK TAE DONG"
+          }
+        ]
+      }
+    ]
   },
   {
     "Ciclo": 9,
     "Codigo": "EE498",
-    "Secciones": {
-      "N": [
-        {
-          "Tipo": "L",
-          "Dia": "JU",
-          "Hora": "14:00-16:00",
-          "Profesor": "ALBURQUEQUE GUERRERO, ANGEL"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "L",
+            "Dia": "MA",
+            "Hora": "14:00-16:00",
+            "Profesor": "FLORES ATOCHE, BEAU"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "L",
+            "Dia": "JU",
+            "Hora": "14:00-16:00",
+            "Profesor": "ALBURQUEQUE GUERRERO, ANGEL"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "L",
+            "Dia": "MI",
+            "Hora": "10:00-12:00",
+            "Profesor": "FLORES ATOCHE, BEAU"
+          }
+        ]
+      }
+    ]
   },
-  { "Ciclo": 9, "Codigo": "EE676", "Secciones": { "O": [] } },
+  {
+    "Ciclo": 9,
+    "Codigo": "EE676",
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "SA",
+            "Hora": "8:00-10:00",
+            "Profesor": "ANTARA ARIAS, RONAL"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "16:00-18:00",
+            "Profesor": "AGUILAR QUIROZ, RICARDO"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "SA",
+            "Hora": "14:00-16:00",
+            "Profesor": "ANTARA ARIAS, RONAL"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "18:00-20:00",
+            "Profesor": "AGUILAR QUIROZ, RICARDO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Ciclo": 9,
+    "Codigo": "EE698",
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "L",
+            "Dia": "MA",
+            "Hora": "14:00-16:00",
+            "Profesor": "MEDINA RAMIREZ, JOSE AGUSTIN"
+          }
+        ]
+      },
+      {
+        "N": [
+          { "Tipo": "L", "Dia": "JU", "Hora": "14:00-16:00", "Profesor": "NN" }
+        ]
+      },
+      {
+        "O": [
+          { "Tipo": "L", "Dia": "VI", "Hora": "14:00-16:00", "Profesor": "NN" }
+        ]
+      }
+    ]
+  },
   {
     "Ciclo": 10,
     "Codigo": "EE446",
-    "Secciones": {
-      "O": [
-        {
-          "Tipo": "T",
-          "Dia": "SA",
-          "Hora": "8:00-10:00",
-          "Profesor": "ARROYO ARANA, CARLOS ALBERTO"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "SA",
-          "Hora": "13:00-17:00",
-          "Profesor": "ARROYO ARANA, CARLOS ALBERTO"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "14:00-16:00",
+            "Profesor": "PALMA GARCIA, MODESTO TOMAS"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "14:00-18:00",
+            "Profesor": "CACERES CARDENAS, FELIX VICTOR"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "14:00-16:00",
+            "Profesor": "YANQUE TOMASEVICH, IVANKO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MI",
+            "Hora": "14:00-18:00",
+            "Profesor": "PALMA GARCIA, MODESTO TOMAS"
+          }
+        ]
+      },
+      {
+        "O": [
+          {
+            "Tipo": "T",
+            "Dia": "SA",
+            "Hora": "8:00-10:00",
+            "Profesor": "ARROYO ARANA, CARLOS ALBERTO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "SA",
+            "Hora": "13:00-17:00",
+            "Profesor": "ARROYO ARANA, CARLOS ALBERTO"
+          }
+        ]
+      },
+      {
+        "P": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "16:00-18:00",
+            "Profesor": "MEDINA RAMOS, CARLOS"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "14:00-18:00",
+            "Profesor": "MEDINA RAMOS, CARLOS"
+          }
+        ]
+      },
+      {
+        "Q": [
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "16:00-18:00",
+            "Profesor": "TRONCOSO CASTRO, PAUL"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "SA",
+            "Hora": "17:00-21:00",
+            "Profesor": "DEGREGORI CADENILLAS, LUIS"
+          }
+        ]
+      },
+      {
+        "R": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "16:00-18:00",
+            "Profesor": "ATALAYA PISCO, CESAR AUGUSTO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MI",
+            "Hora": "18:00-22:00",
+            "Profesor": "ATALAYA PISCO, CESAR AUGUSTO"
+          }
+        ]
+      },
+      {
+        "S": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "18:00-20:00",
+            "Profesor": "LOZANO SALAS, JULIO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "16:00-20:00",
+            "Profesor": "LOZANO SALAS, JULIO"
+          }
+        ]
+      },
+      {
+        "T": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "16:00-18:00",
+            "Profesor": "PARK TAE DONG"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "18:00-22:00",
+            "Profesor": "DIAZ ZEGARRA, JOSE"
+          }
+        ]
+      },
+      {
+        "U": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "17:00-19:00",
+            "Profesor": "NEGRON MARTINEZ, CONSUELO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "LU",
+            "Hora": "16:00-20:00",
+            "Profesor": "NEGRON MARTINEZ, CONSUELO"
+          }
+        ]
+      }
+    ]
   },
-  { "Ciclo": 10, "Codigo": "EE712", "Secciones": { "P": [] } },
-  { "Ciclo": 11, "Codigo": "BMA20", "Secciones": { "P": [] } },
-  { "Ciclo": 11, "Codigo": "BRN93", "Secciones": { "P": [] } },
   {
-    "Ciclo": 11,
+    "Ciclo": 10,
+    "Codigo": "EE712",
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "JU",
+            "Hora": "18:00-20:00",
+            "Profesor": "MONTES BAZALAR, LUIS"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "JU",
+            "Hora": "20:00-22:00",
+            "Profesor": "MONTES BAZALAR, LUIS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Ciclo": 6,
+    "Codigo": "BMA20",
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "8:00-10:00",
+            "Profesor": "ROJAS VILLANUEVA, UWE"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "LU",
+            "Hora": "10:00-12:00",
+            "Profesor": "ROJAS VILLANUEVA, UWE"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "18:00-20:00",
+            "Profesor": "BENITEZ PALACIOS, JOSE"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "MI",
+            "Hora": "20:00-22:00",
+            "Profesor": "BENITEZ PALACIOS, JOSE"
+          }
+        ]
+      },
+      {
+        "O": [
+          { "Tipo": "T", "Dia": "JU", "Hora": "8:00-10:00", "Profesor": "NN" },
+          { "Tipo": "L", "Dia": "JU", "Hora": "10:00-12:00", "Profesor": "NN" }
+        ]
+      },
+      {
+        "P": [
+          { "Tipo": "T", "Dia": "LU", "Hora": "18:00-20:00", "Profesor": "NN" },
+          { "Tipo": "L", "Dia": "LU", "Hora": "20:00-22:00", "Profesor": "NN" }
+        ]
+      }
+    ]
+  },
+  {
+    "Ciclo": 6,
+    "Codigo": "BRN93",
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "SA",
+            "Hora": "10:00-12:00",
+            "Profesor": "SALVADOR JACOME, LEONCIO JULIO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "SA",
+            "Hora": "12:00- 14:00",
+            "Profesor": "SALVADOR JACOME, LEONCIO JULIO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Ciclo": 8,
     "Codigo": "CIB02",
-    "Secciones": {
-      "M": [
-        {
-          "Tipo": "T",
-          "Dia": "LU",
-          "Hora": "14:00-16:00",
-          "Profesor": "GALVEZ LEGUA, MAURICIO PEDRO"
-        },
-        {
-          "Tipo": "L",
-          "Dia": "LU",
-          "Hora": "16:00-18:00",
-          "Profesor": "GALVEZ LEGUA, MAURICIO PEDRO"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "14:00-16:00",
+            "Profesor": "GALVEZ LEGUA, MAURICIO PEDRO"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "LU",
+            "Hora": "16:00-18:00",
+            "Profesor": "GALVEZ LEGUA, MAURICIO PEDRO"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "8:00-10:00",
+            "Profesor": "GALVEZ LEGUA, MAURICIO PEDRO"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "VI",
+            "Hora": "10:00-12:00",
+            "Profesor": "GALVEZ LEGUA, MAURICIO PEDRO"
+          }
+        ]
+      }
+    ]
   },
   {
-    "Ciclo": 11,
+    "Ciclo": 8,
     "Codigo": "CIB12",
-    "Secciones": {
-      "M": [
-        {
-          "Tipo": "T",
-          "Dia": "MI",
-          "Hora": "14:00-16:00",
-          "Profesor": "PIZAN TOSCANO, LUPE NERIDA"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "VI",
-          "Hora": "16:00-18:00",
-          "Profesor": "PIZAN TOSCANO, LUPE NERIDA"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "14:00-16:00",
+            "Profesor": "PIZAN TOSCANO, LUPE NERIDA"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "16:00-18:00",
+            "Profesor": "PIZAN TOSCANO, LUPE NERIDA"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "16:00-18:00",
+            "Profesor": "PIZAN TOSCANO, LUPE NERIDA"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "14:00-16:00",
+            "Profesor": "PIZAN TOSCANO, LUPE NERIDA"
+          }
+        ]
+      }
+    ]
   },
-  { "Ciclo": 11, "Codigo": "CIB14", "Secciones": { "N": [] } },
-  { "Ciclo": 11, "Codigo": "CIB28", "Secciones": { "N": [] } },
-  { "Ciclo": 11, "Codigo": "EE225", "Secciones": { "O": [] } },
-  { "Ciclo": 11, "Codigo": "EE235", "Secciones": { "O": [] } },
   {
-    "Ciclo": 11,
+    "Ciclo": 9,
+    "Codigo": "CIB14",
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "SA",
+            "Hora": "8:00-10:00",
+            "Profesor": "MENDOZA CARDENAS, FREDY"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "SA",
+            "Hora": "10:00-12:00",
+            "Profesor": "MENDOZA CARDENAS, FREDY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Ciclo": 10,
+    "Codigo": "CIB28",
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "14:00-16:00",
+            "Profesor": "GAMARRA QUISPE, SEGUNDO"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "MI",
+            "Hora": "16:00-18:00",
+            "Profesor": "GAMARRA QUISPE, SEGUNDO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Ciclo": 8,
+    "Codigo": "EE225",
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "16:00-18:00",
+            "Profesor": "PALMA GARCIA, MODESTO TOMAS"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MI",
+            "Hora": "10:00-12:00",
+            "Profesor": "PALMA GARCIA, MODESTO TOMAS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Ciclo": 7,
+    "Codigo": "EE235",
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "JU",
+            "Hora": "13:00-16:00",
+            "Profesor": "CARRANZA AREVALO, MANUEL"
+          }
+        ]
+      },
+      {
+        "N": [
+          {
+            "Tipo": "T",
+            "Dia": "JU",
+            "Hora": "10:00-13:00",
+            "Profesor": "BRAVO BASALDUA, JAMES"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Ciclo": 10,
     "Codigo": "EE316",
-    "Secciones": {
-      "M": [
-        {
-          "Tipo": "T",
-          "Dia": "SA",
-          "Hora": "10:00-13:00",
-          "Profesor": "ANTARA ARIAS, RONAL"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "VI",
-          "Hora": "18:00-20:00",
-          "Profesor": "AGUILAR QUIROZ, RICARDO"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "SA",
+            "Hora": "10:00-13:00",
+            "Profesor": "ANTARA ARIAS, RONAL"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "20:00-22:00",
+            "Profesor": "AGUILAR QUIROZ, RICARDO"
+          }
+        ]
+      }
+    ]
   },
   {
-    "Ciclo": 11,
+    "Ciclo": 8,
     "Codigo": "EE336",
-    "Secciones": {
-      "M": [
-        {
-          "Tipo": "T",
-          "Dia": "LU",
-          "Hora": "16:00-19:00",
-          "Profesor": "YANQUE MONTUFAR, JUSTO"
-        },
-        {
-          "Tipo": "L",
-          "Dia": "LU",
-          "Hora": "14:00-16:00",
-          "Profesor": "YANQUE MONTUFAR, JUSTO / FARFAN"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "16:00-19:00",
+            "Profesor": "YANQUE MONTUFAR, JUSTO"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "LU",
+            "Hora": "14:00-16:00",
+            "Profesor": "YANQUE MONTUFAR, JUSTO / FARFAN"
+          }
+        ]
+      }
+    ]
   },
-  { "Ciclo": 11, "Codigo": "EE344", "Secciones": { "N": [] } },
-  { "Ciclo": 11, "Codigo": "EE346", "Secciones": { "N": [] } },
-  { "Ciclo": 11, "Codigo": "EE376", "Secciones": { "O": [] } },
-  { "Ciclo": 11, "Codigo": "EE385", "Secciones": { "O": [] } },
-  { "Ciclo": 11, "Codigo": "EE387", "Secciones": { "P": [] } },
-  { "Ciclo": 11, "Codigo": "EE469", "Secciones": { "P": [] } },
-  { "Ciclo": 11, "Codigo": "EE479", "Secciones": { "Q": [] } },
-  { "Ciclo": 11, "Codigo": "EE508", "Secciones": { "Q": [] } },
-  { "Ciclo": 11, "Codigo": "EE548", "Secciones": { "R": [] } },
-  { "Ciclo": 11, "Codigo": "EE585", "Secciones": { "R": [] } },
   {
-    "Ciclo": 11,
+    "Ciclo": 9,
+    "Codigo": "EE344",
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "JU",
+            "Hora": "8:00-10:00",
+            "Profesor": "CHACALIAZA HUAPAYA, LUIS"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "10:00-12:00",
+            "Profesor": "CHACALIAZA HUAPAYA, LUIS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Ciclo": 9,
+    "Codigo": "EE346",
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "JU",
+            "Hora": "16:00-19:00",
+            "Profesor": "HUAYLLASCO MONTALVA, CARLOS"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "18:00-20:00",
+            "Profesor": "MORENO CUEVA, CESAR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Ciclo": 10,
+    "Codigo": "EE376",
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "SA",
+            "Hora": "10;00-12;00",
+            "Profesor": "ARROYO ARANA, CARLOS ALBERTO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "JU",
+            "Hora": "14:00-16:00",
+            "Profesor": "VENTOSILLA ZEVALLOS, MOISES ODAVIO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Ciclo": 10,
+    "Codigo": "EE385",
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "14:00-17:00",
+            "Profesor": "SANDOVAL RODRIGUEZ, ALBERTO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Ciclo": 10,
+    "Codigo": "EE387",
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "16:00-18:00",
+            "Profesor": "ZORRILLA ACOSTA, JOSE ALBERTO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MA",
+            "Hora": "18:00-20:00",
+            "Profesor": "ZORRILLA ACOSTA, JOSE ALBERTO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Ciclo": 10,
+    "Codigo": "EE469",
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "14:00-16:00",
+            "Profesor": "BENITEZ PALACIOS, JOSE"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "VI",
+            "Hora": "16:00-18:00",
+            "Profesor": "BENITEZ PALACIOS, JOSE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Ciclo": 8,
+    "Codigo": "EE508",
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "18:00-20:00",
+            "Profesor": "LOPEZ TAFUR, MARCIAL ANTONIO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "20:00-22:00",
+            "Profesor": "LOPEZ TAFUR, MARCIAL ANTONIO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Ciclo": 10,
+    "Codigo": "EE548",
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "P",
+            "Dia": "LU",
+            "Hora": "14:00-16:00",
+            "Profesor": "TRONCOSO CASTRO, PAUL"
+          },
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "16:00-18:00",
+            "Profesor": "TRONCOSO CASTRO, PAUL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Ciclo": 8,
+    "Codigo": "EE585",
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "SA",
+            "Hora": "16:00-18:00",
+            "Profesor": "BEDRIÑANA ARONES, MANFRED FRITZ"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "VI",
+            "Hora": "15:00-17:00",
+            "Profesor": "BEDRIÑANA ARONES, MANFRED FRITZ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Ciclo": 7,
     "Codigo": "EE593",
-    "Secciones": {
-      "M": [
-        {
-          "Tipo": "T",
-          "Dia": "MI",
-          "Hora": "16:00-19:00",
-          "Profesor": "LOZANO SALAS, JULIO"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "MI",
-          "Hora": "19:00-21:00",
-          "Profesor": "LOZANO SALAS, JULIO"
-        }
-      ]
-    }
-  },
-  { "Ciclo": 11, "Codigo": "EE594", "Secciones": { "N": [] } },
-  { "Ciclo": 11, "Codigo": "EE596", "Secciones": { "O": [] } },
-  {
-    "Ciclo": 11,
-    "Codigo": "EE598",
-    "Secciones": {
-      "M": [
-        {
-          "Tipo": "T",
-          "Dia": "LU",
-          "Hora": "18:00-20:00",
-          "Profesor": "PATTRONI CHAVEZ,  ARMANDO"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "LU",
-          "Hora": "20:00-22:00",
-          "Profesor": "PATTRONI CHAVEZ,  ARMANDO"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "16:00-19:00",
+            "Profesor": "LOZANO SALAS, JULIO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MI",
+            "Hora": "19:00-21:00",
+            "Profesor": "LOZANO SALAS, JULIO"
+          }
+        ]
+      }
+    ]
   },
   {
-    "Ciclo": 11,
+    "Ciclo": 8,
+    "Codigo": "EE594",
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "16:00-18:00",
+            "Profesor": "LOPEZ TAFUR, MARCIAL ANTONIO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MI",
+            "Hora": "18:00-20:00",
+            "Profesor": "LOPEZ TAFUR, MARCIAL ANTONIO"
+          }
+        ]
+      }
+    ]
+  },
+  { 
+    "Ciclo": 8, 
+    "Codigo": "EE596", 
+    "Secciones": [
+        { 
+            "N": [
+                {
+                    "Tipo": "T",
+                    "Dia": "VI",
+                    "Hora": "18:00-20:00",
+                    "Profesor": "PATTRONI CHAVEZ,  ARMANDO"
+                },
+                {
+                    "Tipo": "P",
+                    "Dia": "VI",
+                    "Hora": "20:00-22:00",
+                    "Profesor": "PATTRONI CHAVEZ,  ARMANDO"
+                }
+            ] 
+        }
+        ] 
+    },
+  { 
+    "Ciclo": 8, 
+    "Codigo": "EE598", 
+    "Secciones": [
+        { 
+            "N": [
+                {
+                    "Tipo": "T",
+                    "Dia": "LU",
+                    "Hora": "18:00-20:00",
+                    "Profesor": "PATTRONI CHAVEZ,  ARMANDO"
+                },
+                {
+                    "Tipo": "T",
+                    "Dia": "LU",
+                    "Hora": "20:00-22:00",
+                    "Profesor": "PATTRONI CHAVEZ,  ARMANDO"
+                }
+            ] 
+        }
+        ] 
+    },
+  {
+    "Ciclo": 8,
     "Codigo": "EE621",
-    "Secciones": {
-      "M": [
-        {
-          "Tipo": "T",
-          "Dia": "MA",
-          "Hora": "19:00-22:00",
-          "Profesor": "AQUIZE PALACIOS, RUBEN"
-        },
-        {
-          "Tipo": "L",
-          "Dia": "JU",
-          "Hora": "18:00-20:00",
-          "Profesor": "AQUIZE PALACIOS, RUBEN"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "19:00-22:00",
+            "Profesor": "AQUIZE PALACIOS, RUBEN"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "JU",
+            "Hora": "18:00-20:00",
+            "Profesor": "AQUIZE PALACIOS, RUBEN"
+          }
+        ]
+      }
+    ]
   },
-  { "Ciclo": 11, "Codigo": "EE658", "Secciones": { "N": [] } },
-  { "Ciclo": 11, "Codigo": "EE672", "Secciones": { "N": [] } },
-  { "Ciclo": 11, "Codigo": "EE679", "Secciones": { "O": [] } },
-  { "Ciclo": 11, "Codigo": "EE681", "Secciones": { "O": [] } },
-  { "Ciclo": 11, "Codigo": "EE689", "Secciones": { "P": [] } },
-  { "Ciclo": 11, "Codigo": "EE693", "Secciones": { "P": [] } },
   {
-    "Ciclo": 11,
+    "Ciclo": 7,
+    "Codigo": "EE658",
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "SA",
+            "Hora": "10:00-12:00",
+            "Profesor": "SANTILLAN RAMOS, OSCAR RAMIRO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "SA",
+            "Hora": "12:00-14:00",
+            "Profesor": "SANTILLAN RAMOS, OSCAR RAMIRO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Ciclo": 8,
+    "Codigo": "EE672",
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "MA",
+            "Hora": "8:00-10:00",
+            "Profesor": "GONZALES FIGUEROA, RENATO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MA",
+            "Hora": "10:00-12:00",
+            "Profesor": "GONZALES FIGUEROA, RENATO"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "JU",
+            "Hora": "10:00-12:00",
+            "Profesor": "GONZALES FIGUEROA, RENATO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Ciclo": 10,
+    "Codigo": "EE679",
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "18:00-20:00",
+            "Profesor": "BAUTISTA RIOS, JUAN PABLO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MI",
+            "Hora": "20:00-22:00",
+            "Profesor": "BAUTISTA RIOS, JUAN PABLO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Ciclo": 8,
+    "Codigo": "EE681",
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "10:00-12:00",
+            "Profesor": "MORALES VILLANUEVA, AURELIO"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "VI",
+            "Hora": "8:00-10:00",
+            "Profesor": "MORALES VILLANUEVA, AURELIO"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "VI",
+            "Hora": "10:00-12:00",
+            "Profesor": "MORALES VILLANUEVA, AURELIO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Ciclo": 8,
+    "Codigo": "EE689",
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "JU",
+            "Hora": "18:00-20:00",
+            "Profesor": "BARRIGA HOYLE, JAVIER"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "JU",
+            "Hora": "20:00-22:00",
+            "Profesor": "BARRIGA HOYLE, JAVIER"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Ciclo": 8,
+    "Codigo": "EE693",
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "SA",
+            "Hora": "14:00-16:00",
+            "Profesor": "ALARCON MATUTTI, RUBEN VIRGILIO"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "SA",
+            "Hora": "12:00-14:00",
+            "Profesor": "ALARCON MATUTTI, RUBEN VIRGILIO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Ciclo": 9,
     "Codigo": "EE708",
-    "Secciones": {
-      "M": [
-        {
-          "Tipo": "T",
-          "Dia": "MI",
-          "Hora": "14:00-16:00",
-          "Profesor": "TRONCOSO CASTRO, PAUL"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "MI",
-          "Hora": "16:00-18:00",
-          "Profesor": "TRONCOSO CASTRO, PAUL"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "14:00-16:00",
+            "Profesor": "TRONCOSO CASTRO, PAUL"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MI",
+            "Hora": "16:00-18:00",
+            "Profesor": "TRONCOSO CASTRO, PAUL"
+          }
+        ]
+      }
+    ]
   },
   {
-    "Ciclo": 11,
+    "Ciclo": 10,
     "Codigo": "EE718",
-    "Secciones": {
-      "M": [
-        {
-          "Tipo": "T",
-          "Dia": "LU",
-          "Hora": "18:00-20:00",
-          "Profesor": "MACHUCA MINES, JOSE"
-        },
-        {
-          "Tipo": "P",
-          "Dia": "MI",
-          "Hora": "18:00-20:00",
-          "Profesor": "MACHUCA MINES, JOSE"
-        }
-      ]
-    }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora": "18:00-20:00",
+            "Profesor": "MACHUCA MINES, JOSE"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MI",
+            "Hora": "18:00-20:00",
+            "Profesor": "MACHUCA MINES, JOSE"
+          }
+        ]
+      }
+    ]
   },
   {
-    "Ciclo": 11,
+    "Ciclo": 6,
     "Codigo": "IP101",
-    "Secciones": {
-      "N": [
-        {
-          "Tipo": "T",
-          "Dia": "VI",
-          "Hora": "16:00-18:00",
-          "Profesor": "FERNANDEZ MALPARTIDA, WALTER MIGUEL"
-        }
-      ]
-    }
-  },
-  { "Ciclo": 11, "Codigo": "IT557", "Secciones": { "N": [] } }
+    "Secciones": [
+      {
+        "M": [
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "14:00-16:00",
+            "Profesor": "FERNANDEZ MALPARTIDA, WALTER MIGUEL"
+          }
+        ]
+      }
+    ]
+  }
 ]

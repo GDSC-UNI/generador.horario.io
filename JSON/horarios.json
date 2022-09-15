@@ -501,7 +501,7 @@
       "T",
       "LU",
       "10:00-13:00",
-      "RAMIREZ GUTIERREZ, ANGEL",
+      "NN",
       "PRIMER CICLO"
     ],
     [
@@ -511,7 +511,7 @@
       "P",
       "JU",
       "11:00-13:00",
-      "RAMIREZ GUTIERREZ, ANGEL",
+      "NN",
       "PRIMER CICLO"
     ],
     [
@@ -995,6 +995,26 @@
       "SEGUNDO CICLO"
     ],
     [
+      "BMA09",
+      "ALGORITMOS Y ESTRUCTURA DE DATOS I",
+      "S",
+      "T",
+      "JU",
+      "16:00-18:00",
+      "NN",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BMA09",
+      "ALGORITMOS Y ESTRUCTURA DE DATOS I",
+      "S",
+      "L",
+      "JU",
+      "20:00-22:00",
+      "NN",
+      "SEGUNDO CICLO"
+    ],
+    [
       "BQU01",
       "QUÍMICA I",
       "M",
@@ -1021,7 +1041,7 @@
       "P",
       "JU",
       "8:00-10:00",
-      "RODRIGUEZ MORALES, MARIA / MEDINA, RAQUEL",
+      "GARAY CAUTI, ZOILA / MEDINA, RAQUEL",
       "SEGUNDO CICLO"
     ],
     [
@@ -1031,7 +1051,7 @@
       "L",
       "JU",
       "14:00-16:00",
-      "MEDINA RODRIGUEZ, RAQUEL / RODRIGUEZ, MARIA",
+      "MEDINA RODRIGUEZ, RAQUEL / GARAY, ZOILA",
       "SEGUNDO CICLO"
     ],
     [
@@ -1061,7 +1081,7 @@
       "P",
       "JU",
       "8:00-10:00",
-      "GARAY CAUTI, ZOILA / MEDINA RAQUEL",
+      "RODRIGUEZ MORALES, MARIA / MEDINA RAQUEL",
       "SEGUNDO CICLO"
     ],
     [
@@ -1071,7 +1091,7 @@
       "L",
       "JU",
       "8:00-10:00",
-      "MEDINA RODRIGUEZ, RAQUEL / GARAY, ZOILA",
+      "MEDINA RODRIGUEZ, RAQUEL / RODRIGUEZ, MARIA",
       "SEGUNDO CICLO"
     ],
     [
@@ -1112,6 +1132,66 @@
       "JU",
       "10:00-12:00",
       "GARAY CAUTI, ZOILA / RODRIGUEZ, MARIA",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BRC01",
+      "REDACCION Y COMUNICACION",
+      "M",
+      "T",
+      "JU",
+      "16:00-17:00",
+      "LEÓN CONTRERAS IRAIDA ARLENE",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BRC01",
+      "REDACCION Y COMUNICACION",
+      "M",
+      "P",
+      "JU",
+      "17:00-19:00",
+      "LEÓN CONTRERAS IRAIDA ARLENE",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BRC01",
+      "REDACCION Y COMUNICACION",
+      "N",
+      "T",
+      "MI",
+      "16:00-17:00",
+      "LEÓN CONTRERAS IRAIDA ARLENE",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BRC01",
+      "REDACCION Y COMUNICACION",
+      "N",
+      "P",
+      "MI",
+      "17:00-19:00",
+      "LEÓN CONTRERAS IRAIDA ARLENE",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BRC01",
+      "REDACCION Y COMUNICACION",
+      "O",
+      "T",
+      "LU",
+      "16:00-17:00",
+      "LEÓN CONTRERAS IRAIDA ARLENE",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BRC01",
+      "REDACCION Y COMUNICACION",
+      "O",
+      "P",
+      "LU",
+      "17:00-19:00",
+      "LEÓN CONTRERAS IRAIDA ARLENE",
       "SEGUNDO CICLO"
     ],
     [
@@ -1211,7 +1291,7 @@
       "T",
       "MA",
       "10:00-12:00",
-      "NN",
+      "VERA RONCALLA, CESAR",
       "TERCER CICLO"
     ],
     [
@@ -1221,7 +1301,7 @@
       "P",
       "VI",
       "14:00-16:00",
-      "NN",
+      "VERA RONCALLA, CESAR",
       "TERCER CICLO"
     ],
     [
@@ -1231,7 +1311,7 @@
       "T",
       "JU",
       "16:00-18:00",
-      "NN",
+      "HUMALA TASSO, ULISES",
       "TERCER CICLO"
     ],
     [
@@ -1241,7 +1321,7 @@
       "P",
       "VI",
       "14:00-16:00",
-      "NN",
+      "HUMALA TASSO, ULISES",
       "TERCER CICLO"
     ],
     [
@@ -1251,7 +1331,7 @@
       "T",
       "JU",
       "10:00-12:00",
-      "NN",
+      "CLAVIJO RAMOS, RAUL",
       "TERCER CICLO"
     ],
     [
@@ -1261,7 +1341,7 @@
       "P",
       "VI",
       "14:00-16:00",
-      "NN",
+      "CLAVIJO RAMOS, RAUL",
       "TERCER CICLO"
     ],
     [
@@ -1371,7 +1451,7 @@
       "P",
       "MI",
       "8:00-10:00",
-      "QUIJADA",
+      "QUIJADA ORELLANA, SAMUEL",
       "TERCER CICLO"
     ],
     [
@@ -1381,7 +1461,7 @@
       "L",
       "MI",
       "16:00-18:00",
-      "QUIJADA",
+      "QUIJADA ORELLANA, SAMUEL",
       "TERCER CICLO"
     ],
     [
@@ -1861,7 +1941,7 @@
       "P",
       "JU",
       "8:00-10:00",
-      "QUIJADA",
+      "QUIJADA ORELLANA, SAMUEL",
       "CUARTO CICLO"
     ],
     [
@@ -1910,7 +1990,7 @@
       "M",
       "T",
       "VI",
-      "16:00-19:00",
+      "10:00-13:00",
       "ROJAS CERNA, VICTOR",
       "CUARTO CICLO"
     ],
@@ -2051,7 +2131,7 @@
       "P",
       "MA",
       "14:00-16:00",
-      "RAMIREZ GUTIERREZ, ANGEL",
+      "NN",
       "CUARTO CICLO"
     ],
     [
@@ -2191,7 +2271,7 @@
       "P",
       "VI",
       "14:00-16:00",
-      "NN",
+      "YACOLCA CRUZADO, Fidel Segundo",
       "CUARTO CICLO"
     ],
     [
@@ -2250,7 +2330,7 @@
       "O",
       "T",
       "VI",
-      "17:00-20:00",
+      "8:00-11:00",
       "VALENCIA MIRANDA, ANGEL",
       "CUARTO CICLO"
     ],
@@ -2289,8 +2369,8 @@
       "ANALISIS DE SEÑALES Y SISTEMAS",
       "Q",
       "T",
-      "LU",
-      "14:00-17:00",
+      "JU",
+      "8:00-11:00",
       "VALENCIA MIRANDA, ANGEL",
       "CUARTO CICLO"
     ],
@@ -2350,9 +2430,9 @@
       "M",
       "T",
       "LU",
-      "17:00-20:00",
+      "14:00-17:00",
       "VALENCIA MIRANDA, ANGEL",
-      "ELECTIVO"
+      "QUINTO CICLO"
     ],
     [
       "BMA22",
@@ -2360,9 +2440,9 @@
       "M",
       "P",
       "VI",
-      "14:00-16:00",
+      "12:00-14:00",
       "VALENCIA MIRANDA, ANGEL",
-      "ELECTIVO"
+      "QUINTO CICLO"
     ],
     [
       "EE418",
@@ -2399,8 +2479,8 @@
       "DISPOSITIVOS Y CIRCUITOS ELECTRONICOS I",
       "N",
       "P",
-      "VI",
-      "8:00-10:00",
+      "SA",
+      "10:00-12:00",
       "ALBURQUEQUE VALDIVIA MARLON",
       "QUINTO CICLO"
     ],
@@ -2501,7 +2581,7 @@
       "P",
       "JU",
       "14:00-16:00",
-      "NN",
+      "YACOLCA CRUZADO, Fidel Segundo",
       "QUINTO CICLO"
     ],
     [
@@ -2779,8 +2859,8 @@
       "SISTEMAS DE CONTROL I",
       "P",
       "P",
-      "MA",
-      "16:00-18:00",
+      "LU",
+      "18:00-20:00",
       "VALENZUELA DE LA CRUZ, BASILIO",
       "QUINTO CICLO"
     ],
@@ -2849,8 +2929,8 @@
       "MEDIDAS ELECTRICAS I",
       "N",
       "T",
-      "MA",
-      "16:00-18:00",
+      "VI",
+      "8:00-10:00",
       "YANQUE TOMASEVICH, IVANKO",
       "SEXTO CICLO"
     ],
@@ -2859,8 +2939,8 @@
       "MEDIDAS ELECTRICAS I",
       "N",
       "L",
-      "JU",
-      "16:00-18:00",
+      "VI",
+      "11:00-13:00",
       "YANQUE TOMASEVICH, IVANKO",
       "SEXTO CICLO"
     ],
@@ -2952,7 +3032,7 @@
       "LU",
       "14:00-16:00",
       "PERALTA ALFEREZ, FRANS",
-      "QUINTO CICLO"
+      "SEXTO CICLO"
     ],
     [
       "EE430",
@@ -2962,7 +3042,7 @@
       "VI",
       "18:00-20:00",
       "JIMENEZ HEREDIA ELADIO ",
-      "QUINTO CICLO"
+      "SEXTO CICLO"
     ],
     [
       "EE430",
@@ -2972,7 +3052,7 @@
       "MA",
       "8:00-10:00",
       "ROMERO FUENTES, VIRGINIA",
-      "QUINTO CICLO"
+      "SEXTO CICLO"
     ],
     [
       "EE430",
@@ -2982,7 +3062,7 @@
       "VI",
       "16:00-18:00",
       "PERALTA ALFEREZ, FRANS",
-      "QUINTO CICLO"
+      "SEXTO CICLO"
     ],
     [
       "EE430",
@@ -2992,7 +3072,7 @@
       "VI",
       "20:00-22:00",
       "JIMENEZ HEREDIA ELADIO ",
-      "QUINTO CICLO"
+      "SEXTO CICLO"
     ],
     [
       "EE430",
@@ -3002,7 +3082,7 @@
       "MA",
       "10:00-12:00",
       "ROMERO FUENTES, VIRGINIA",
-      "QUINTO CICLO"
+      "SEXTO CICLO"
     ],
     [
       "EE430",
@@ -3012,7 +3092,7 @@
       "VI",
       "18:00-20:00",
       "SANTILLAN RAMOS, OSCAR RAMIRO",
-      "QUINTO CICLO"
+      "SEXTO CICLO"
     ],
     [
       "EE430",
@@ -3022,7 +3102,7 @@
       "MA",
       "20:00-22:00",
       "JIMENEZ HEREDIA ELADIO ",
-      "QUINTO CICLO"
+      "SEXTO CICLO"
     ],
     [
       "EE430",
@@ -3032,7 +3112,7 @@
       "MA",
       "18:00-20:00",
       "JIMENEZ HEREDIA ELADIO ",
-      "QUINTO CICLO"
+      "SEXTO CICLO"
     ],
     [
       "EE438",
@@ -3042,7 +3122,7 @@
       "LU",
       "19:00-22:00",
       "LOPEZ ARAMBURU, FERNANDO",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE438",
@@ -3052,7 +3132,7 @@
       "SA",
       "8:00-10:00",
       "LOPEZ ARAMBURU, FERNANDO",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE438",
@@ -3062,7 +3142,7 @@
       "SA",
       "13:00-16:00",
       "LOPEZ ARAMBURU, FERNANDO",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE438",
@@ -3072,7 +3152,7 @@
       "VI",
       "20:00-22:00",
       "LOPEZ ARAMBURU, FERNANDO",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE438",
@@ -3082,7 +3162,7 @@
       "MI",
       "10:00-13:00",
       "NUÑEZ CARRILLO, RICARDO",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE438",
@@ -3092,7 +3172,7 @@
       "SA",
       "10:00-12:00",
       "LOPEZ ARAMBURU, FERNANDO",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE449",
@@ -3102,7 +3182,7 @@
       "MA",
       "16:00-18:00",
       "ROMERO GOYTENDIA, LUIS MIGUEL",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE449",
@@ -3112,7 +3192,7 @@
       "JU",
       "16:00-18:00",
       "ROMERO GOYTENDIA, LUIS MIGUEL",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE458",
@@ -3122,7 +3202,7 @@
       "MI",
       "14:00-16:00",
       "FLORES ATOCHE, BEAU",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE458",
@@ -3132,7 +3212,7 @@
       "JU",
       "14:00-16:00",
       "FLORES ATOCHE, BEAU",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE458",
@@ -3142,7 +3222,7 @@
       "MA",
       "8:00-10:00",
       "ALBURQUEQUE GUERRERO, ANGEL",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE458",
@@ -3152,7 +3232,7 @@
       "MA",
       "10:00-12:00",
       "ALBURQUEQUE GUERRERO, ANGEL",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE458",
@@ -3162,7 +3242,7 @@
       "MA",
       "14:00-16:00",
       "ROMERO FUENTES, VIRGINIA",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE458",
@@ -3172,7 +3252,7 @@
       "MA",
       "12:00-14:00",
       "NUÑEZ CARRILLO, RICARDO",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE588",
@@ -3182,7 +3262,7 @@
       "MA",
       "14:00-17:00",
       "DELGADO LEON, MIGUEL",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE588",
@@ -3192,7 +3272,7 @@
       "MI",
       "17:00-19:00",
       "DELGADO LEON, MIGUEL",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE588",
@@ -3202,7 +3282,7 @@
       "LU",
       "11:00-14:00",
       "CAJAHUARINGA CAMACO, ARMANDO",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE588",
@@ -3212,7 +3292,7 @@
       "JU",
       "18:00-20:00",
       "CORDOVA BERNUY, VICTOR",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE588",
@@ -3222,7 +3302,7 @@
       "SA",
       "8:00-11:00",
       "ALVAREZ MONTOYA, JUAN",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE588",
@@ -3232,7 +3312,7 @@
       "MI",
       "20:00-22:00",
       "CORDOVA BERNUY, VICTOR",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE588",
@@ -3242,7 +3322,7 @@
       "SA",
       "11:00- 14:00",
       "ALVAREZ MONTOYA, JUAN",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE588",
@@ -3252,7 +3332,7 @@
       "JU",
       "20:00-22:00",
       "ALVAREZ MONTOYA, JUAN",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE604",
@@ -3262,7 +3342,7 @@
       "MA",
       "13:00-15:00",
       "ESTRADA MONTES, JOSE ALFREDO",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE604",
@@ -3272,7 +3352,7 @@
       "MA",
       "15:00-17:00",
       "ESTRADA MONTES, JOSE ALFREDO",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE604",
@@ -3282,7 +3362,7 @@
       "MI",
       "13:00-15:00",
       "GALVEZ LEGUA, MAURICIO PEDRO",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE604",
@@ -3292,7 +3372,7 @@
       "MI",
       "15:00-17:00",
       "GALVEZ LEGUA, MAURICIO PEDRO",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE604",
@@ -3302,7 +3382,7 @@
       "VI",
       "18:00-20:00",
       "BARRIGA HOYLE, JAVIER",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE604",
@@ -3312,7 +3392,7 @@
       "VI",
       "20:00-22:00",
       "BARRIGA HOYLE, JAVIER",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE604",
@@ -3322,7 +3402,7 @@
       "MI",
       "8:00-10:00",
       "MORALES VILLANUEVA, AURELIO",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE604",
@@ -3332,7 +3412,7 @@
       "MI",
       "20:00-22:00",
       "NN",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE604",
@@ -3342,7 +3422,7 @@
       "LU",
       "8:00-10:00",
       "MORALES VILLANUEVA, AURELIO",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE604",
@@ -3352,7 +3432,7 @@
       "LU",
       "10:00-12:00",
       "MORALES VILLANUEVA, AURELIO",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE604",
@@ -3362,7 +3442,7 @@
       "JU",
       "16:00-18:00",
       "ESTRADA MONTES, JOSE ALFREDO",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE604",
@@ -3372,7 +3452,7 @@
       "JU",
       "18:00-20:00",
       "ESTRADA MONTES, JOSE ALFREDO",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE648",
@@ -3382,7 +3462,7 @@
       "LU",
       "16:00-18:00",
       "CARBONEL OLAZABAL, DANIEL",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE648",
@@ -3392,17 +3472,17 @@
       "VI",
       "8:00-10:00",
       "RAMIREZ HUAMAN, LUIS ENRIQUE",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE648",
       "SISTEMAS DE CONTROL II",
       "M",
       "L",
-      "MA",
-      "10:00-12:00",
+      "MI",
+      "16:00-18:00",
       "VALENZUELA DE LA CRUZ, BASILIO",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE648",
@@ -3412,17 +3492,17 @@
       "LU",
       "14:00-16:00",
       "CARBONEL OLAZABAL, DANIEL",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE648",
       "SISTEMAS DE CONTROL II",
       "N",
       "P",
-      "MI",
-      "10:00-12:00",
+      "LU",
+      "8:00-10:00",
       "RAMIREZ HUAMAN, LUIS ENRIQUE",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE648",
@@ -3432,7 +3512,7 @@
       "MI",
       "10:00-12:00",
       "VALENZUELA DE LA CRUZ, BASILIO",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE648",
@@ -3442,7 +3522,7 @@
       "LU",
       "16:00-18:00",
       "MACHUCA MINES, JOSE",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE648",
@@ -3452,7 +3532,7 @@
       "LU",
       "8:00-10:00",
       "RAMIREZ HUAMAN, LUIS ENRIQUE",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE648",
@@ -3462,7 +3542,7 @@
       "LU",
       "12:00-14:00",
       "VALENZUELA DE LA CRUZ, BASILIO",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE648",
@@ -3472,27 +3552,27 @@
       "MI",
       "14:00-16:00",
       "MACHUCA MINES, JOSE",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE648",
       "SISTEMAS DE CONTROL II",
       "P",
       "P",
-      "VI",
-      "12:00-14:00",
+      "SA",
+      "8:00-10:00",
       "ALBURQUEQUE VALDIVIA MARLON",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE648",
       "SISTEMAS DE CONTROL II",
       "P",
       "L",
-      "LU",
-      "16:00-18:00",
+      "SA",
+      "14:00-16:00",
       "ALBURQUEQUE VALDIVIA MARLON",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE648",
@@ -3502,7 +3582,7 @@
       "JU",
       "14:00-16:00",
       "CARBONEL OLAZABAL, DANIEL",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE648",
@@ -3512,17 +3592,17 @@
       "JU",
       "11:00-13:00",
       "CARBONEL OLAZABAL, DANIEL",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE648",
       "SISTEMAS DE CONTROL II",
       "Q",
       "L",
-      "LU",
-      "14:00-16:00",
+      "SA",
+      "16:00-18:00",
       "ALBURQUEQUE VALDIVIA MARLON",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "EE239",
@@ -3530,7 +3610,7 @@
       "M",
       "T",
       "VI",
-      "0:00-12:00",
+      "10:00-12:00",
       "SANDOVAL RODRIGUEZ, ALBERTO",
       "SEPTIMO CICLO"
     ],
@@ -3630,7 +3710,7 @@
       "N",
       "P",
       "JU",
-      "16:00-18:00",
+      "20:00-22:00",
       "ROJAS MIRANDA, LUIS",
       "SEPTIMO CICLO"
     ],
@@ -3660,7 +3740,7 @@
       "N",
       "T",
       "VI",
-      "15:00-18:00",
+      "17:00-20:00",
       "BEDRIÑANA ARONES, MANFRED FRITZ",
       "SEPTIMO CICLO"
     ],
@@ -3670,7 +3750,7 @@
       "N",
       "P",
       "SA",
-      "18:00-20:00",
+      "14:00-16:00",
       "BEDRIÑANA ARONES, MANFRED FRITZ",
       "SEPTIMO CICLO"
     ],
@@ -3682,7 +3762,7 @@
       "LU",
       "18:00-20:00",
       "DIAZ ATAUCURI, DANIEL",
-      "ELECTIVO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE467",
@@ -3692,7 +3772,7 @@
       "LU",
       "20:00-22:00",
       "DIAZ ATAUCURI, DANIEL",
-      "ELECTIVO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE467",
@@ -3702,7 +3782,7 @@
       "SA",
       "14:00-16:00",
       "DIAZ ATAUCURI, DANIEL",
-      "ELECTIVO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE467",
@@ -3712,7 +3792,7 @@
       "SA",
       "16:00-18:00",
       "DIAZ ATAUCURI, DANIEL",
-      "ELECTIVO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE528",
@@ -3741,7 +3821,7 @@
       "L",
       "JU",
       "10:00-12:00",
-      "GUTIERREZ  PAUCAR , AGUSTIN / BRAVO",
+      "GUTIERREZ  PAUCAR , AGUSTIN",
       "SEPTIMO CICLO"
     ],
     [
@@ -3779,9 +3859,9 @@
       "SISTEMAS DE COMUNICACIONES II",
       "M",
       "T",
-      "VI",
-      "20:00-22:00",
-      "SANTILLAN RAMOS, OSCAR RAMIRO",
+      "LU",
+      "16:00-18:00",
+      "PERALTA ALFEREZ, FRANS",
       "SEPTIMO CICLO"
     ],
     [
@@ -3880,8 +3960,8 @@
       "P",
       "P",
       "VI",
-      "16:00-18:00",
-      "JIMENEZ HEREDIA ELADIO ",
+      "20:00-22:00",
+      "SANTILLAN RAMOS, OSCAR RAMIRO",
       "SEPTIMO CICLO"
     ],
     [
@@ -3889,7 +3969,7 @@
       "SISTEMAS DE COMUNICACIONES II",
       "P",
       "L",
-      "LU",
+      "VI",
       "16:00-18:00",
       "JIMENEZ HEREDIA ELADIO ",
       "SEPTIMO CICLO"
@@ -3932,7 +4012,7 @@
       "MI",
       "16:00-19:00",
       "MORENO MARTINEZ, RODOLFO MANUEL",
-      "OCTAVO CICLO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE532",
@@ -3942,7 +4022,7 @@
       "MA",
       "15:00-17:00",
       "MORENO MARTINEZ, RODOLFO MANUEL",
-      "OCTAVO CICLO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE532",
@@ -3952,7 +4032,7 @@
       "MA",
       "10:00-12:00",
       "NUÑEZ CARRILLO, RICARDO",
-      "OCTAVO CICLO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE532",
@@ -3962,7 +4042,7 @@
       "SA",
       "8:00-11:00",
       "NUÑEZ ZUÑIGA, TERESA ESTHER",
-      "OCTAVO CICLO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE532",
@@ -3972,7 +4052,7 @@
       "LU",
       "18:00-20:00",
       "NUÑEZ ZUÑIGA, TERESA ESTHER",
-      "OCTAVO CICLO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE532",
@@ -3982,7 +4062,7 @@
       "LU",
       "16:00-18:00",
       "NUÑEZ ZUÑIGA, TERESA ESTHER",
-      "OCTAVO CICLO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE532",
@@ -3992,7 +4072,7 @@
       "VI",
       "16:00-19:00",
       "MORENO MARTINEZ, RODOLFO MANUEL",
-      "OCTAVO CICLO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE532",
@@ -4002,7 +4082,7 @@
       "LU",
       "12:00-14:00",
       "NUÑEZ CARRILLO, RICARDO",
-      "OCTAVO CICLO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE532",
@@ -4012,7 +4092,7 @@
       "JU",
       "12:00-14:00",
       "NUÑEZ CARRILLO, RICARDO",
-      "OCTAVO CICLO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE532",
@@ -4022,7 +4102,7 @@
       "MI",
       "8:00-11:00",
       "TISZA CONTRERAS, JUAN",
-      "OCTAVO CICLO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE532",
@@ -4032,7 +4112,7 @@
       "MI",
       "11:00-13:00",
       "TISZA CONTRERAS, JUAN",
-      "OCTAVO CICLO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE532",
@@ -4042,7 +4122,7 @@
       "VI",
       "12:00-14:00",
       "RAMIREZ HUAMAN, LUIS ENRIQUE",
-      "OCTAVO CICLO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE590",
@@ -4052,7 +4132,7 @@
       "LU",
       "18:00-20:00",
       "BELLEZA ZAMORA, EDUARDO",
-      "ELECTIVO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE590",
@@ -4062,7 +4142,7 @@
       "LU",
       "20:00-22:00",
       "BELLEZA ZAMORA, EDUARDO",
-      "ELECTIVO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE590",
@@ -4072,7 +4152,7 @@
       "SA",
       "10:00-12:00",
       "BELLEZA ZAMORA, EDUARDO",
-      "ELECTIVO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE590",
@@ -4082,7 +4162,7 @@
       "VI",
       "18:00-20:00",
       "BELLEZA ZAMORA, EDUARDO",
-      "ELECTIVO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE590",
@@ -4092,7 +4172,7 @@
       "VI",
       "20:00-22:00",
       "BELLEZA ZAMORA, EDUARDO",
-      "ELECTIVO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE590",
@@ -4102,7 +4182,7 @@
       "SA",
       "8:00-10:00",
       "BELLEZA ZAMORA, EDUARDO",
-      "ELECTIVO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE644",
@@ -4112,7 +4192,7 @@
       "VI",
       "8:00-10:00",
       "DIAZ ALIAGA, JULIO",
-      "ELECTIVO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE644",
@@ -4122,7 +4202,7 @@
       "VI",
       "14:00-16:00",
       "DIAZ ALIAGA, JULIO",
-      "ELECTIVO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE644",
@@ -4132,7 +4212,7 @@
       "VI",
       "10:00-12:00",
       "DIAZ ALIAGA, JULIO",
-      "ELECTIVO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE644",
@@ -4142,7 +4222,7 @@
       "MI",
       "10:00-12:00",
       "BRICEÑO ARANDA, CESAR",
-      "ELECTIVO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE644",
@@ -4152,7 +4232,7 @@
       "VI",
       "14:00-16:00",
       "BRICEÑO ARANDA, CESAR",
-      "ELECTIVO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE644",
@@ -4162,7 +4242,7 @@
       "VI",
       "16:00-18:00",
       "BRICEÑO ARANDA, CESAR",
-      "ELECTIVO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE644",
@@ -4172,7 +4252,7 @@
       "LU",
       "18:00-20:00",
       "PISCOYA SILVA, ULISES",
-      "ELECTIVO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE644",
@@ -4182,7 +4262,7 @@
       "VI",
       "14:00-16:00",
       "PISCOYA SILVA, ULISES",
-      "ELECTIVO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE644",
@@ -4192,7 +4272,7 @@
       "MA",
       "16:00-18:00",
       "PISCOYA SILVA, ULISES",
-      "ELECTIVO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE678",
@@ -4202,7 +4282,7 @@
       "MI",
       "14:00-16:00",
       "MEDINA RAMOS, CARLOS",
-      "ELECTIVO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE678",
@@ -4212,7 +4292,7 @@
       "MI",
       "16:00-18:00",
       "MEDINA RAMOS, CARLOS",
-      "ELECTIVO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE678",
@@ -4222,7 +4302,7 @@
       "LU",
       "14:00-16:00",
       "CORDOVA BERNUY, VICTOR",
-      "ELECTIVO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE678",
@@ -4232,7 +4312,7 @@
       "LU",
       "14:00-16:00",
       "MEDINA RAMOS, CARLOS",
-      "ELECTIVO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE678",
@@ -4242,7 +4322,7 @@
       "LU",
       "10:00-12:00",
       "RAMIREZ HUAMAN, LUIS ENRIQUE",
-      "ELECTIVO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE678",
@@ -4252,7 +4332,7 @@
       "VI",
       "10:00-12:00",
       "RAMIREZ HUAMAN, LUIS ENRIQUE",
-      "ELECTIVO"
+      "SEPTIMO CICLO"
     ],
     [
       "BEG06",
@@ -4320,7 +4400,7 @@
       "P",
       "T",
       "MI",
-      "0:00-12:00",
+      "10:00-12:00",
       "SANDOVAL RODRIGUEZ, ALBERTO",
       "OCTAVO CICLO"
     ],
@@ -4392,7 +4472,7 @@
       "JU",
       "19:00-22:00",
       "RAMIREZ ARCELLES, ROBERTO",
-      "ELECTIVO"
+      "OCTAVO CICLO"
     ],
     [
       "EE375",
@@ -4402,7 +4482,7 @@
       "MI",
       "20:00-22:00",
       "RAMIREZ ARCELLES, ROBERTO",
-      "ELECTIVO"
+      "OCTAVO CICLO"
     ],
     [
       "EE393",
@@ -4429,8 +4509,8 @@
       "LINEAS DE TRANSMISION DE POTENCIA",
       "N",
       "T",
-      "LU",
-      "20:00-22:00",
+      "VI",
+      "16:00-18:00",
       "MORENO CUEVA, CESAR",
       "OCTAVO CICLO"
     ],
@@ -4462,6 +4542,46 @@
       "JU",
       "20:00-22:00",
       "MENDOZA CARDENAS, FREDY",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE470",
+      "INSTALACIONES ELECTRICAS INDUSTRIALES",
+      "M",
+      "T",
+      "MA",
+      "14:00-17:00",
+      "ROSADO AGUIRRE, ESTANISLAO UBALDO",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE470",
+      "INSTALACIONES ELECTRICAS INDUSTRIALES",
+      "M",
+      "P",
+      "JU",
+      "14:00-16:00",
+      "ROSADO AGUIRRE, ESTANISLAO UBALDO",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE470",
+      "INSTALACIONES ELECTRICAS INDUSTRIALES",
+      "N",
+      "T",
+      "JU",
+      "10:00-13:00",
+      "ROSADO AGUIRRE, ESTANISLAO UBALDO",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE470",
+      "INSTALACIONES ELECTRICAS INDUSTRIALES",
+      "N",
+      "P",
+      "MA",
+      "17:00-19:00",
+      "ROSADO AGUIRRE, ESTANISLAO UBALDO",
       "OCTAVO CICLO"
     ],
     [
@@ -4666,7 +4786,7 @@
     ],
     [
       "EE445",
-      "PROYECTO FIN DE CARRERA (L2,L3)",
+      "PROYECTO FIN DE CARRERA (L1)",
       "R",
       "T",
       "MA",
@@ -4676,7 +4796,7 @@
     ],
     [
       "EE445",
-      "PROYECTO FIN DE CARRERA (L2,L3)",
+      "PROYECTO FIN DE CARRERA (L1)",
       "R",
       "L",
       "MI",
@@ -4790,8 +4910,38 @@
       "N",
       "P",
       "VI",
-      "20:00-22:00",
+      "18:00-20:00",
       "AGUILAR QUIROZ, RICARDO",
+      "NOVENO CICLO"
+    ],
+    [
+      "EE698",
+      "LABORATORIO DE SISTEMAS ELECTRICOS DE POTENCIA",
+      "M",
+      "L",
+      "MA",
+      "14:00-16:00",
+      "MEDINA RAMIREZ, JOSE AGUSTIN",
+      "NOVENO CICLO"
+    ],
+    [
+      "EE698",
+      "LABORATORIO DE SISTEMAS ELECTRICOS DE POTENCIA",
+      "N",
+      "L",
+      "JU",
+      "14:00-16:00",
+      "NN",
+      "NOVENO CICLO"
+    ],
+    [
+      "EE698",
+      "LABORATORIO DE SISTEMAS ELECTRICOS DE POTENCIA",
+      "O",
+      "L",
+      "VI",
+      "14:00-16:00",
+      "NN",
       "NOVENO CICLO"
     ],
     [
@@ -4819,9 +4969,9 @@
       "PROYECTO DE TESIS (L1)",
       "N",
       "T",
-      "MA",
-      "18:00-20:00",
-      "NN",
+      "VI",
+      "14:00-16:00",
+      "YANQUE TOMASEVICH, IVANKO",
       "DECIMO CICLO"
     ],
     [
@@ -5002,7 +5152,7 @@
       "LU",
       "8:00-10:00",
       "ROJAS VILLANUEVA, UWE",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "BMA20",
@@ -5012,7 +5162,7 @@
       "LU",
       "10:00-12:00",
       "ROJAS VILLANUEVA, UWE",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "BMA20",
@@ -5022,7 +5172,7 @@
       "MI",
       "18:00-20:00",
       "BENITEZ PALACIOS, JOSE",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "BMA20",
@@ -5032,7 +5182,47 @@
       "MI",
       "20:00-22:00",
       "BENITEZ PALACIOS, JOSE",
-      "ELECTIVO"
+      "SEXTO CICLO"
+    ],
+    [
+      "BMA20",
+      "ALGORITMOS Y ESTRUCTURAS DE DATOS II",
+      "O",
+      "T",
+      "JU",
+      "8:00-10:00",
+      "NN",
+      "SEXTO CICLO"
+    ],
+    [
+      "BMA20",
+      "ALGORITMOS Y ESTRUCTURAS DE DATOS II",
+      "O",
+      "L",
+      "JU",
+      "10:00-12:00",
+      "NN",
+      "SEXTO CICLO"
+    ],
+    [
+      "BMA20",
+      "ALGORITMOS Y ESTRUCTURAS DE DATOS II",
+      "P",
+      "T",
+      "LU",
+      "18:00-20:00",
+      "NN",
+      "SEXTO CICLO"
+    ],
+    [
+      "BMA20",
+      "ALGORITMOS Y ESTRUCTURAS DE DATOS II",
+      "P",
+      "L",
+      "LU",
+      "20:00-22:00",
+      "NN",
+      "SEXTO CICLO"
     ],
     [
       "BRN93",
@@ -5042,7 +5232,7 @@
       "SA",
       "10:00-12:00",
       "SALVADOR JACOME, LEONCIO JULIO",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "BRN93",
@@ -5052,7 +5242,7 @@
       "SA",
       "12:00- 14:00",
       "SALVADOR JACOME, LEONCIO JULIO",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "CIB02",
@@ -5062,7 +5252,7 @@
       "LU",
       "14:00-16:00",
       "GALVEZ LEGUA, MAURICIO PEDRO",
-      "ELECTIVO"
+      "OCTAVO CICLO"
     ],
     [
       "CIB02",
@@ -5072,7 +5262,7 @@
       "LU",
       "16:00-18:00",
       "GALVEZ LEGUA, MAURICIO PEDRO",
-      "ELECTIVO"
+      "OCTAVO CICLO"
     ],
     [
       "CIB02",
@@ -5082,7 +5272,7 @@
       "VI",
       "8:00-10:00",
       "GALVEZ LEGUA, MAURICIO PEDRO",
-      "ELECTIVO"
+      "OCTAVO CICLO"
     ],
     [
       "CIB02",
@@ -5092,7 +5282,7 @@
       "VI",
       "10:00-12:00",
       "GALVEZ LEGUA, MAURICIO PEDRO",
-      "ELECTIVO"
+      "OCTAVO CICLO"
     ],
     [
       "CIB12",
@@ -5102,7 +5292,7 @@
       "MI",
       "14:00-16:00",
       "PIZAN TOSCANO, LUPE NERIDA",
-      "ELECTIVO"
+      "OCTAVO CICLO"
     ],
     [
       "CIB12",
@@ -5112,7 +5302,7 @@
       "VI",
       "16:00-18:00",
       "PIZAN TOSCANO, LUPE NERIDA",
-      "ELECTIVO"
+      "OCTAVO CICLO"
     ],
     [
       "CIB12",
@@ -5122,7 +5312,7 @@
       "MI",
       "16:00-18:00",
       "PIZAN TOSCANO, LUPE NERIDA",
-      "ELECTIVO"
+      "OCTAVO CICLO"
     ],
     [
       "CIB12",
@@ -5132,7 +5322,7 @@
       "VI",
       "14:00-16:00",
       "PIZAN TOSCANO, LUPE NERIDA",
-      "ELECTIVO"
+      "OCTAVO CICLO"
     ],
     [
       "CIB14",
@@ -5142,7 +5332,7 @@
       "SA",
       "8:00-10:00",
       "MENDOZA CARDENAS, FREDY",
-      "ELECTIVO"
+      "NOVENO CICLO"
     ],
     [
       "CIB14",
@@ -5152,7 +5342,7 @@
       "SA",
       "10:00-12:00",
       "MENDOZA CARDENAS, FREDY",
-      "ELECTIVO"
+      "NOVENO CICLO"
     ],
     [
       "CIB28",
@@ -5162,7 +5352,7 @@
       "MI",
       "14:00-16:00",
       "GAMARRA QUISPE, SEGUNDO",
-      "ELECTIVO"
+      "DECIMO CICLO"
     ],
     [
       "CIB28",
@@ -5172,7 +5362,7 @@
       "MI",
       "16:00-18:00",
       "GAMARRA QUISPE, SEGUNDO",
-      "ELECTIVO"
+      "DECIMO CICLO"
     ],
     [
       "EE225",
@@ -5182,7 +5372,7 @@
       "MA",
       "16:00-18:00",
       "PALMA GARCIA, MODESTO TOMAS",
-      "ELECTIVO"
+      "OCTAVO CICLO"
     ],
     [
       "EE225",
@@ -5192,7 +5382,7 @@
       "MI",
       "10:00-12:00",
       "PALMA GARCIA, MODESTO TOMAS",
-      "ELECTIVO"
+      "OCTAVO CICLO"
     ],
     [
       "EE235",
@@ -5202,7 +5392,7 @@
       "JU",
       "13:00-16:00",
       "CARRANZA AREVALO, MANUEL",
-      "ELECTIVO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE235",
@@ -5211,8 +5401,8 @@
       "T",
       "JU",
       "10:00-13:00",
-      "BRAVO BASALDUA",
-      "ELECTIVO"
+      "BRAVO BASALDUA, JAMES",
+      "SEPTIMO CICLO"
     ],
     [
       "EE316",
@@ -5222,7 +5412,7 @@
       "SA",
       "10:00-13:00",
       "ANTARA ARIAS, RONAL",
-      "ELECTIVO"
+      "DECIMO CICLO"
     ],
     [
       "EE316",
@@ -5230,9 +5420,9 @@
       "M",
       "P",
       "VI",
-      "18:00-20:00",
+      "20:00-22:00",
       "AGUILAR QUIROZ, RICARDO",
-      "ELECTIVO"
+      "DECIMO CICLO"
     ],
     [
       "EE336",
@@ -5242,7 +5432,7 @@
       "LU",
       "16:00-19:00",
       "YANQUE MONTUFAR, JUSTO",
-      "ELECTIVO"
+      "OCTAVO CICLO"
     ],
     [
       "EE336",
@@ -5252,7 +5442,7 @@
       "LU",
       "14:00-16:00",
       "YANQUE MONTUFAR, JUSTO / FARFAN",
-      "ELECTIVO"
+      "OCTAVO CICLO"
     ],
     [
       "EE344",
@@ -5262,7 +5452,7 @@
       "JU",
       "8:00-10:00",
       "CHACALIAZA HUAPAYA, LUIS",
-      "ELECTIVO"
+      "NOVENO CICLO"
     ],
     [
       "EE344",
@@ -5272,7 +5462,7 @@
       "JU",
       "10:00-12:00",
       "CHACALIAZA HUAPAYA, LUIS",
-      "ELECTIVO"
+      "NOVENO CICLO"
     ],
     [
       "EE346",
@@ -5282,7 +5472,7 @@
       "JU",
       "16:00-19:00",
       "HUAYLLASCO MONTALVA, CARLOS",
-      "ELECTIVO"
+      "NOVENO CICLO"
     ],
     [
       "EE346",
@@ -5292,7 +5482,27 @@
       "VI",
       "18:00-20:00",
       "MORENO CUEVA, CESAR",
-      "ELECTIVO"
+      "NOVENO CICLO"
+    ],
+    [
+      "EE360",
+      "GENERACIÓN DISTRIBUIDA Y REDES INTELIGENTES.",
+      "M",
+      "T",
+      "VI",
+      "19:00-22:00",
+      "PALMA GARCIA, MODESTO TOMAS",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE360",
+      "GENERACIÓN DISTRIBUIDA Y REDES INTELIGENTES.",
+      "M",
+      "P",
+      "SA",
+      "14:00-16:00",
+      "PALMA GARCIA, MODESTO TOMAS",
+      "DECIMO CICLO"
     ],
     [
       "EE376",
@@ -5302,7 +5512,7 @@
       "SA",
       "10;00-12;00",
       "ARROYO ARANA, CARLOS ALBERTO",
-      "ELECTIVO"
+      "DECIMO CICLO"
     ],
     [
       "EE376",
@@ -5312,7 +5522,7 @@
       "JU",
       "14:00-16:00",
       "VENTOSILLA ZEVALLOS, MOISES ODAVIO",
-      "ELECTIVO"
+      "DECIMO CICLO"
     ],
     [
       "EE385",
@@ -5322,7 +5532,7 @@
       "VI",
       "14:00-17:00",
       "SANDOVAL RODRIGUEZ, ALBERTO",
-      "ELECTIVO"
+      "DECIMO CICLO"
     ],
     [
       "EE387",
@@ -5332,7 +5542,7 @@
       "MA",
       "16:00-18:00",
       "ZORRILLA ACOSTA, JOSE ALBERTO",
-      "ELECTIVO"
+      "DECIMO CICLO"
     ],
     [
       "EE387",
@@ -5342,7 +5552,7 @@
       "MA",
       "18:00-20:00",
       "ZORRILLA ACOSTA, JOSE ALBERTO",
-      "ELECTIVO"
+      "DECIMO CICLO"
     ],
     [
       "EE469",
@@ -5352,7 +5562,7 @@
       "VI",
       "14:00-16:00",
       "BENITEZ PALACIOS, JOSE",
-      "ELECTIVO"
+      "DECIMO CICLO"
     ],
     [
       "EE469",
@@ -5362,7 +5572,7 @@
       "VI",
       "16:00-18:00",
       "BENITEZ PALACIOS, JOSE",
-      "ELECTIVO"
+      "DECIMO CICLO"
     ],
     [
       "EE469",
@@ -5372,7 +5582,7 @@
       "SA",
       "8:00-10:00",
       "GARRO MOREY, ARTURO EDUARDO",
-      "ELECTIVO"
+      "DECIMO CICLO"
     ],
     [
       "EE469",
@@ -5382,17 +5592,17 @@
       "SA",
       "10:00-12:00",
       "GARRO MOREY, ARTURO EDUARDO",
-      "ELECTIVO"
+      "DECIMO CICLO"
     ],
     [
       "EE479",
       "INSTRUMENTACIÓN Y EQUIPOS BIOMÉDICOS",
       "M",
       "T",
-      "MA",
-      "14:00-16:00",
-      "GUILLEN  SARAVIA, LEOPOLDO FRANCISO",
-      "ELECTIVO"
+      "MI",
+      "12:00-14:00",
+      "GUILLEN  SARAVIA, LEOPOLDO FRANCISCO",
+      "DECIMO CICLO"
     ],
     [
       "EE479",
@@ -5401,8 +5611,8 @@
       "P",
       "JU",
       "10:00-12:00",
-      "GUILLEN  SARAVIA, LEOPOLDO FRANCISO",
-      "ELECTIVO"
+      "GUILLEN  SARAVIA, LEOPOLDO FRANCISCO",
+      "DECIMO CICLO"
     ],
     [
       "EE508",
@@ -5412,7 +5622,7 @@
       "VI",
       "18:00-20:00",
       "LOPEZ TAFUR, MARCIAL ANTONIO",
-      "ELECTIVO"
+      "OCTAVO CICLO"
     ],
     [
       "EE508",
@@ -5422,7 +5632,7 @@
       "VI",
       "20:00-22:00",
       "LOPEZ TAFUR, MARCIAL ANTONIO",
-      "ELECTIVO"
+      "OCTAVO CICLO"
     ],
     [
       "EE548",
@@ -5432,7 +5642,7 @@
       "LU",
       "14:00-16:00",
       "TRONCOSO CASTRO, PAUL",
-      "ELECTIVO"
+      "DECIMO CICLO"
     ],
     [
       "EE548",
@@ -5442,7 +5652,7 @@
       "LU",
       "16:00-18:00",
       "TRONCOSO CASTRO, PAUL",
-      "ELECTIVO"
+      "DECIMO CICLO"
     ],
     [
       "EE585",
@@ -5450,19 +5660,19 @@
       "M",
       "T",
       "SA",
-      "14:00-16:00",
+      "16:00-18:00",
       "BEDRIÑANA ARONES, MANFRED FRITZ",
-      "ELECTIVO"
+      "OCTAVO CICLO"
     ],
     [
       "EE585",
       "TRANSITORIOS ELECTROMAGNETICOS EN SISTEMAS DE POTENCIA",
       "M",
       "L",
-      "SA",
-      "16:00-18:00",
+      "VI",
+      "15:00-17:00",
       "BEDRIÑANA ARONES, MANFRED FRITZ",
-      "ELECTIVO"
+      "OCTAVO CICLO"
     ],
     [
       "EE593",
@@ -5472,7 +5682,7 @@
       "MI",
       "16:00-19:00",
       "LOZANO SALAS, JULIO",
-      "ELECTIVO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE593",
@@ -5482,7 +5692,7 @@
       "MI",
       "19:00-21:00",
       "LOZANO SALAS, JULIO",
-      "ELECTIVO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE594",
@@ -5492,7 +5702,7 @@
       "MI",
       "16:00-18:00",
       "LOPEZ TAFUR, MARCIAL ANTONIO",
-      "ELECTIVO"
+      "OCTAVO CICLO"
     ],
     [
       "EE594",
@@ -5502,7 +5712,7 @@
       "MI",
       "18:00-20:00",
       "LOPEZ TAFUR, MARCIAL ANTONIO",
-      "ELECTIVO"
+      "OCTAVO CICLO"
     ],
     [
       "EE596",
@@ -5512,7 +5722,7 @@
       "VI",
       "18:00-20:00",
       "PATTRONI CHAVEZ,  ARMANDO",
-      "ELECTIVO"
+      "OCTAVO CICLO"
     ],
     [
       "EE596",
@@ -5522,7 +5732,7 @@
       "VI",
       "20:00-22:00",
       "PATTRONI CHAVEZ,  ARMANDO",
-      "ELECTIVO"
+      "OCTAVO CICLO"
     ],
     [
       "EE598",
@@ -5532,7 +5742,7 @@
       "LU",
       "18:00-20:00",
       "PATTRONI CHAVEZ,  ARMANDO",
-      "ELECTIVO"
+      "OCTAVO CICLO"
     ],
     [
       "EE598",
@@ -5542,7 +5752,7 @@
       "LU",
       "20:00-22:00",
       "PATTRONI CHAVEZ,  ARMANDO",
-      "ELECTIVO"
+      "OCTAVO CICLO"
     ],
     [
       "EE621",
@@ -5552,7 +5762,7 @@
       "MA",
       "19:00-22:00",
       "AQUIZE PALACIOS, RUBEN",
-      "ELECTIVO"
+      "OCTAVO CICLO"
     ],
     [
       "EE621",
@@ -5562,7 +5772,7 @@
       "JU",
       "18:00-20:00",
       "AQUIZE PALACIOS, RUBEN",
-      "ELECTIVO"
+      "OCTAVO CICLO"
     ],
     [
       "EE658",
@@ -5572,7 +5782,7 @@
       "SA",
       "10:00-12:00",
       "SANTILLAN RAMOS, OSCAR RAMIRO",
-      "ELECTIVO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE658",
@@ -5582,7 +5792,7 @@
       "SA",
       "12:00-14:00",
       "SANTILLAN RAMOS, OSCAR RAMIRO",
-      "ELECTIVO"
+      "SEPTIMO CICLO"
     ],
     [
       "EE672",
@@ -5592,7 +5802,7 @@
       "MA",
       "8:00-10:00",
       "GONZALES FIGUEROA, RENATO",
-      "ELECTIVO"
+      "OCTAVO CICLO"
     ],
     [
       "EE672",
@@ -5602,7 +5812,7 @@
       "MA",
       "10:00-12:00",
       "GONZALES FIGUEROA, RENATO",
-      "ELECTIVO"
+      "OCTAVO CICLO"
     ],
     [
       "EE672",
@@ -5612,7 +5822,7 @@
       "JU",
       "10:00-12:00",
       "GONZALES FIGUEROA, RENATO",
-      "ELECTIVO"
+      "OCTAVO CICLO"
     ],
     [
       "EE679",
@@ -5622,7 +5832,7 @@
       "LU",
       "18:00-20:00",
       "BAUTISTA RIOS, JUAN PABLO",
-      "ELECTIVO"
+      "DECIMO CICLO"
     ],
     [
       "EE679",
@@ -5632,7 +5842,7 @@
       "MI",
       "20:00-22:00",
       "BAUTISTA RIOS, JUAN PABLO",
-      "ELECTIVO"
+      "DECIMO CICLO"
     ],
     [
       "EE681",
@@ -5642,7 +5852,7 @@
       "MI",
       "10:00-12:00",
       "MORALES VILLANUEVA, AURELIO",
-      "ELECTIVO"
+      "OCTAVO CICLO"
     ],
     [
       "EE681",
@@ -5652,7 +5862,7 @@
       "VI",
       "8:00-10:00",
       "MORALES VILLANUEVA, AURELIO",
-      "ELECTIVO"
+      "OCTAVO CICLO"
     ],
     [
       "EE681",
@@ -5662,7 +5872,7 @@
       "VI",
       "10:00-12:00",
       "MORALES VILLANUEVA, AURELIO",
-      "ELECTIVO"
+      "OCTAVO CICLO"
     ],
     [
       "EE689",
@@ -5672,7 +5882,7 @@
       "JU",
       "18:00-20:00",
       "BARRIGA HOYLE, JAVIER",
-      "ELECTIVO"
+      "OCTAVO CICLO"
     ],
     [
       "EE689",
@@ -5682,27 +5892,67 @@
       "JU",
       "20:00-22:00",
       "BARRIGA HOYLE, JAVIER",
-      "ELECTIVO"
+      "OCTAVO CICLO"
     ],
     [
       "EE693",
       "SISTEMAS MICROELECTRONICOS INTEGRADOS",
       "M",
       "T",
-      "MI",
-      "18:00-20:00",
+      "SA",
+      "14:00-16:00",
       "ALARCON MATUTTI, RUBEN VIRGILIO",
-      "ELECTIVO"
+      "OCTAVO CICLO"
     ],
     [
       "EE693",
       "SISTEMAS MICROELECTRONICOS INTEGRADOS",
       "M",
       "L",
-      "MI",
-      "20:00-22:00",
+      "SA",
+      "12:00-14:00",
       "ALARCON MATUTTI, RUBEN VIRGILIO",
-      "ELECTIVO"
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE704",
+      "ENERGÍAS RENOVABLES",
+      "M",
+      "T",
+      "JU",
+      "18:00-21:00",
+      "MIREZ TARRILLO, JORGE",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE704",
+      "ENERGÍAS RENOVABLES",
+      "M",
+      "L",
+      "JU",
+      "20:00-22:00",
+      "AMARO PINAZO, MAURO",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE705",
+      "GENERACIÓN ELÉCTRICA CON ENERGIA SOLAR APLICADA",
+      "M",
+      "T",
+      "LU",
+      "20:00-22:00",
+      "ZAMALLOA LOPEZ ALFREDO",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE705",
+      "GENERACIÓN ELÉCTRICA CON ENERGIA SOLAR APLICADA",
+      "M",
+      "L",
+      "MA",
+      "20:00-22:00",
+      "ZAMALLOA LOPEZ ALFREDO",
+      "DECIMO CICLO"
     ],
     [
       "EE708",
@@ -5712,7 +5962,7 @@
       "MI",
       "14:00-16:00",
       "TRONCOSO CASTRO, PAUL",
-      "ELECTIVO"
+      "NOVENO CICLO"
     ],
     [
       "EE708",
@@ -5722,7 +5972,7 @@
       "MI",
       "16:00-18:00",
       "TRONCOSO CASTRO, PAUL",
-      "ELECTIVO"
+      "NOVENO CICLO"
     ],
     [
       "EE718",
@@ -5732,7 +5982,7 @@
       "LU",
       "18:00-20:00",
       "MACHUCA MINES, JOSE",
-      "ELECTIVO"
+      "DECIMO CICLO"
     ],
     [
       "EE718",
@@ -5742,7 +5992,7 @@
       "MI",
       "18:00-20:00",
       "MACHUCA MINES, JOSE",
-      "ELECTIVO"
+      "DECIMO CICLO"
     ],
     [
       "IP101",
@@ -5752,7 +6002,7 @@
       "VI",
       "14:00-16:00",
       "FERNANDEZ MALPARTIDA, WALTER MIGUEL",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "IP101",
@@ -5762,7 +6012,7 @@
       "VI",
       "16:00-18:00",
       "FERNANDEZ MALPARTIDA, WALTER MIGUEL",
-      "ELECTIVO"
+      "SEXTO CICLO"
     ],
     [
       "IT557",
@@ -5772,7 +6022,7 @@
       "MA",
       "14:00-16:00",
       "ATALAYA PISCO, CESAR AUGUSTO",
-      "ELECTIVO"
+      "DECIMO CICLO"
     ],
     [
       "IT557",
@@ -5782,7 +6032,67 @@
       "MA",
       "16:00-18:00",
       "ATALAYA PISCO, CESAR AUGUSTO",
-      "ELECTIVO"
+      "DECIMO CICLO"
+    ],
+    [
+      "BMA25",
+      "CRIPTOANALISIS",
+      "M",
+      "T",
+      "MA",
+      "10:00-12:00",
+      "NN",
+      "DECIMO CICLO"
+    ],
+    [
+      "BMA25",
+      "CRIPTOANALISIS",
+      "M",
+      "L",
+      "MA",
+      "12:00-14:00",
+      "NN",
+      "DECIMO CICLO"
+    ],
+    [
+      "CIB06",
+      "SEGURIDAD DE APLICACIÓN WEB",
+      "M",
+      "T",
+      "LU",
+      "8:00-10:00",
+      "NN",
+      "DECIMO CICLO"
+    ],
+    [
+      "CIB06",
+      "SEGURIDAD DE APLICACIÓN WEB",
+      "M",
+      "L",
+      "LU",
+      "10:00-12:00",
+      "NN",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE349",
+      "GESTION DE ENERGIA",
+      "M",
+      "T",
+      "JU",
+      "17:00-19:00",
+      "SANDOVAL RODRIGUEZ, ALBERTO",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE349",
+      "GESTION DE ENERGIA",
+      "M",
+      "P",
+      "JU",
+      "19:00-21:00",
+      "SANDOVAL RODRIGUEZ, ALBERTO",
+      "DECIMO CICLO"
     ]
   ]
 }
